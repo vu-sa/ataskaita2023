@@ -1,4 +1,7 @@
 import { defineConfig } from 'vitepress'
+import { sharedConfig } from './config/shared'
+import ltConfig from './config/lt'
+import enConfig from './config/en'
 
 // https://vitepress.dev/reference/site-config
 export default defineConfig({
@@ -6,24 +9,19 @@ export default defineConfig({
   description: "VU Studentų atstovybės metų veiklos ataskaita už 2022-2023 m. kadenciją.",
   themeConfig: {
     // https://vitepress.dev/reference/default-theme-config
-    nav: [
-      { text: 'Home', link: '/' },
-      { text: 'Examples', link: '/markdown-examples' }
-    ],
-
-    sidebar: [
-      {
-        text: 'Examples',
-        items: [
-          { text: 'Markdown Examples', link: '/markdown-examples' },
-          { text: 'Runtime API Examples', link: '/api-examples' }
-        ]
-      }
-    ],
-
-    socialLinks: [
-      { icon: 'facebook', link: 'https://github.com/vuejs/vitepress' },
-      { icon: 'instagram', link: '' },
-    ]
+    ...sharedConfig
+  },
+  locales: {
+    root: {
+      label: 'Lietuvių',
+      lang: 'lt',
+      ...ltConfig
+    },
+    en: {
+      label: 'English',
+      lang: 'en',
+      link: '/en',
+      ...enConfig
+    }
   }
 })
