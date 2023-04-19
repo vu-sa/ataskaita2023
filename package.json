@@ -1,0 +1,11 @@
+{
+  "devDependencies": {
+    "vitepress": "1.0.0-alpha.72",
+    "vue": "^3.2.47"
+  },
+  "scripts": {
+    "docs:dev": "vitepress dev ataskaita2023",
+    "docs:build": "vitepress build ataskaita2023",
+    "docs:preview": "vitepress preview ataskaita2023"
+  }
+}
