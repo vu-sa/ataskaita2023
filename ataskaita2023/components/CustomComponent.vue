@@ -1,15 +1,7 @@
 <template>
-    <div class="black full">Tekstas</div>
+    <div class="max-w-xl bg-black w-80">Tekstas</div>
 </template>
 
 <style>
-.black {
-    background-color: black;
-}
-
-.full {
-    width: 100%;
-    height: 100%;
-}
 
 </style>
