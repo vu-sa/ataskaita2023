@@ -13,5 +13,8 @@
     "docs:dev": "vitepress dev ataskaita2023",
     "docs:build": "vitepress build ataskaita2023",
     "docs:preview": "vitepress preview ataskaita2023"
+  },
+  "dependencies": {
+    "gsap": "^3.11.5"
   }
 }

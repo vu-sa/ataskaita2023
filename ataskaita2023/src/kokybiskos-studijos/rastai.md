@@ -1,9 +1,29 @@
 # Raštai
 
+<script setup lang="ts">
+import { gsap } from "gsap";
+import { ref } from "vue";
+
+const numberRef = ref(0);
+
+gsap.to(numberRef, {
+  value: 100,
+  duration: 1,
+  roundProps: "value",
+  onUpdate: () => console.log(numberRef.value),
+});
+</script>
+
+<div>{{ numberRef }}</div>
+
 <!-- TODO: meta tekstas -->
 <!-- TODO: nuorodos į failus -->
 
 ## Dėl užsieniečių teisinės padėties įstatymo pakeitimo projekto
+
+::: tip 📝 Nuoroda
+Skaityk raštą [čia](<https://vusa.lt/uploads/files/Raštai,%20pozicijos,%20dokumentai/2021-05-31,%20SR-I-21-11,%20Dėl%20mokslo%20ir%20studijų%20įstatymo%20nr.%20XI-242%2076,%2082,%2082(1)%20straipsnių%20pakeitimo%20ir%20papildymo%2082(2)%20straipsniu%20projekto.pdf>).
+:::
 
 Vilniaus universiteto Studentų atstovybė, kreipdamasi į LR Seimo Žmogaus
 teisių komitetą, išreiškė pastebėjimus ir pasiūlymus dėl užsieniečius
