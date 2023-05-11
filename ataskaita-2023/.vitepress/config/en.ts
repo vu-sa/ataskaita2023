@@ -47,15 +47,15 @@ export default {
         //                     { text: 'Research', link: '/en/kokybiskos-studijos/tyrimai' },
                         ]
                     },
-        //             {
-        //                 text: 'Strong organization',
-        //                 collapsed: true,
-        //                 items: [
-        //                     { text: 'VU SR projects', link: '/en/stipri-organizacija/vu-sa-projektai' },
-        //                     { text: 'VU SR process renewal', link: '/en/stipri-organizacija/projektu-atnaujinimas' },
-        //                     { text: 'Institutional Strengthening Fund', link: '/en/stipri-organizacija/isf' },
-        //                 ]
-        //             },
+                    {
+                        text: 'Strong organization',
+                        collapsed: true,
+                        items: [
+                            // { text: 'VU SR projects', link: '/en/stipri-organizacija/vu-sa-projektai' },
+                            { text: 'VU SR process renewal', link: '/en/stipri-organizacija/procesu-atnaujinimas' },
+                            // { text: 'Institutional Strengthening Fund', link: '/en/stipri-organizacija/isf' },
+                        ]
+                    },
         //             {
         //                 text: 'Sustainable university community',
         //                 link: '/en/darni-bendruomene/darni-bendruomene',
