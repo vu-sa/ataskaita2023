@@ -14,23 +14,23 @@ const ltConfig: LocaleSpecificConfig<DefaultTheme.Config> = {
         sidebarMenuLabel: 'Turinys',
         outline: {
             label: 'Šiame puslapyje...',
-        }
+        },
         // logo: '/img/logos/vusa.lin.hor.svg',
-        // nav: [
+        nav: [
         //     { text: 'Sveikinimai', link: '/sveikinimai' },
         //     { text: 'VU SA', link: '/vu-sa/vu-sa' },
         //     { text: 'Metų veiklos planas', link: '/mvp/mvp' },
-        //     { text: 'Strateginės kryptys', items: [
-        //         { text: 'Kokybiškos studijos ir joms pritaikyta aplinka', link: '/kokybiskos-studijos/nacionalinis' },
-        //         { text: 'Stipri organizacija', link: '/stipri-organizacija/vu-sa-projektai' },
-        //         { text: 'Darni universitetinė bendruomenė', link: '/darni-bendruomene/darni-bendruomene' },
-        //     ] },
+            { text: 'Strateginės kryptys', items: [
+                { text: 'Kokybiškos studijos ir joms pritaikyta aplinka', link: '/kokybiskos-studijos/rastai' },
+                { text: 'Stipri organizacija', link: '/stipri-organizacija/procesu-atnaujinimas' },
+                { text: 'Darni universitetinė bendruomenė', link: '/darni-bendruomene/darni-bendruomene' },
+            ] },
         //     { text: 'Bendruomenė', link: '/bendruomene' },
         //     { text: 'Padėka', link: '/padeka' },
 
-        // ],
+        ],
 
-        // sidebar: [
+        sidebar: [
         //     {
         //         text: 'VU SA ⭐️',
         //         items: [
@@ -47,42 +47,42 @@ const ltConfig: LocaleSpecificConfig<DefaultTheme.Config> = {
         //             { text: 'Tikslai padaliniuose', link: '/mvp/tikslai-padaliniuose' },
         //         ]
         //     },
-        //     {
-        //         text: 'Strateginių krypčių įgyvendinimas 🎯',
-        //         items: [
-        //             {
-        //                 text: 'Kokybiškos studijos ir joms pritaikyta aplinka',
-        //                 collapsed: true,
-        //                 items: [
-        //                     { text: 'Atstovavimas nacionaliniu lygmeniu ir miesto savivaldoje', link: '/kokybiskos-studijos/nacionalinis' },
-        //                     { text: 'Atstovavimas VU', link: '/kokybiskos-studijos/vu' },
-        //                     { text: 'Bendradarbiavimas', link: '/kokybiskos-studijos/bendradarbiavimas' },
-        //                     { text: 'Raštai', link: '/kokybiskos-studijos/rastai' },
-        //                     { text: 'Tyrimai', link: '/kokybiskos-studijos/tyrimai' },
-        //                 ]
-        //             },
-        //             {
-        //                 text: 'Stipri organizacija',
-        //                 collapsed: true,
-        //                 items: [
-        //                     { text: 'VU SA projektai', link: '/stipri-organizacija/vu-sa-projektai' },
-        //                     { text: 'Atstovavimas VU', link: '/stipri-organizacija/projektu-atnaujinimas' },
-        //                     { text: 'Institucinio stiprinimo fondas', link: '/stipri-organizacija/isf' },
-        //                     { text: 'Mokymų lentelė', link: '/stipri-organizacija/mokymu-lentele' }
-        //                 ]
-        //             },
-        //             {
-        //                 text: 'Darni universitetinė bendruomenė',
-        //                 link: '/darni-bendruomene/darni-bendruomene',
-        //                 collapsed: true,
-        //                 items: [
-        //                     { text: 'Bendruomenę buriantys renginiai', link: '/darni-bendruomene/renginiai' },
-        //                     { text: 'Studentų (-čių) integracija', link: '/darni-bendruomene/integracija' },
-        //                     { text: 'Programos, klubai ir projektai', link: '/darni-bendruomene/pkp' },
-        //                 ]
-        //             },
-        //         ]
-        //     },
+            {
+                text: 'Strateginių krypčių įgyvendinimas 🎯',
+                items: [
+                    {
+                        text: 'Kokybiškos studijos ir joms pritaikyta aplinka',
+                        collapsed: true,
+                        items: [
+                            // { text: 'Atstovavimas nacionaliniu lygmeniu ir miesto savivaldoje', link: '/kokybiskos-studijos/nacionalinis' },
+                            // { text: 'Atstovavimas VU', link: '/kokybiskos-studijos/vu' },
+                            // { text: 'Bendradarbiavimas', link: '/kokybiskos-studijos/bendradarbiavimas' },
+                            { text: 'Raštai', link: '/kokybiskos-studijos/rastai' },
+                            // { text: 'Tyrimai', link: '/kokybiskos-studijos/tyrimai' },
+                        ]
+                    },
+                    {
+                        text: 'Stipri organizacija',
+                        collapsed: true,
+                        items: [
+                            // { text: 'VU SA projektai', link: '/stipri-organizacija/vu-sa-projektai' },
+                            { text: 'Procesų atnaujinimas', link: '/stipri-organizacija/procesu-atnaujinimas' },
+                            // { text: 'Institucinio stiprinimo fondas', link: '/stipri-organizacija/isf' },
+                            // { text: 'Mokymų lentelė', link: '/stipri-organizacija/mokymu-lentele' }
+                        ]
+                    },
+                    // {
+                    //     text: 'Darni universitetinė bendruomenė',
+                    //     link: '/darni-bendruomene/darni-bendruomene',
+                    //     collapsed: true,
+                    //     items: [
+                    //         { text: 'Bendruomenę buriantys renginiai', link: '/darni-bendruomene/renginiai' },
+                    //         { text: 'Studentų (-čių) integracija', link: '/darni-bendruomene/integracija' },
+                    //         { text: 'Programos, klubai ir projektai', link: '/darni-bendruomene/pkp' },
+                    //     ]
+                    // },
+                ]
+            },
         //     {
         //         text: 'Dėkojame 💪',
         //         items: [
@@ -90,8 +90,7 @@ const ltConfig: LocaleSpecificConfig<DefaultTheme.Config> = {
         //             { text: 'Draugai ir ataskaitos projekto rengėjai', link: '/padeka' },
         //         ]
         //     }
-        // ],
-
+        ],
     }
 }
 

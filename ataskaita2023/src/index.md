@@ -27,4 +27,6 @@ features:
 import CustomComponent from '../components/CustomComponent.vue'
 </script>
 
+<!-- For number counters: https://codepen.io/phucbui/pen/QWEPOwJ -->
+
 <CustomComponent />
