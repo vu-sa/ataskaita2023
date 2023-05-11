@@ -16,7 +16,7 @@ export default {
 
         // ],
 
-        // sidebar: [
+        sidebar: [
         //     {
         //         text: 'VU SR ⭐️',
         //         items: [
@@ -33,20 +33,20 @@ export default {
         //             { text: 'Goals in VU SR units', link: '/en/mvp/tikslai-padaliniuose' },
         //         ]
         //     },
-        //     {
-        //         text: 'Implementation of strategic directions 🎯',
-        //         items: [
-        //             {
-        //                 text: 'High quality studies and their environment',
-        //                 collapsed: true,
-        //                 items: [
+            {
+                text: 'Implementation of strategic directions 🎯',
+                items: [
+                    {
+                        text: 'High quality studies and their environment',
+                        collapsed: true,
+                        items: [
         //                     { text: 'Representation in the national space and city government', link: '/en/kokybiskos-studijos/nacionalinis' },
         //                     { text: 'Representation at VU', link: '/en/kokybiskos-studijos/vu' },
         //                     { text: 'Cooperation', link: '/en/kokybiskos-studijos/bendradarbiavimas' },
-        //                     { text: 'Papers', link: '/en/kokybiskos-studijos/rastai' },
+                            { text: 'Papers', link: '/en/kokybiskos-studijos/rastai' },
         //                     { text: 'Research', link: '/en/kokybiskos-studijos/tyrimai' },
-        //                 ]
-        //             },
+                        ]
+                    },
         //             {
         //                 text: 'Strong organization',
         //                 collapsed: true,
@@ -66,8 +66,8 @@ export default {
         //                     { text: 'Programs, Clubs and Projects', link: '/en/darni-bendruomene/pkp' },
         //                 ]
         //             },
-        //         ]
-        //     },
+                ]
+            },
         //     {
         //         text: 'We give our thanks 💪',
         //         items: [
@@ -75,6 +75,6 @@ export default {
         //             { text: 'Friends and the report project team', link: '/en/padeka' },
         //         ]
         //     }
-        // ],
+        ],
     }
 }
