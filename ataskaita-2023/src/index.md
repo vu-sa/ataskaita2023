@@ -15,10 +15,19 @@ hero:
       link: /api-examples
 ---
 
-<script setup>
-import CustomComponent from '../components/CustomComponent.vue'
+<script setup lang="ts">
+import 'vue3-carousel/dist/carousel.css'
+import { Carousel, Slide, Pagination, Navigation } from 'vue3-carousel'
 </script>
 
-<!-- For number counters: https://codepen.io/phucbui/pen/QWEPOwJ -->
-
-<CustomComponent />
+<section class="lg:px-2 px-1.5 isolate">
+  <div class="max-w-6xl mx-auto">
+    <Carousel>
+      <Slide class="bg-red-400 h-80" v-for="slide in 10" :key="slide">1</Slide>
+      <template #addons>
+        <Navigation />
+        <Pagination />
+      </template>
+    </Carousel>
+  </div>
+</section>

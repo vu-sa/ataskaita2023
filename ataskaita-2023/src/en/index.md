@@ -14,9 +14,3 @@ hero:
       text: API Examples
       link: /api-examples
 ---
-
-<script setup>
-import CustomComponent from '../../components/CustomComponent.vue'
-</script>
-
-<CustomComponent />

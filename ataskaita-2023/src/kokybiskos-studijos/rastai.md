@@ -10,7 +10,7 @@ import NumberCounter from '../../components/NumberCounter.vue'
 ## Dėl užsieniečių teisinės padėties įstatymo pakeitimo projekto
 
 ::: tip 📝 Nuoroda
-Skaityk raštą [čia]()
+Skaityk raštą čia.
 :::
 
 Vilniaus universiteto Studentų atstovybė, kreipdamasi į LR Seimo Žmogaus
