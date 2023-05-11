@@ -18,8 +18,8 @@ const ltConfig: LocaleSpecificConfig<DefaultTheme.Config> = {
         // logo: '/img/logos/vusa.lin.hor.svg',
         nav: [
         //     { text: 'Sveikinimai', link: '/sveikinimai' },
-        //     { text: 'VU SA', link: '/vu-sa/vu-sa' },
-        //     { text: 'Metų veiklos planas', link: '/mvp/mvp' },
+            { text: 'Struktūros', link: '/vu-sa/strategija' },
+            { text: 'Tikslai', link: '/mvp/mvp' },
             { text: 'Strateginės kryptys', items: [
                 { text: 'Kokybiškos studijos ir joms pritaikyta aplinka', link: '/kokybiskos-studijos/rastai' },
                 { text: 'Stipri organizacija', link: '/stipri-organizacija/projektai' },
@@ -31,22 +31,23 @@ const ltConfig: LocaleSpecificConfig<DefaultTheme.Config> = {
         ],
 
         sidebar: [
-        //     {
-        //         text: 'VU SA ⭐️',
-        //         items: [
-        //             { text: 'Apie VU SA', link: '/vu-sa/vu-sa' },
-        //             { text: 'Parlamentas', link: '/vu-sa/parlamentas' },
-        //             { text: 'Taryba', link: '/vu-sa/taryba' },
-        //             { text: 'Revizijos komisija', link: '/vu-sa/revizijos-komisija' },
-        //         ]
-        //     },
-        //     {
-        //         text: 'Metų veiklos planas 📝',
-        //         items: [
-        //             { text: 'VU SA tikslai', link: '/mvp/mvp' },
-        //             { text: 'Tikslai padaliniuose', link: '/mvp/tikslai-padaliniuose' },
-        //         ]
-        //     },
+            {
+                text: 'VU SA struktūros',
+                items: [
+                    { text: 'Strategija', link: '/vu-sa/strategija' },
+                    { text: 'Parlamentas', link: '/vu-sa/parlamentas' },
+                    { text: 'Taryba', link: '/vu-sa/taryba' },
+                    { text: 'Institucinio stiprinimo fondas', link: '/vu-sa/isf' },
+                    { text: 'Revizijos komisija', link: '/vu-sa/revizijos-komisija' },
+                ]
+            },
+            {
+                text: 'Metų veiklos plano įgyvendinimas 📝',
+                items: [
+                    { text: 'Strateginiai tikslai', link: '/mvp/strateginiai' },
+                    { text: 'Padalinių tikslai', link: '/mvp/tikslai-padaliniuose' },
+                ]
+            },
             {
                 text: 'Strateginių krypčių įgyvendinimas 🎯',
                 items: [
@@ -54,9 +55,10 @@ const ltConfig: LocaleSpecificConfig<DefaultTheme.Config> = {
                         text: 'Kokybiškos studijos ir joms pritaikyta aplinka',
                         collapsed: true,
                         items: [
-                            // { text: 'Atstovavimas nacionaliniu lygmeniu ir miesto savivaldoje', link: '/kokybiskos-studijos/nacionalinis' },
-                            // { text: 'Atstovavimas VU', link: '/kokybiskos-studijos/vu' },
-                            // { text: 'Bendradarbiavimas', link: '/kokybiskos-studijos/bendradarbiavimas' },
+                            { text: 'Nacionalinis ir miesto savivaldoje atstovavimas', link: '/kokybiskos-studijos/nacionalinis-ir-miestas' },
+                            { text: 'Atstovavimas VU', link: '/kokybiskos-studijos/vu' },
+                            { text: 'Bendradarbiavimas', link: '/kokybiskos-studijos/bendradarbiavimas' },
+                            { text: 'Tarptautinis bendradarbiavimas', link: '/kokybiskos-studijos/tarptautinis' },
                             { text: 'Raštai', link: '/kokybiskos-studijos/rastai' },
                         ]
                     },
