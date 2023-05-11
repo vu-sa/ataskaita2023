@@ -67,20 +67,19 @@ const ltConfig: LocaleSpecificConfig<DefaultTheme.Config> = {
                         items: [
                             // { text: 'VU SA projektai', link: '/stipri-organizacija/vu-sa-projektai' },
                             { text: 'Procesų atnaujinimas', link: '/stipri-organizacija/procesu-atnaujinimas' },
-                            // { text: 'Institucinio stiprinimo fondas', link: '/stipri-organizacija/isf' },
-                            // { text: 'Mokymų lentelė', link: '/stipri-organizacija/mokymu-lentele' }
+                            { text: 'Institucinio stiprinimo fondas', link: '/stipri-organizacija/isf' },
                         ]
                     },
-                    // {
-                    //     text: 'Darni universitetinė bendruomenė',
-                    //     link: '/darni-bendruomene/darni-bendruomene',
-                    //     collapsed: true,
-                    //     items: [
-                    //         { text: 'Bendruomenę buriantys renginiai', link: '/darni-bendruomene/renginiai' },
-                    //         { text: 'Studentų (-čių) integracija', link: '/darni-bendruomene/integracija' },
-                    //         { text: 'Programos, klubai ir projektai', link: '/darni-bendruomene/pkp' },
-                    //     ]
-                    // },
+                    {
+                        text: 'Darni universitetinė bendruomenė',
+                        link: '/darni-bendruomene/iniciatyvos',
+                        collapsed: true,
+                        items: [
+                            { text: 'Iniciatyvos', link: '/darni-bendruomene/iniciatyvos' },
+                            { text: 'Studentų (-čių) integracija', link: '/darni-bendruomene/integracija' },
+                            { text: 'Programos, klubai ir projektai', link: '/darni-bendruomene/pkp' },
+                        ]
+                    },
                 ]
             },
         //     {
