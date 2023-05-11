@@ -1,20 +1,8 @@
 # Raštai
 
 <script setup lang="ts">
-import { gsap } from "gsap";
-import { ref } from "vue";
-
-const numberRef = ref(0);
-
-gsap.to(numberRef, {
-  value: 100,
-  duration: 1,
-  roundProps: "value",
-  onUpdate: () => console.log(numberRef.value),
-});
+import NumberCounter from '../../components/NumberCounter.vue'
 </script>
-
-<div>{{ numberRef }}</div>
 
 <!-- TODO: meta tekstas -->
 <!-- TODO: nuorodos į failus -->
@@ -22,7 +10,7 @@ gsap.to(numberRef, {
 ## Dėl užsieniečių teisinės padėties įstatymo pakeitimo projekto
 
 ::: tip 📝 Nuoroda
-Skaityk raštą [čia](<https://vusa.lt/uploads/files/Raštai,%20pozicijos,%20dokumentai/2021-05-31,%20SR-I-21-11,%20Dėl%20mokslo%20ir%20studijų%20įstatymo%20nr.%20XI-242%2076,%2082,%2082(1)%20straipsnių%20pakeitimo%20ir%20papildymo%2082(2)%20straipsniu%20projekto.pdf>).
+Skaityk raštą [čia]()
 :::
 
 Vilniaus universiteto Studentų atstovybė, kreipdamasi į LR Seimo Žmogaus
@@ -150,3 +138,7 @@ sąjunga teikė siūlymą dėl Valstybinio studijų fondo Valdybos sudarymo,
 reikalaudamos į VSF Valdybos sudėtį įtraukti du studentų atstovus. Po
 siūlymo pateikimo VU SA Prezidentė į VSF Valdybą buvo deleguota kaip
 Švietimo, mokslo ir sporto ministerijos atstovė.
+
+## Dėl studentų (-čių) praktikos organizavimo gerinimo
+
+Vilniaus universiteto Studentų atstovybė Lietuvos Respublikos Švietimo, mokslo ir sporto ministerijai bei Studijų kokybės vertinimo centrui teikė siūlymus studentų (-čių) praktikos organizavimo situacijai Lietuvoje gerinti. Buvo siūloma atlikti išsamią praktikų kokybės stebėseną ir teikti rekomendacijas aukštosioms mokykloms nuolatinei praktikų kokybei gerinti bei užtikrinti, kad aukštosios mokyklos būtų įsipareigojusios kompensuoti studentų patirtas išlaidas praktikos metu.  

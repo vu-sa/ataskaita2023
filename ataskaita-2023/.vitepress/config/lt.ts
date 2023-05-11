@@ -22,10 +22,10 @@ const ltConfig: LocaleSpecificConfig<DefaultTheme.Config> = {
         //     { text: 'Metų veiklos planas', link: '/mvp/mvp' },
             { text: 'Strateginės kryptys', items: [
                 { text: 'Kokybiškos studijos ir joms pritaikyta aplinka', link: '/kokybiskos-studijos/rastai' },
-                { text: 'Stipri organizacija', link: '/stipri-organizacija/procesu-atnaujinimas' },
+                { text: 'Stipri organizacija', link: '/stipri-organizacija/projektai' },
                 { text: 'Darni universitetinė bendruomenė', link: '/darni-bendruomene/darni-bendruomene' },
             ] },
-        //     { text: 'Bendruomenė', link: '/bendruomene' },
+            { text: 'Bendruomenė', link: '/bendruomene' },
         //     { text: 'Padėka', link: '/padeka' },
 
         ],
@@ -58,14 +58,14 @@ const ltConfig: LocaleSpecificConfig<DefaultTheme.Config> = {
                             // { text: 'Atstovavimas VU', link: '/kokybiskos-studijos/vu' },
                             // { text: 'Bendradarbiavimas', link: '/kokybiskos-studijos/bendradarbiavimas' },
                             { text: 'Raštai', link: '/kokybiskos-studijos/rastai' },
-                            // { text: 'Tyrimai', link: '/kokybiskos-studijos/tyrimai' },
                         ]
                     },
                     {
                         text: 'Stipri organizacija',
                         collapsed: true,
                         items: [
-                            // { text: 'VU SA projektai', link: '/stipri-organizacija/vu-sa-projektai' },
+                            { text: 'Projektai', link: '/stipri-organizacija/projektai' },
+                            { text: 'Tyrimai ir analizės', link: '/stipri-organizacija/tyrimai' },
                             { text: 'Procesų atnaujinimas', link: '/stipri-organizacija/procesu-atnaujinimas' },
                             { text: 'Institucinio stiprinimo fondas', link: '/stipri-organizacija/isf' },
                         ]
@@ -82,13 +82,13 @@ const ltConfig: LocaleSpecificConfig<DefaultTheme.Config> = {
                     },
                 ]
             },
-        //     {
-        //         text: 'Dėkojame 💪',
-        //         items: [
-        //             { text: 'VU SA bendruomenė', link: '/bendruomene' },
-        //             { text: 'Draugai ir ataskaitos projekto rengėjai', link: '/padeka' },
-        //         ]
-        //     }
+            {
+                text: 'Dėkojame 💪',
+                items: [
+                    { text: 'VU SA bendruomenė', link: '/bendruomene' },
+                    { text: 'Draugai ir ataskaitos projekto rengėjai', link: '/padeka' },
+                ]
+            }
         ],
     }
 }

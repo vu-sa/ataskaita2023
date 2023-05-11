@@ -1,57 +1,74 @@
 # Studentų integracija
 
-## VU SA Pirmo kurso studentų (-čių) integracijos į Universitetą tyrimas (pirma dalis)
+<!-- TODO: pridėti nuotraukų -->
 
-Tyrimo tikslas: Šiuo tyrimu siekta išsiaiškinti Universiteto ir VU SA
-vykdomų veiklų efektyvumą bei įsitraukimą į sėkmingą pirmakursių
-integraciją.
+## Kuratorių (mentorių) programa
 
-Kas buvo tiriama: Pirmo kurso BA ir MA, tiek vietinių, tiek užsienio,
-studentų (-čių) integracijos į Universitetą sėkmingumas
+*Kuratorių programa* -- nuo 2000 m. VU SA vykdoma programa, sukurta tam,
+kad pirmo kurso studentai (-ės) galėtų efektyviai integruotis į
+Universiteto bendruomenę bei susipažinti su studijų proceso tvarka. Šios
+programos dalyviai (-ės) -- kuratoriai (-ės) -- specialius mokymus
+išklausę vyresnių kursų studentai (-ės), padedantys savo kuruojamos
+grupės pirmo kurso studentams (-ėms) integracijos proceso laikotarpiu.
 
-Tyrimas atliktas: 2022 m. spalio 3--30 d.
+Ši programa jau trečius metus plečia veiklos lauką ir papildomai yra
+orientuojama į pirmo kurso magistro studijų pakopos studentus (-es) bei
+nuolatinių studijų studentus (-es) iš užsienio, kuriems į bendruomenę
+įsilieti taip, kaip ir pirmo kurso bakalauro studijų pakopos studentams
+(-ėms), padeda specialius mokymus išklausę kuratoriai (-ės) ir
+(mentoriai (-ės).
 
-Svarbiausios tyrimo išvados:
+Šiemet kuratorių programoje veikė virš 300 kuratorių, kurie rūpinosi
+studentų (-čių) integracija į Universitetą bei prisidėjo prie
+pirmakursių stovyklų, rugsėjo pirmosios eisenos, integracijos savaitės
+ir kitų metų eigoje vyksiančių renginių įgyvendinimo, supažindino pirmo
+kurso studentus (-es) su studijomis, jų aplinka.
 
-1. Atliktas tyrimas parodė, kad **61 proc. dalyvavusių** VU #StudentAUK
-2022 veiklose studentų (-čių) jaučiasi universiteto dalimi, tuo tarpų
-tik iš visų **nedalyvavusių** šiose veiklose studentų (-čių) tik tik
-**47 proc.** jaučiasi universiteto bendruomenės dalimi. Dėl to būtina
-sukurti erdvę ir galimybes pirmakursiams (-ėms) pažinti ne tik savo
-padalinį, bet ir Universitetą - tam reikia visų padalinių lankstumo ir
-iš anksto pasirengto ir logistiškai apdėlioto integracijos veiklų
-tinklelio.
-2. Visų apklaustųjų duomenimis, vu.lt puslapyje nesilanko tik 10 proc.
-studentų (-čių), o tuo tarpu net 64 proc. pažymėjo, kad nesilanko
-studentauk.vu.lt puslapyje, 58 proc. nesilanko vusa.lt puslapyje, nors
-ir studentauk.vu.lt ir vusa.lt puslapius vertina, kaip naudingus
-(daugiau nei 50 proc. pažymėjo, kad puslapis "Naudingas" ir "Labai
-naudingas"). Tyrimas taip pat parodė, kad informacijos juos studentai
-(-tės) ieškojo įstojus ir pirmąją studijų savaitę. Todėl
-studentauk.vu.lt puslapį svarbu įtraukti į **VU pagrindinio puslapio
-(vu.lt) polapius/ informacinę juostą**, taip pat sukurti nuorodas į VU
-SA puslapius, kad studentai (-ės) galėtų lengviau naviguoti ir pasiekti
-jiems (-oms) aktualią informaciją iš patikimų šaltinių;
-3. Lyginant pirmakursių integracijos tyrimų duomenis pastaruosius
-penkerius metus, pastebima, kad studentų (-čių) jausena universitete
-prastėja: 2018 m. iš visų apklaustųjų, 82 proc. žymėjo, kad universitete
-jaučiasi "gerai" ir "labai gerai", tuo tarpu 2022 m. "gerai" ir "labai
-gerai" besijaučiančių pirmo kurso studentų (-čių) yra tik 75 proc.
-Būtina atkreipti dėmesį į **prastėjančią studentų (-čių) jauseną**,
-išsiaiškinti jos priežastis bei skirti daugiau dėmesio jos gerinimui;
-4. 59 proc. visų apklaustųjų buvo baigę mokyklą didmiesčiuose, 28 proc.
-kituose miesto/rajono centruose ir tik 11 proc. kaimo/rajono vietovėje,
-tuo tarpu pirmakursių stovykloje dėl didelės stovyklos kainos
-daugiausiai negalėjusių dalyvauti yra būtent iš kaimo/rajono vietovės
-(25 proc.). Baigusių mokyklą didmiestyje 15 proc., kituose miesto/rajono
-centruose 18 proc. Respondentų, kurie nedalyvavo pirmakursių stovyklose,
-kaip to priežastį žymėjo didelę stovyklos kainą. Siekiant užtikrinti
-pirmakursių stovyklų prieinamumą, būtina užtikrinti didesnį stovyklų
-išorinį finansavimą bei kurti daugiau finansinės pagalbos priemonių
-studentams (-ėms) nuo pat studijų pradžios universitete.
-5. Iš 11 proc. BA pirmakursių studentų pažymėjusių, jog studijuoja ne
-pirmą kartą, net 48 proc. žymėjo, kad prieš tai studijavo Vilniaus
-universitete, todėl studijų nutraukimo metu būtina skirti daugiau
-dėmesio studentų (-čių) konsultacijoms dėl galimybių pasikeisti
-padalinį, studijų programą, studijų kryptį pačiame Vilniaus
-universitete.
+## Pirmakursių stovyklos
+
+Šiemet VU SA, po keleto metų dėl pandemijos situacijos organizuotų
+kitokio pobūdžio pirmakusių stovyklų, vėl grąžino išvažiuojamąsias
+pirmakursių stovyklas. Jos orientuotos į pirmo kurso studentų (-čių)
+integracijos į Universitetą proceso pradžios etapą - pirmakursių
+stovyklų organizavimo tradicija yra tęsiama nuo 2000 m. Rugpjūčio
+mėnesį, prieš prasidedant studijoms Vilniaus universitete, buvo
+suorganizuota 15 pirmakursių stovyklų, kuriose dalyvavo daugiau nei 1100
+būsimų VU studentų (-čių). Stovyklų metu pirmakursiai
+(-ės) susipažino su Universitetu ir universitetine kultūra, dėstytojais
+(-omis), alumnais (-ėmis) bei padalinių administracijomis, sužinojo
+bazinę informaciją apie studijų procesą ir studijų aplinką. Taip pat
+buvo pristatytos VU SA veiklos sritys, programos, klubai ir projektai
+bei kitos Universitete veikiančios studentiškos organizacijos ir
+studentų (-čių) galimybės Universitete.
+
+Rugsėjo mėnesį buvo suorganizuotos 2 pirmakursių stovyklos anglų kalba,
+taip sukuriant galimybę užsienio studentams (-ėms) užtikrinti sklandžią
+studijų pradžios patirtį, tolygią kaip ir vietiniams studentams (-ėms).
+
+## VU SA integracijos festivalis „Ad Astra"
+
+Jau trečius metus iš eilės į rugsėjį žengėme lydimi VU SA kartu su
+Universitetu organizuojamo integracijos festivalio, skirto ne tik
+Universiteto bendruomenei, bet ir visam Vilniaus miestui. Jo metu VU SA,
+tęsdama tradiciją, rugpjūčio 31 d. suorganizavo diskusijas lietuvių bei
+anglų kalbomis, socialinėmis, lygių galimybių, mokslinėmis ir su
+studijomis susijusiomis temomis. Savo mintis jose reiškė VU bendruomenės
+nariai (-ės), mokslininkai (-ės) bei visuomenės atstovai (-ės). Tuo
+pačiu metu skirtinguose VU Centrinių rūmų kiemeliuose vyko interaktyvios
+dirbtuvės. Diskusijų pabaigoje studentai (-ės) interaktyviais būdais
+susipažino su įvairiomis studentiškomis organizacijomis bei saviraiškos
+galimybėmis veikiančių organizacijų bei VU SA programų, klubų, projektų
+mugėje. Baigiamasis renginio akcentas -- bendruomenės koncertas VU
+Didžiajame kieme.
+
+## Rugsėjo 1-osios VU bendruomenės eisena
+
+Šių metų rugsėjo 1 d. nuo Lietuvos Respublikos Seimo iki VU Didžiojo
+kiemo vyko tradicinė VU bendruomenės eisena, kurią kaip ir kasmet
+organizavo VU SA. Šioje eisenoje dalyvavo daugiau nei 4000 VU
+bendruomenės narių, pasipuošusių skirtingais padalinių atributais,
+nešusių įspūdingas dekoracijas bei garsiai per visą Gedimino prospektą
+skandavusių tradicinius padalinių šūkius. Eisenai pasiekus VU Didįjį
+kiemą, mokslo metų pradžios proga visus (-as) bendruomenės narius (-es)
+sveikino VU SA prezidentė Neda Žutautaitė ir VU rektorius prof. Rimvydas
+Petrauskas.
