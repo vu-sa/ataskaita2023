@@ -12,14 +12,14 @@
  * -------------------------------------------------------------------------- */
 
 :root {
-  --vp-c-brand: #e7a218;
-  --vp-c-brand-light: #f0b43d;
-  --vp-c-brand-lighter: #e1c07d;
+  --vp-c-brand: #fbad13;
+  --vp-c-brand-light: #efb134;
+  --vp-c-brand-lighter: #dbaf56;
   --vp-c-brand-lightest: #f2daa7;
   --vp-c-brand-dark: #e28718;
-  --vp-c-brand-darker: #ce7f18;
+  --vp-c-brand-darker: #b86e0d;
   --vp-c-brand-dimm: rgba(255, 224, 100, 0.08);
-  --vp-c-brand-alternate: #bd2834dd;
+  --vp-c-brand-alternate: #b5333edd;
 }
 
 /**

@@ -8,11 +8,8 @@ hero:
   tagline: "VU SA ataskaita už 2022-2023 m."
   actions:
     - theme: brand
-      text: Skaityti!
+      text: Skaityti
       link: /vu-sa/strategija
-    # - theme: alt
-    #   text: API Examples
-    #   link: /api-examples
 ---
 
 <!-- TODO: koks yra pats pirmas CTA nunešamas puslapis? -->
@@ -22,6 +19,8 @@ import 'vue3-carousel/dist/carousel.css'
 import { Carousel, Slide, Pagination, Navigation } from 'vue3-carousel'
 import TestimonialElement from "../components/TestimonialElement1.vue";
 import NumberStatistic from "../components/NumberStatistic.vue";
+import ElementWithBg from "../components/ElementWithBg.vue";
+
 </script>
 
 <section class="lg:px-2 px-1.5 isolate mb-8">
@@ -33,7 +32,7 @@ import NumberStatistic from "../components/NumberStatistic.vue";
         <p class="text-sm font-bold">Neda Žutautaitė</p>
         <p class="opacity-80 text-sm">VU SA prezidentė</p>
       </figcaption>
-      <video autoplay controls muted class="md:w-1/2 mx-auto rounded-lg order-1 md:order-2 z-20">
+      <video playsinline autoplay controls muted class="md:w-1/2 mx-auto rounded-lg order-1 md:order-2 z-20 shadow-lg">
         <source src="/ataskaita-2023/video/Nedos-kalba.mp4" type="video/mp4">
         Your browser does not support the video tag.
       </video>
@@ -47,7 +46,7 @@ import NumberStatistic from "../components/NumberStatistic.vue";
 
 <section class="lg:px-2 px-1.5 isolate my-12">
   <div class="max-w-6xl mx-auto">
-    <div class="mx-auto w-fit text-4xl font-bold">VU SA – tai:</div>
+    <p class="mx-auto w-fit text-4xl font-bold">VU SA – tai:</p>
     <div class="flex flex-col md:flex-row my-12 mx-auto justify-center gap-8">
       <NumberStatistic :end-number="34">metai Vilniaus Universiteto studentų (-čių atstovavimo)</NumberStatistic>
       <NumberStatistic :end-number="15">VU SA padalinių 3 miestuose</NumberStatistic>
@@ -59,7 +58,7 @@ import NumberStatistic from "../components/NumberStatistic.vue";
 
 <section class="lg:px-2 px-1.5 isolate">
   <div class="max-w-6xl mx-auto">
-    <Carousel :transition="600" :autoplay="4500" pause-autoplay-on-hover>
+    <Carousel :transition="600" :autoplay="4500" pause-autoplay-on-hover wrap-around>
       <Slide :index="0">
         <TestimonialElement class="p-4" img-src="/ataskaita-2023/img/sveikinimai/rektorius.jpg" person-name="prof. Rimvydas Petrauskas" person-position="Vilniaus universiteto Rektorius" href="/sveikinimai" button-text="Sveikinimo kalba">
         Sveikinu Vilniaus universiteto Studentų atstovybę, kuri prisiima pareigą
@@ -139,5 +138,37 @@ import NumberStatistic from "../components/NumberStatistic.vue";
         <Pagination />
       </template>
     </Carousel>
+  </div>
+</section>
+
+<section class="lg:px-2 px-4 isolate mt-16">
+    <p class="mx-auto w-fit text-4xl font-bold my-8">Metų <span class="italic">highlightai</span></p>
+  <div class="max-w-5xl mx-auto grid grid-cols-1 lg:grid-cols-2 gap-7">
+    <ElementWithBg class="h-[21rem]" img-src="/ataskaita-2023/img/renginiai/biblioteka/FC0BE34F-EA5F-43D7-A5C4-4BDB81CFD4D1.jpg" :color-classes="['bg-[rgba(60,12,6,0.95)] dark:bg-zinc-900/90']">
+      <template #title>1. Individualios studijos</template>
+      <p class="mb-4">2022 m. birželio 21 d. VU Senate patvirtinti <strong>nauji Studijų nuostatai</strong>, kurie įtvirtino individualiąsias studijas. </p>
+      <p class="mb-4">Kiekviename bakalauro programų studijų programų komitete atnaujinti studijų programų planai. Teikti pasiūlymai akademinio studentų konstulavimo sistemai individualių studijų kontekste. </p>
+      <p> Nuo 2023 m. į bakalauro, vientisąsias studijas ...</p>
+    </ElementWithBg>
+    <ElementWithBg class="h-[21rem]" img-src="/ataskaita-2023/img/renginiai/tvarumo-festivalis/_DSC0255.jpg" :color-classes="['bg-[rgba(60,45,17,0.98)] dark:bg-zinc-900/90']">
+      <template #title>2. Studentų (-čių) skatinimas kurti savo iniciatyvas</template>
+      <p class="mb-4">Aplinka, kurioje studentai (-ės) gali kurti savo iniciatyvas ir atrasti sau artimą bendruomenę – visuomet buvo viena iš mūsų svarbiausių temų. Per šiuos metus užbaigtas ECSTRA projektas. </p>
+      <p> Sukurta VU SA paramos ir skatinimo sistema iniciatyvų kūrimui ir plėtojimui. Teikti pasiūlymai neformaliu būdu įgytų ... </p>
+    </ElementWithBg>
+    <ElementWithBg class="h-[21rem]" img-src="/ataskaita-2023/img/renginiai/gimtadienis/Gabija_Matkutė_VUSA_(95).jpg" :color-classes="['bg-[rgba(38,25,17,0.95)] dark:bg-zinc-800/90']">
+      <template #title>3. Užsienio studentai (-ės) – lygiaverčiai (-tės) bendruomenės nariai (-ės)</template>
+      <p class="mb-4">Tarptautiškumo svarba Universitete vis didėja. Užsienio studentų (-čių) skaičius – auga.</p>
+      <p> Siekdami gerinti užsienio studentų (-čių) patirtį Vilniaus universitete rūpinomės jų integracija tiek organizuojant... </p>
+    </ElementWithBg>
+    <ElementWithBg class="h-[21rem]" img-src="/ataskaita-2023/img/renginiai/gimtadienis/Gabija_Matkutė_VUSA_(193).jpg" :color-classes="['bg-[rgba(24,39,17,0.95)] dark:bg-neutral-900/90']">
+      <template #title>4. Žalias universitetas</template>
+      <p class="mb-4">Rudenį Organizacijoje su kiekvieno (-os) VU SA nario (-ės) įsipareigojimu savo veikla prisidėti prie Žalio universiteto kūrimo bei žalumo principų integravimo ne tik Organizacijos rėmuose, bet ir visame Universitete, pasirašėme Tvarumo deklaraciją. </p>
+      <p>VU SA Tvarumo deklaracija ir kaip mūsų strateginis susitarimas patvirtinta VU SA Parlamente. O dar svarbiau – Žalio universiteto tema pagaliau ėmė skambėti koridoriuose...</p>
+    </ElementWithBg>
+    <ElementWithBg class="lg:col-span-2 lg:w-1/2 mx-auto h-[21rem]" img-src="/ataskaita-2023/img/renginiai/pavasario-mokymai/IMG_7243.jpg" :color-classes="['bg-gradient-to-tr from-[rgba(48,39,17,0.95)] to-[rgba(60,12,6,0.95)] dark:bg-slate-900/90']">
+      <template #title>5. Iniciatyva „Aukštasis mokslas nėra PER aukštai“ </template>
+      <p class="mb-4">Iniciatyvos metu buvo suburtas 48 studentų (-čių) ambasadorių tinklas. Studentai (-ės) ambasadoriai (-ės) nuvyko į 22 regionines  mokyklas, kuriose susitiko su moksleiviais (-ėmis) ir pasakojo apie aukštojo mokslo galimybes. Iš viso susitikimuose dalyvavo 771 moksleivis (-ė). </p>
+      <p> Kartu su Lietuvos Respublikos Švietimo, mokslo ir sporto ... </p>
+    </ElementWithBg>
   </div>
 </section>
