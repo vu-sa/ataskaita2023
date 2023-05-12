@@ -50,7 +50,7 @@ development of critical thinking, reasoning, English language, and
 public speaking skills, and representing Vilnius University in debate
 tournaments.
 
-In 2022--2023, VU Debating Club successfully continued and developed its
+In 2022–2023, VU Debating Club successfully continued and developed its
 activities. The team, which was formed last year, consolidated the
 conduct of the debate session every week, expanded and updated the list
 of members, and developed competencies. The efforts made brought good
@@ -107,7 +107,7 @@ In 2022-2023, not only observations of intermediate settlements and
 exams took place, but also a review and refinement of the direction of
 activity of the \"Sąžiningai\" program. During the VU SR Council
 meeting, a decision was made to activate the activities of the program
--- to promote not only greater involvement of students in the monitoring
+– to promote not only greater involvement of students in the monitoring
 of settlements, but also to strengthen the implementation and
 dissemination of the culture of academic ethics at the University.
 
@@ -202,7 +202,7 @@ guests from the Bank of Lithuania.
 This year, VU SIF made investment decisions and participated in tenders,
 and the investment portfolio was expanded to 12 positions (acquisitions
 can be found on the Facebook account). Also, VU SIF expanded the range
-of rubrics in social networks and entered the "Tik Tok" platform --
+of rubrics in social networks and entered the "Tik Tok" platform –
 playful educational rubrics are raised there, and podcasts are
 successfully returned. The guest of the last podcast is Martas
 Tankevičius. A new podcast with VU SIF alumni Justas Daujotas will be
@@ -443,7 +443,7 @@ Lukoševičius and Olivija Grudytė.
 
 The mission of VU Photoclub is to foster and mature the diversity and
 creativity of students by using one of the most charming art directions
--- photography. However, this academic year, we realized that our
+– photography. However, this academic year, we realized that our
 mission is also inseparable from constant cooperation with Vilnius
 University – we got the opportunity to provide photography services to
 a huge variety of programs, clubs, projects and were able to capture the
@@ -463,7 +463,7 @@ everywhere and always. As the spring semester draws to a close, we
 don\'t even know where to put the photos captured during this year
 alone, as our caches are constantly filling up. We recorded the
 activities of almost every club and project, as well as the performances
-of the collectives of the VU Cultural Center. As they say in English --
+of the collectives of the VU Cultural Center. As they say in English –
 \"sharing is caring\". Guided by this thought, we organized two open
 training courses on the basics of photography for the VU community.
 

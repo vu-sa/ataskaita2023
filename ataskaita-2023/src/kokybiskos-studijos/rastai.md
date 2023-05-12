@@ -4,9 +4,6 @@
 import NumberCounter from '../../components/NumberCounter.vue'
 </script>
 
-<!-- TODO: meta tekstas -->
-<!-- TODO: nuorodos į failus -->
-
 ## Dėl užsieniečių teisinės padėties įstatymo pakeitimo projekto
 
 ::: tip 📝 Nuoroda

@@ -12,7 +12,7 @@ nariai, renkami VU SA ataskaitinėje-rinkiminėje konferencijoje.
 - Gabija Platakytė
 - Justinas Brazaitis (pareigas vykdė iki 2023-02)
 
-2022--2023 m. Revizijos komisija patobulino
+2022–2023 m. Revizijos komisija patobulino
 [VU SA veiklos vertinimo metodiką](https://vustudentuatstovybe.sharepoint.com/:b:/s/vieningai/Eauwrle_8wBGo5zlv86aqsMB90VgEIJEwryxZCWbOCKEyA?e=KfIbUw)
 ir pagal ją atliko organizacijos veiklos vertinimą. Ataskaitiniu
 laikotarpiu įvyko 2 atviri Revizijos komisijos posėdžiai ir 8 uždari

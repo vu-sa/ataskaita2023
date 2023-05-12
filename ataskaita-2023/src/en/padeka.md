@@ -2,17 +2,17 @@
 outline: deep
 ---
 
-<!-- <script setup lang="ts">
+<script setup lang="ts">
 import logos from "../../data/friendLogos.ts";
-</script> -->
+</script>
 
 # We give our thanks
 
 ## Friends
 
-<!-- <div class="flex flex-wrap gap-6">
+<div class="flex flex-wrap gap-6">
   <img class="object-contain" v-for="image in logos" :key="image" :src="image" width="150" />
-</div> -->
+</div>
 
 ## VU SR 2022–2023 report project team
 

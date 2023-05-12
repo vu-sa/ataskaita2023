@@ -38,19 +38,17 @@
 </template>
 
 <script setup lang="ts">
-import { NTimeline, NTimelineItem, type TimelineItemProps } from "naive-ui";
-
 const props = defineProps<{
   items: {
-    title: TimelineItemProps["title"];
-    content?: TimelineItemProps["content"];
+    title: string;
+    content?: string;
     // get type from NTImelineItem
-    type: TimelineItemProps["type"];
+    type: string;
   }[];
   english?: boolean;
 }>();
 
-const computeTitle = (type: TimelineItemProps["type"], index: number) => {
+const computeTitle = (type: string, index: number) => {
   let title = "";
 
   switch (type) {
@@ -58,20 +56,20 @@ const computeTitle = (type: TimelineItemProps["type"], index: number) => {
       title = "bus vykdoma";
       break;
     case "success":
-      title = "įvykdyta";
+      title = "įgyvendinta";
       break;
     case "warning":
-      title = "vykdoma";
+      title = "įgyvendinama";
       break;
     case "error":
-      title = "atsisakyta";
+      title = "neįgyvendinta";
       break;
   }
 
   return `${index + 1} uždavinys: ${title}`;
 };
 
-const computeEnTitle = (type: TimelineItemProps["type"], index: number) => {
+const computeEnTitle = (type: string, index: number) => {
   let title = "";
 
   switch (type) {

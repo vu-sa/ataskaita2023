@@ -1,5 +1,7 @@
 # VU SR Parliament
 
+![Parlamentas](../../public/img/bendros-nuotraukos/Parlamentas.jpg)
+
 The VU SR Parliament was chaired by Justas Kvedaravičius.
 
 In 2022 - 2023, the VU SR Parliament consisted of:

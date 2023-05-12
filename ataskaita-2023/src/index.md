@@ -6,13 +6,18 @@ hero:
   name: "VU SA ataskaita"
   text: "už 2022-2023 m."
   tagline: "VU SA ataskaita už 2022-2023 m."
+  image:
+    light:
+      src: ./img/logos/vusa.RGB.b.png
+      alt: VU SA
+    dark: 
+      src: ./img/logos/vusa.RGB.w.png
+      alt: VU SA
   actions:
     - theme: brand
       text: Skaityti
       link: /vu-sa/strategija
 ---
-
-<!-- TODO: koks yra pats pirmas CTA nunešamas puslapis? -->
 
 <script setup lang="ts">
 import 'vue3-carousel/dist/carousel.css'
@@ -36,12 +41,12 @@ import { biuras } from "../data/bendruomene.ts";
           <p class="opacity-80 text-sm">VU SA prezidentė</p>
         </PersonAvatar>
       </figcaption>
-      <video playsinline autoplay controls muted class="md:w-1/2 mx-auto rounded-lg order-1 md:order-2 z-20 shadow-lg">
-        <source src="/ataskaita-2023/video/Nedos-kalba.mp4" type="video/mp4">
+      <video playsinline autoplay controls muted class="md:w-1/2 mx-auto rounded-lg order-1 md:order-2 z-20 shadow-lg h-full object-cover">
+        <source src="/video/Nedos-kalba.mp4" type="video/mp4">
         Your browser does not support the video tag.
       </video>
     </figure>
-    <svg class="absolute w-32 h-32 text-[#bd28344a] dark:text-zinc-300/20 -left-12 -bottom-12" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" fill="none" stroke-linecap="round" stroke-linejoin="round">
+    <svg class="absolute w-32 h-32 text-[#bd28344a] dark:text-zinc-300/20 left-0 md:-left-12 -top-4" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" fill="none" stroke-linecap="round" stroke-linejoin="round">
    <path stroke="none" d="M0 0h24v24H0z" fill="none"></path>
    <path d="M7 4v16l13 -8z"></path>
 </svg>

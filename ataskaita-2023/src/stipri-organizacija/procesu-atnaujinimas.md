@@ -12,7 +12,7 @@ pagrindinių socialinių-akademinių žinių testą bei išreiškę (-usios)
 motyvaciją veikti konsultavimo grupėje.
 
 VU SA konsultavimo grupė, atkreipdama dėmesį į augantį poreikį
-Organizacijos ir Universiteto veiklą stiprinti, 2022--2023 m. įsitraukė
+Organizacijos ir Universiteto veiklą stiprinti, 2022–2023 m. įsitraukė
 į šiuos procesus:
 
 - studentų (-čių) konsultavimą individualiųjų studijų kontekste
@@ -44,14 +44,14 @@ Kamilė Leonaitė (konsultantė, VU KnF)
 
 Neda Rasimavičiūtė (konsultantė, VU IF)
 
-## VU SA Strateginio veiklos plano 2022--2025 m. ir pamatavimo rodiklių
+## VU SA Strateginio veiklos plano 2022–2025 m. ir pamatavimo rodiklių
 
 patvirtinimas
 
 Ataskaitiniu laikotarpiu baigėsi 2019-2022 m. galiojusio VU SA
 Strateginio veiklos plano laikotarpis. Per 2022 metus organizacijoje
 buvo kuriamas atnaujintas veiklos planas ateinantiems trejiems metams.
-2022 m. gegužės 25 d. VU SA Parlamente patvirtintas 2022--2025 m. VU SA
+2022 m. gegužės 25 d. VU SA Parlamente patvirtintas 2022–2025 m. VU SA
 strateginis veiklos planas, kuriuo pritarta pagrindiniams organizacijos
 strateginiams projektams:
 
@@ -115,7 +115,7 @@ grįžtamasis ryšys ir refleksija.
 Atkreipiant dėmesį į kasmet Revizijos išvadose pabrėžiamą atstovų
 koordinatorių krūvį koordinuojant padalinio bei centrinio lygmens
 studentų atstovus, buvo sukurtas Virtualus atstovų koordinatorių įrankis
--- VU SA atstovavimo platforma. Ši platforma skirta užtikrinti
+– VU SA atstovavimo platforma. Ši platforma skirta užtikrinti
 sklandesnį procesą perduodant informaciją apie vyksiančius ir vykusius
 posėdžius, vieningos studentų pozicijos skleidimą per skirtingus KAP ir
 centrinius sprendimų priėmimo darinius. Be to, ją galima naudoti

@@ -1,7 +1,7 @@
 import type { DefaultTheme, LocaleSpecificConfig } from 'vitepress'
 
 const ltConfig: LocaleSpecificConfig<DefaultTheme.Config> = {
-    title: "2022-2023 ataskaita",
+    title: "Ataskaita 2023",
     description: "VU Studentų atstovybės metų veiklos ataskaita už 2022-2023 m. kadenciją.",
     themeConfig: {
         darkModeSwitchLabel: 'Tamsus režimas',
@@ -15,7 +15,10 @@ const ltConfig: LocaleSpecificConfig<DefaultTheme.Config> = {
         outline: {
             label: 'Šiame puslapyje...',
         },
-        // logo: '/img/logos/vusa.lin.hor.svg',
+        logo: {
+            light: '/img/logos/vusa.RGB.b.png',
+            dark: '/img/logos/vusa.RGB.w.png',
+        },
         nav: [
         //     { text: 'Sveikinimai', link: '/sveikinimai' },
             { text: 'Struktūros', link: '/vu-sa/strategija' },

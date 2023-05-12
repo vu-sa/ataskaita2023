@@ -47,7 +47,7 @@ studentų (-čių) bendravimo skatinimui, suteikiantis erdvę kritinio
 mąstymo, argumentavimo, anglų kalbos ir viešojo kalbėjimo įgūdžių
 lavinimui bei atstovaujantis Vilniaus universitetui debatų turnyruose.
 
-2022--2023 m. VU Debatų klubas sėkmingai tęsė ir plėtojo savo veiklą.
+2022–2023 m. VU Debatų klubas sėkmingai tęsė ir plėtojo savo veiklą.
 Praeitais metais suburta komanda užtvirtino debatų sesijos vykdymą
 kiekvieną savaitę, praplėtė ir atnaujino narių sąrašą, ugdė
 kompetencijas. Įdėtos pastangos atnešė gerų rezultatų – klubas išsiuntė
@@ -101,7 +101,7 @@ ir galutinių atsiskaitymų (kolokviumų ir egzaminų) stebėjimai,
 organizuojamos informacinės kampanijos, rubrikos, atliekami tyrimai,
 rengiami straipsniai ir apžvalgos.
 
-2022--2023 m. vyko ne tik tarpinių atsiskaitymų bei egzaminų stebėjimai,
+2022–2023 m. vyko ne tik tarpinių atsiskaitymų bei egzaminų stebėjimai,
 bet ir programos „Sąžiningai" veiklos krypties persvarstymas ir
 išgryninimas. VU SA Tarybos posėdžio metu buvo priimtas sprendimas
 suaktyvinti programos veiklą – skatinti ne tik didesnį studentų (-čių)
@@ -143,7 +143,7 @@ padarytos žalos atlyginimas: kas ir kur gali kreiptis, kaip nustatomas
 išmokų dydis?", „Neribotai taikomo viešumo principo pasekmės
 baudžiamajame procese", „Žinomo asmens kritikos ribos. Kada kyla
 civilinė atsakomybė?", „Saugotojo atsakomybė už jam patikėtus saugoti
-daiktus", „Santuokos nutraukimas nustačius vieno iš sutuoktinių kaltę --
+daiktus", „Santuokos nutraukimas nustačius vieno iš sutuoktinių kaltę –
 kokios pasekmės?", „Kompiuterių programų autorių teisių užtikrinimas ir
 problematika".
 
@@ -185,7 +185,7 @@ COMPETITION" ir IFSA „Traders cup". Nuo metų pradžios VU SIF išklausė
 mokymus apie laiko planavimą, grafinį dizainą bei naudojimąsi
 „Bloomberg" terminalu, o kai kuriuos mokymus organizavo ir patys. Vėliau
 su VU SIF susiekus FinIQ organizacijai buvo vedamos įvairios paskaitos
-9--12 klasių moksleiviams (-ėms), susijusios su investavimu. Taip pat VU
+9–12 klasių moksleiviams (-ėms), susijusios su investavimu. Taip pat VU
 SIF organizavo ir mentorystės programą – didžioji dalis organizacijos
 narių tebedalyvauja programoje „Mentee", kurioje dauguma mentorių yra
 buvę (-usios) VU SIF nariai (-ės), šiuo metu pasiekę (-usios) aukštas
@@ -217,7 +217,7 @@ karjeros kelią. Projektu siekiama padėti studijuojantiesiems (-čiosioms)
 specialistais (-ėmis).
 
 Šių metų pagrindinis renginys „VU KD'23: ieškodamas karjeros, atrask
-save" buvo suorganizuotas kovo 20--24 d., o kovo 16 d. įvyko „VU
+save" buvo suorganizuotas kovo 20–24 d., o kovo 16 d. įvyko „VU
 Karjeros diena Šiaulių akademijoje". Vykdant projektą bendradarbiauta su
 68 įmonėmis. Taip pat suorganizuoti 4 papildomi renginiai, kurių metu
 gvildentos įvairios temos, susijusios su karjera. Sklandžią viso
@@ -265,7 +265,7 @@ emocinės gerovės temoms aptarti. Taip pat buvo tęsiamas projektas „Drag
 
 *Ataskaitiniu laikotarpiu klubo veiklą koordinavo Ignas Pocius.*
 
-Vilniaus universiteto Jaunųjų energetikų klubas (VU JEK)  -- VU SA
+Vilniaus universiteto Jaunųjų energetikų klubas (VU JEK)  – VU SA
 klubas, vienijantis jaunimą, besidomintį įvairių rūšių energetika
 ekonominiais, politiniais ir techniniais aspektais. Organizuodami (-os)
 renginius bei skleisdami (-os) informaciją, VU JEK nariai (-ės) dalijasi
@@ -288,7 +288,7 @@ aplankyti Ignalinos atominę elektrinę klubo organizuotos išvykos metu.
 
 ESN Vilnius University – VU SA programa, skatinanti studentų (-čių)
 mobilumą bei padedanti užsienio studentams (-ėms) sėkmingai integruotis
-į Vilniaus universitetą. Pagrindinis ESN Vilnius University tikslas --
+į Vilniaus universitetą. Pagrindinis ESN Vilnius University tikslas –
 padėti į VU atvykstantiems (-čioms) užsienio studentams (-ėms)
 prisitaikyti naujoje aplinkoje, supažindinti juos (-as) su studijų
 tvarka, mūsų šalies kultūra bei tradicijomis.
@@ -301,7 +301,7 @@ kurios metu stengtasi supažindinti užsienio studentus (-es) tarpusavyje
 bei suteikti visą būtinąją informaciją apie Universiteto gyvenimą,
 infrastruktūrą, Lietuvos kultūrą, studentų (-čių) galimybes bei teises.
 Be visų standartinių renginių (protų mūšių, ekskursijų, susipažinimo
-vakarų) metų eigoje buvo suorganizuotos „ESN Social Inclusion Days" --
+vakarų) metų eigoje buvo suorganizuotos „ESN Social Inclusion Days" –
 renginių ciklas skirtas tvarumui ir socialinei atsakomybei skatinti.
 Pavasario semestro metu įvykdytas tarptautinis projektas „Erasmus in
 Schools", kurio metu bendraudami (-os) su VU užsienio studentais
@@ -335,7 +335,7 @@ dalyvaudamas varžybose ir kituose renginiuose.
 - Nuo vasario mėn., šeštadieniais, organizavo bendras Lietuvos kendo
     rinktinės treniruotes su kitų Lietuvos klubų atstovais (-ėmis), kad
     pasiruoštų Europos kendo čempionatui Paryžiuje, vyksiančiam gegužės
-    18--19 d.
+    18–19 d.
 - Suorganizavo pavasario kendo pradedančiųjų kursus, vykusius kovo
     18 d. – balandžio 18 d.
 - Atliko kendo demonstraciją Vilniaus miesto japoniško sodo atidarymo
@@ -407,11 +407,11 @@ treniruojamasi ilgaisiais kalavijais.
 
 Šiais metais Alber aus VU HEMA klubas turėjo galimybę dalyvauti
 įvairiuose renginiuose ir supažindinti su HEMA Universiteto studentus
-(-es) ir ne tik. Narių bei entuzastų (-čių) ratas sėkmingai plečiasi --
+(-es) ir ne tik. Narių bei entuzastų (-čių) ratas sėkmingai plečiasi –
 pastebime klubo progresą bei bendrą atmosferą. Šiemet turėjome galimybę
 surengti ir pirmąjį HEMA turnyrą, kuriame dalyvavo mūsų klubo nariai
 (-ės) bei HEMOS entuziastai (-ės) iš visos Lietuvos. Šiais metais klubas
-rengė po 2--3 savaitines treniruotes pradedantiesiems (-čiosioms) ir
+rengė po 2–3 savaitines treniruotes pradedantiesiems (-čiosioms) ir
 labiau pažengusiems (-ioms) nariams (-ėms), taip pat buvo artimai
 bendradarbiauta su kitais padaliniais ir iniciatyvomis – įstraukta į
 FiDi pasitinkant fizikų eiseną.
@@ -423,10 +423,10 @@ FiDi pasitinkant fizikų eiseną.
 *Ataskaitiniu laikotarpiu klubui pirmininkavo Simonas Lukoševičius ir Olivija Grudytė.*
 
 VU Fotoklubo misija – puoselėti ir brandinti studentų (-čių) įvairovę
-bei kūrybiškumą pasitelkiant vieną žaviausių meno krypčių --
+bei kūrybiškumą pasitelkiant vieną žaviausių meno krypčių –
 fotografiją. Visgi šiais mokslo metais supratome, jog mūsų misija
 neatsiejama ir nuo pastovaus bendradarbiavimo su Vilniaus universitetu
--- gavome šansą suteikti fotografijos paslaugas didžiulei įvairovei
+– gavome šansą suteikti fotografijos paslaugas didžiulei įvairovei
 programų, klubų, projektų ir galėjome užfiksuoti Universiteto istorijas.
 
 Šiais metais klubo veikla buvo orientuota į 3 pagrindines kryptis:
@@ -442,7 +442,7 @@ VU bendruomenei suteikėme fotografijos paslaugas beveik visur ir visada.
 Pavasario semestrui einant į pabaigą net nebežinome, kur dėti vien per
 šiuos metus užfiksuotas nuotraukas, kadangi nuolat pildosi mūsų
 talpyklos. Užfiksavome kone kiekvieno klubo ir projekto veiklas, taip
-pat VU Kultūros centro kolektyvų pasirodymus. Kaip sakoma angliškai --
+pat VU Kultūros centro kolektyvų pasirodymus. Kaip sakoma angliškai –
 „sharing is caring". Vedami (-os) šios minties surengėme du atvirus
 fotografijos pagrindų mokymus VU bendruomenei.
 
@@ -503,7 +503,7 @@ Taip pat siekiama šviesti moksleivius (-es) bei visuomenę apie mokslo
 naujienas, leisti susipažinti su gyvybės mokslų tyrimais, taip skatinant
 pasirinkti savo profesinį kelią būtent šioje srityje.
 
-Šiais metais The COINS 2023 konferencija vyko balandžio 24-- 27 d. VU
+Šiais metais The COINS 2023 konferencija vyko balandžio 24– 27 d. VU
 Gyvybės mokslų centre. Suburta 12 koordinatorių bei beveik 40
 organizatorių komanda, užtikrinusi, kad pasiruošimas bei visos
 konferencijos veiklos vyktų sklandžiai. Per 4 dienas konferencijoje
@@ -538,7 +538,7 @@ Vilniaus universiteto Jaunųjų žurnalistų draugija (VU JŽD) – 2021 m.
 kurios tikslas sukurti žurnalistika besidominčių ir demokratinius
 idealus puoselėjančių jaunų žmonių bendruomenę Lietuvoje.
 
-2022--2023 m. toliau bendradarbiauta su įvairiomis žiniasklaidos
+2022–2023 m. toliau bendradarbiauta su įvairiomis žiniasklaidos
 priemonėmis arba pavieniui dirbančiais (-iomis) žurnalistais (-ėmis),
 pavyzdžiui, tęstas bendradarbiavimas su portalu „15min". Draugijos
 nariai (-ės) fotografuoja, rašo tekstus, o jų darbai yra publikuojami

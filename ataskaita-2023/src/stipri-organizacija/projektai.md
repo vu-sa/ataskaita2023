@@ -25,7 +25,7 @@ projekto metu sukurtus rezultatus.
 ## Gerųjų užsienio praktikų pritaikymas socialinei dimensijai Lietuvos aukštajame moksle įgyvendinti, mažinant barjerus, su kuriais susiduria mažiau reprezentuojamos aukštajame moksle grupės
 
 Šiuo projektu buvo įgyvendinta iniciatyva „Aukštasis mokslas nėra PER
-aukštai", suburtas studentų ambasadorių tinklas, kurio tikslas --
+aukštai", suburtas studentų ambasadorių tinklas, kurio tikslas –
 regionuose esančių mokyklų moksleivius (-es) supažindinti su aukštojo
 mokslo galimybėmis ir įkvėpti siekti aukštojo išsilavinimo. Prie
 studentų ambasadorių tinklo prisijungė 45 Vilniaus universiteto (VU)
@@ -46,5 +46,5 @@ VU SA teikė paraiškas, laimėjo ir įgyvendins šiuos projektus:
 - „VU SA GOES INTERNATIONAL" – projektas, skirtas užsienio studentų
     integracijai gerinti.
 
-- „Tarptautinė gyvybės mokslų konferencija „The COINS 2023" --
+- „Tarptautinė gyvybės mokslų konferencija „The COINS 2023" –
     projektas, skirtas The COINS 2023 konferencijos įgyvendinimui.

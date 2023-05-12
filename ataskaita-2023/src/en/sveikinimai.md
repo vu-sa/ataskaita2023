@@ -1,7 +1,5 @@
 # Congratulations
 
-<!-- TODO: reikia nuotraukų -->
-
 ## Vilnius University Rector
 
 ![Vilniaus universiteto Rektorius](../public/img/sveikinimai/rektorius.jpg)

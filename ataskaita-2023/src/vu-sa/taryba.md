@@ -35,7 +35,7 @@ reikalų ir biudžeto.
 
 VU SA Taryba ataskaitiniu laikotarpiu patvirtino VU Institucinio
 stiprinimo fondo sudėtį, aktyviai įsitraukė į VU SA Strateginio veiklos
-plano 2022--2025 m. matavimo rodiklių kūrimo procesą, diskutavo apie
+plano 2022–2025 m. matavimo rodiklių kūrimo procesą, diskutavo apie
 didesnį programų, klubų bei projektų vaidmenį organizacijoje ir narių
 išlaikymą.
 

@@ -6,8 +6,6 @@ import TeamAvatarLayout from '../components/TeamAvatarLayout.vue'
 import PhotoGrid from '../components/PhotoGrid.vue'
 </script>
 
-<!-- TODO: yra ką taisyti su žmonių kadencijų laikais -->
-
 ![VU SA](public/img/bendros-nuotraukos/VU-SA.jpg)
 
 ## Sritys

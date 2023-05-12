@@ -9,7 +9,7 @@ integraciją.
 Kas buvo tiriama: Pirmo kurso BA ir MA, tiek vietinių, tiek užsienio,
 studentų (-čių) integracijos į Universitetą sėkmingumas
 
-Tyrimas atliktas: 2022 m. spalio 3--30 d.
+Tyrimas atliktas: 2022 m. spalio 3–30 d.
 
 ### Svarbiausios tyrimo išvados
 
@@ -61,7 +61,7 @@ universitete.
 Šios kadencijos metu buvo atliktas VU SA Bendruomenės
 tyrimas, kurio tikslas buvo pamatuoti Organizacijos narių įsitraukimą į
 VU SA veiklas ir išsiaiškinti priežastis, kas skatina jų
-(ne)įsitraukimą. Tyrimas buvo atliekamas 2023 m. vasario--kovo mėn.,
+(ne)įsitraukimą. Tyrimas buvo atliekamas 2023 m. vasario–kovo mėn.,
 jame turėjo galimybę dalyvauti visi (-os) Organizacijos nariai (-ės).
 Šio tyrimo metu gauti rezultatai bus naudojami tobulinant VU SA vidaus
 procesus.

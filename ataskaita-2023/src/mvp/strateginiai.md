@@ -7,9 +7,7 @@ import vusaGoals from '../../data/vusaGoals.ts'
 
 Per 2021-2022 metus VU SA įgyvendino daugiau negu 20 tikslų.
 
-## VU SA strateginiai tikslai
-
-### 1. VU pirmosios pakopos ir vientisųjų studijų programos yra atnaujintos ir studentams (-ėms) yra prieinama visa reikalinga informacija apie individualiųjų studijų pasirinkimų galimybes
+## 1. VU pirmosios pakopos ir vientisųjų studijų programos yra atnaujintos ir studentams (-ėms) yra prieinama visa reikalinga informacija apie individualiųjų studijų pasirinkimų galimybes
 
 **Pamatavimo rodiklis:** Iki 2023 m. liepos 1 d. visos VU pirmosios pakopos ir vientisųjų studijų programos yra atnaujintos pagal VU studijų nuostatus ir studentams (-ėms) yra prieinama visa reikalinga informacija apie individualiųjų studijų pasirinkimų galimybes. VU Informacinėje sistemoje yra prieinami studijų programų planai bei dalykų aprašai, paviešinta konsultavimo(si) galimybė.
 
@@ -29,7 +27,7 @@ Per 2021-2022 metus VU SA įgyvendino daugiau negu 20 tikslų.
 
 ---
 
-### 2. Studentai (-ės) per VU SA saviraiškos skatinimo sistemą dalyvauja saviraiškos iniciatyvose
+## 2. Studentai (-ės) per VU SA saviraiškos skatinimo sistemą dalyvauja saviraiškos iniciatyvose
 
 **Pamatavimo rodiklis:** Iki 2023 m. liepos 1 d. per VU SA studentų (-čių) saviraiškos skatinimo sistemą saviraiškos iniciatyvose dalyvavo 2000 VU studentų (-čių).
 
@@ -56,7 +54,7 @@ pasinaudojo mentorystės programa. Naudojimasis administruojamais
 ištekliais yra tęstinis.
 :::
 
-### 3. Užsienio ir vietiniai (-ės) studentai (-ės) nėra atskiriami (-os) studijų ir su studijomis susijusioje aplinkoje
+## 3. Užsienio ir vietiniai (-ės) studentai (-ės) nėra atskiriami (-os) studijų ir su studijomis susijusioje aplinkoje
 
 **Pamatavimo rodiklis:** VU SA integracijos tyrime 70 proc. respondentų
 užsieniečių studentų (-čių) jaučiasi universiteto, fakulteto, savo kurso
@@ -111,7 +109,7 @@ ar studijų programos dalimi.
   studentus (-es).
 :::
 
-### 4. Universiteto bendruomenės nariai (-ės) sąmoningai taiko žalumo principus Universiteto aplinkoje
+## 4. Universiteto bendruomenės nariai (-ės) sąmoningai taiko žalumo principus Universiteto aplinkoje
 
 **Pamatavimo rodiklis:** Iki liepos 1 d. 20 tūkst. asmenų yra
 susipažindinti su klimato kaitos problematika ir žalumo principais.

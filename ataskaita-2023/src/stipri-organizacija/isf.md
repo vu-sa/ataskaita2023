@@ -1,6 +1,5 @@
 # Institucinio stiprinimo fondas
 
-<!-- TODO: įdėti bendrą foto -->
 ![ISF](../public/img/bendros-nuotraukos/ISF.jpg)
 
 ::: tip 📖 Institucinio stiprinimo fondas...
