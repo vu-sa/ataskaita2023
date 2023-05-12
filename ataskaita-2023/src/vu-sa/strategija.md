@@ -1,9 +1,9 @@
 # Vilniaus universiteto Studentų atstovybės strategija
 
-- **Vizija** -- atvira aplinka savarankiškam studento tobulėjimui
+- **Vizija** – atvira aplinka savarankiškam studento tobulėjimui
   vieningoje Vilniaus universiteto bendruomenėje.
 
-- **Misija** -- efektyviai atstovaujant Vilniaus universiteto
+- **Misija** – efektyviai atstovaujant Vilniaus universiteto
   studentams bei puoselėjant universitetinę kultūrą, kurti
   palankiausias sąlygas studento saviraiškai.
 

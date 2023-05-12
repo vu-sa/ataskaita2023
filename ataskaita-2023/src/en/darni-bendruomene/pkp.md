@@ -4,7 +4,7 @@
 
 ![START FM](../../public/img/pkp-logo/START_FM_logotipas.png)
 
-VU radio START FM -- VU SR and Vilnius University radio station, which
+VU radio START FM – VU SR and Vilnius University radio station, which
 started its activities in 2005, the only radio station for students in
 Lithuania provides wide opportunities for self-expression for students:
 it helps to train future journalists, programmers, and specialists in
@@ -20,7 +20,7 @@ all residents of the country with musical literacy.
 START FM is a unique medium for the emergence and development of youth
 initiatives: the broadcasts reflect the current issues of the life of
 the academic community and young people, as they are initiated and
-implemented by members of the community -- students, graduates,
+implemented by members of the community – students, graduates,
 lecturers of Vilnius University and other Lithuanian higher education
 institutions, and reflect the current issues of the life of the academic
 community and young people.
@@ -54,7 +54,7 @@ In 2022--2023, VU Debating Club successfully continued and developed its
 activities. The team, which was formed last year, consolidated the
 conduct of the debate session every week, expanded and updated the list
 of members, and developed competencies. The efforts made brought good
-results -- the club sent a delegation to participate in the SSE Riga
+results – the club sent a delegation to participate in the SSE Riga
 2022 debate tournament, where the name of Vilnius University was
 represented at the international level. After the New Year, the club
 renewed its image in the digital space and began to establish contacts
@@ -159,7 +159,7 @@ consultations. A section of the page has been prepared, where the
 information is relevant for Ukrainians arriving to Lithuania. The
 institutional strengthening project, which was started and completed, is
 funded by the Ministry of Social Security and Labor \"Strong
-organization providing primary legal assistance -- internal quality
+organization providing primary legal assistance – internal quality
 assurance of services\". The project funds are intended for the
 preparation of a description of the quality assurance of VU LC services,
 the organization of trainings of consultants, the publicity of the
@@ -192,7 +192,7 @@ management, graphic design and use of the Bloomberg terminal, and some
 trainings have been organized by themselves. Later, after contacting the
 FinIQ organization with VU SIF, various lectures were given to scholars
 in grades 9-12 related to investing. VU SIF also organized a mentoring
-program -- the majority of the organization\'s members still participate
+program – the majority of the organization\'s members still participate
 in the program \"Mentee\", where most of the mentors are former members
 of VU SIF who have currently achieved high career positions. VU SIF also
 organized events, and one of the last was about the recent unrest in the
@@ -313,7 +313,7 @@ students to each other and to provide all the necessary information
 about the life, infrastructure, Lithuanian culture, opportunities, and
 rights of students. In addition to all the standard events (brain
 battles, excursions, familiarization evenings), the ESN Social Inclusion
-Days were organized during the year -- a series of events aimed at
+Days were organized during the year – a series of events aimed at
 promoting sustainability and social responsibility. During the spring
 semester, the international project \"Erasmus in Schools\" was carried
 out, during which, communicating with foreign students of VU, scholars
@@ -425,13 +425,13 @@ where students are trained with long swords.
 
 This year, alber aus VU HEMA club had the opportunity to participate in
 various events and introduce University students and not only with HEMA.
-The circle of members and enthusiasts is successfully expanding -- we
+The circle of members and enthusiasts is successfully expanding – we
 notice the progress of the club and the general atmosphere. This year we
 also had the opportunity to organize the first HEMA tournament, which
 was attended by our club members and HEMA enthusiasts from all over
 Lithuania. This year, the club organized 2-3 weekly training sessions
 for beginners and more advanced members, as well as close cooperation
-with other departments and initiatives -- getting involved in FiDi to
+with other departments and initiatives – getting involved in FiDi to
 meet the procession of physicists.
 
 ## VU Photoclub
@@ -445,7 +445,7 @@ The mission of VU Photoclub is to foster and mature the diversity and
 creativity of students by using one of the most charming art directions
 -- photography. However, this academic year, we realized that our
 mission is also inseparable from constant cooperation with Vilnius
-University -- we got the opportunity to provide photography services to
+University – we got the opportunity to provide photography services to
 a huge variety of programs, clubs, projects and were able to capture the
 university\'s stories.
 
@@ -530,8 +530,8 @@ the VU Life Sciences Center. A team of 12 coordinators and almost 40
 organizers was assembled to ensure that the preparation and all the
 activities of the conference went smoothly. In 4 days, almost 700
 participants attended the conference, a record number of students\'
-booth presentations was reached -- 220 and the number of scientists who
-evaluated them -- 130. Lectures were given by 12 top-level foreign and
+booth presentations was reached – 220 and the number of scientists who
+evaluated them – 130. Lectures were given by 12 top-level foreign and
 Lithuanian lecturers on the topics of neurobiology, biomedical, ecology
 and bioengineering, which were chosen in response to the theme of this
 year\'s conference \"The COINS 2023. Changing the world one step at the
@@ -581,7 +581,7 @@ the summer of 2022, a series of discussions called \"Sit down, we will
 talk to\...\" took place, where Arūnas Valinskas and Eglė Jurgaitytė
 were interviewed. Events of this kind were organized in an informal
 environment, which made it possible to expand the audience of VU JŽD. In
-the autumn, a discussion \"Mobilization in Russia -- what awaits next?\"
+the autumn, a discussion \"Mobilization in Russia – what awaits next?\"
 was organized in the premises of VU IIRPS together with the organization
 \"Locked N\' Loaded\". The interlocutors of the discussion: reserve
 colonel Gintaras Ažubalis, VU IIRPS lecturer Valentinas Beržiūnas and
@@ -652,10 +652,10 @@ both physical and electronic stores. This year, one-day pop-up stores
 were continued and opened in various academic units of the University,
 and an opportunity was created for students to purchase merchandise
 during ongoing University events. The foundation is also expanding
-cooperation with VU -- a cooperation agreement has been signed with VU
+cooperation with VU – a cooperation agreement has been signed with VU
 Library regarding the sale of their products in the VU merchandise
 store. In addition, the sale of Klaipėda University merchandise
-continues. This year, the initiative continues -- 1.2% of the income tax
+continues. This year, the initiative continues – 1.2% of the income tax
 support is collected, which will purposefully encourage the
 University\'s students for active social activities by contributing to
 the integration of Ukraine citizens in Lithuania.

@@ -41,7 +41,7 @@ VU SA Parlamentui pirmininkavo Justas Kvedaravičius.
 
 :::
 
-Ataskaitiniu laikotarpiu įvyko 9 Parlamento posėdžiai -- 8 gyvi ir 1
+Ataskaitiniu laikotarpiu įvyko 9 Parlamento posėdžiai – 8 gyvi ir 1
 nuotolinis.
 
 ## Parlamente priimti nutarimai dėl pozicijų ir rezoliucijų

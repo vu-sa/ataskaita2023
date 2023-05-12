@@ -10,6 +10,8 @@ import PhotoGrid from '../components/PhotoGrid.vue'
 
 ![VU SA](public/img/bendros-nuotraukos/VU-SA.jpg)
 
+## Sritys
+
 <PhotoGrid :photos="teamPhotos" />
 
 ## Centrinis biuras

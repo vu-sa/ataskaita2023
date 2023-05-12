@@ -4,10 +4,10 @@
 
 ## Kuratorių (mentorių) programa
 
-*Kuratorių programa* -- nuo 2000 m. VU SA vykdoma programa, sukurta tam,
+*Kuratorių programa* – nuo 2000 m. VU SA vykdoma programa, sukurta tam,
 kad pirmo kurso studentai (-ės) galėtų efektyviai integruotis į
 Universiteto bendruomenę bei susipažinti su studijų proceso tvarka. Šios
-programos dalyviai (-ės) -- kuratoriai (-ės) -- specialius mokymus
+programos dalyviai (-ės) – kuratoriai (-ės) – specialius mokymus
 išklausę vyresnių kursų studentai (-ės), padedantys savo kuruojamos
 grupės pirmo kurso studentams (-ėms) integracijos proceso laikotarpiu.
 
@@ -58,7 +58,7 @@ pačiu metu skirtinguose VU Centrinių rūmų kiemeliuose vyko interaktyvios
 dirbtuvės. Diskusijų pabaigoje studentai (-ės) interaktyviais būdais
 susipažino su įvairiomis studentiškomis organizacijomis bei saviraiškos
 galimybėmis veikiančių organizacijų bei VU SA programų, klubų, projektų
-mugėje. Baigiamasis renginio akcentas -- bendruomenės koncertas VU
+mugėje. Baigiamasis renginio akcentas – bendruomenės koncertas VU
 Didžiajame kieme.
 
 ## Rugsėjo 1-osios VU bendruomenės eisena

@@ -20,6 +20,8 @@ import { Carousel, Slide, Pagination, Navigation } from 'vue3-carousel'
 import TestimonialElement from "../components/TestimonialElement1.vue";
 import NumberStatistic from "../components/NumberStatistic.vue";
 import ElementWithBg from "../components/ElementWithBg.vue";
+import PersonAvatar from "../components/PersonAvatar.vue";
+import { biuras } from "../data/bendruomene.ts";
 
 </script>
 
@@ -29,8 +31,10 @@ import ElementWithBg from "../components/ElementWithBg.vue";
       <figcaption class="leading-6 my-8 px-6 text-left md:w-1/2 order-2 md:order-1 flex flex-col">
           <p class="text-md font-medium italic mb-4">„Didžiuojuosi Organizacija – visų šitų ir krūvos dar neišvardintų dalykų nebūtume nuveikę be stiprių partnerysčių ir vieningo darbo kartu!</p>
           <p class="font-bold mb-4">Tariu didžiulį AČIŪ kiekvienai (-am) prisidėjusiai (-iam) prie to, kad studentams (-ėms) ir Organizacijai būtų geriau.“</p>
-        <p class="text-sm font-bold">Neda Žutautaitė</p>
-        <p class="opacity-80 text-sm">VU SA prezidentė</p>
+        <PersonAvatar :src="biuras[0].avatar" size="small">
+          <p class="text-sm font-bold">Neda Žutautaitė</p>
+          <p class="opacity-80 text-sm">VU SA prezidentė</p>
+        </PersonAvatar>
       </figcaption>
       <video playsinline autoplay controls muted class="md:w-1/2 mx-auto rounded-lg order-1 md:order-2 z-20 shadow-lg">
         <source src="/ataskaita-2023/video/Nedos-kalba.mp4" type="video/mp4">
@@ -80,7 +84,7 @@ import ElementWithBg from "../components/ElementWithBg.vue";
         <TestimonialElement class="p-4" img-src="/ataskaita-2023/img/sveikinimai/20211231SMM0974.jpeg" person-name="Jurgita Šiugždinienė" person-position="LR Švietimo, mokslo ir sporto ministrė" href="/sveikinimai" button-text="Sveikinimo kalba">
         „Aktyviai atstovaudami savo bendruomenei, suteikiate jai balsą bei
         galimybes veikti ir tobulėti. Taip prisidedate ne tik prie studentijos,
-        bet ir visos Lietuvos gerovės -- juk mūsų šalies ateitį kuria veržlūs ir
+        bet ir visos Lietuvos gerovės – juk mūsų šalies ateitį kuria veržlūs ir
         atviri naujovėms jauni žmonės.“
         </TestimonialElement>
       </Slide>
@@ -123,7 +127,7 @@ import ElementWithBg from "../components/ElementWithBg.vue";
       </Slide>
       <Slide :index="8">
         <TestimonialElement class="p-4" img-src="/ataskaita-2023/img/sveikinimai/dr.-Loreta-Tauginien%C4%97.MART1397B.jpg" person-name="dr. Loreta Tauginienė" person-position="Akademinės etikos ir procedūrų kontrolierė" href="/sveikinimai" button-text="Sveikinimo kalba">
-        „Tikiu, kad technologinių ir socialinių naujovių dermė prisidės prie akademinės etikos kultūros transformacijų. Čia Jūsų visų įsitraukimas yra itin laukiamas. Svarbiausia išlikti proaktyviems ir kūrybiškiems -- tik taip prisidėsite prie tarptautinių akademinės etikos standartų puoselėjimo.“
+        „Tikiu, kad technologinių ir socialinių naujovių dermė prisidės prie akademinės etikos kultūros transformacijų. Čia Jūsų visų įsitraukimas yra itin laukiamas. Svarbiausia išlikti proaktyviems ir kūrybiškiems – tik taip prisidėsite prie tarptautinių akademinės etikos standartų puoselėjimo.“
         </TestimonialElement>
       </Slide>
       <Slide :index="9">

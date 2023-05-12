@@ -19,7 +19,7 @@ const ltConfig: LocaleSpecificConfig<DefaultTheme.Config> = {
         nav: [
         //     { text: 'Sveikinimai', link: '/sveikinimai' },
             { text: 'Struktūros', link: '/vu-sa/strategija' },
-            { text: 'Tikslai', link: '/mvp/mvp' },
+            { text: 'Tikslai', link: '/mvp/strateginiai' },
             { text: 'Strateginės kryptys', items: [
                 { text: 'Kokybiškos studijos ir joms pritaikyta aplinka', link: '/kokybiskos-studijos/rastai' },
                 { text: 'Stipri organizacija', link: '/stipri-organizacija/projektai' },

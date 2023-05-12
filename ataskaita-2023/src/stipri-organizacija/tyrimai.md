@@ -112,7 +112,7 @@ būtų galimi pritaikyti Lietuvos kontekste.
     su studento iš negalios kylančiais poreikiais ir individualizuoti;
 4. Numatyti finansavimo ir pradėti inicijuoti programas, kurios
     sistemiškai apimtų daugiau nei vieną socialinės dimensijos lygmenį
-    -- nuo pasirengimo studijoms, tikslingo bendradarbiavimo su bendrojo
+    – nuo pasirengimo studijoms, tikslingo bendradarbiavimo su bendrojo
     ugdymo sistemos dalyviais, paramos stojimo procese iki pagalbos jau
     studijuojantiesiems;
 5. Vyresnio amžiaus stojantiesiems užtikrinti tinkamą informavimą apie

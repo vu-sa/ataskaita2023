@@ -2,7 +2,7 @@
 
 ## Konsultavimo procesas
 
-VU SA konsultavimas -- centralizuota VU SA konsultavimo sistema,
+VU SA konsultavimas – centralizuota VU SA konsultavimo sistema,
 pradėjusi savo veiklą 2022 m. sausį, skirta Vilniaus universiteto
 studentams konsultuoti akademiniais, socialiniais, saviraiškos galimybių
 Universitete, LSP ir kitais klausimais. Programai vadovauja VU SA
@@ -73,7 +73,7 @@ bendruomenei.
 
 Šiais metais ir toliau plėtota savirefleksijų kultūra. Norint tobulėti
 savo srityje ir pažvelgti, ar išsikelti tikslai jau pasiekti (o galbūt
-jų vis dar siekiama), būtina reflektuoti -- šis procesas tapo sisteminiu
+jų vis dar siekiama), būtina reflektuoti – šis procesas tapo sisteminiu
 VU SA veikloje. Būtent savirefleksijų metu Organizacijoje sudaromos
 galimybės ne tik įvertinti savo tobulėjimą, tačiau ir padėti kiekvienam
 (-ai) organizacijoje veikiančiam (-ai) nariui (-ei) kryptingai judėti
@@ -131,6 +131,6 @@ perteklinių narių apskaitos veiksmų, susijusių su asmens duomenų rinkimu
 ir saugojimu, Darbo reglamente aprašytas VU SA savanorių statusas, su
 tuo susijusios teisės bei pareigos, įtrauktas Institucinio stiprinimo
 fondas, aprašyti jo įgaliojimai ir statusas organizacijoje bei
-patikslinta Studentų atstovų (-ių) Senate rinkimo tvarka -- iš Darbo
+patikslinta Studentų atstovų (-ių) Senate rinkimo tvarka – iš Darbo
 reglamento perkeliant ir papildant rinkimų nuostatas atskirame
 dokumente. -->

@@ -1,14 +1,27 @@
 # Institucinio stiprinimo fondas
 
 <!-- TODO: įdėti bendrą foto -->
-<!-- TODO: įdėti ISF narius -->
+![ISF](../public/img/bendros-nuotraukos/ISF.jpg)
 
-Institucinio stiprinimo fondas yra atsakingas už organizacijos narių
+::: tip 📖 Institucinio stiprinimo fondas...
+Atsakingas už organizacijos narių
 kompetencijų kėlimą, žmogiškųjų išteklių valdymą. Fondas siekia
 užtikrinti sąlygas VU SA stiprinti ir nuosekliai kelti kompetencijas
 organizacijoje.
+:::
 
-Institucinis stiprinimas -- visuma procesų, orientuotų į poreikiu grįstą
+::: details 2021–2022 m. Institucinio stiprinimo fondą sudarė...
+
+- Augustė Grakavinaitė (pirmininkė)
+- Laima Jasionytė
+- Inga Vederytė
+- Gintarė Zinkevičiūtė
+- Julija Jarutytė
+- Goda Žvirblytė (iki 2022 vasario mėn.)
+
+:::
+
+Institucinis stiprinimas – visuma procesų, orientuotų į poreikiu grįstą
 organizacijos bei atskirų jos vienetų ar veiklų tobulinimą, jos narių
 bendrųjų ir specifinių kompetencijų ugdymą, institucinės atminties
 stiprinimą, veikloms reikalingų įrankių, priemonių bei metodų kūrimo

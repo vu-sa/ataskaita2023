@@ -710,6 +710,7 @@ export const org = [
     avatar: "/ataskaita-2023/img/koordinatoriu-nuotraukos/organizacines-srities-koordinatoriai/Indrė-Bartkėnaitė-(VM).jpeg",
   },
 ];
+
 export const hr = [
   {
     name: "",
@@ -782,6 +783,7 @@ export const hr = [
       "/ataskaita-2023/img/koordinatoriu-nuotraukos/hr/Karolina-Alimovaitė-(VM).jpeg",
   }
 ];
+
 export const integration = [
   {
     name: "",
@@ -892,6 +894,7 @@ export const integration = [
       "/ataskaita-2023/img/koordinatoriu-nuotraukos/integracijos-koordinatoriai/Vanesa-Krochina-(VM).jpeg",
   }
 ];
+
 export const atstovai = [
   {
     name: "Rokas Gražinskas",
@@ -978,6 +981,7 @@ export const atstovai = [
       "/ataskaita-2023/img/koordinatoriu-nuotraukos/atstovu-koordinatoriai/Ugnius-Kęstauskas-(VM).png",
   },
 ];
+
 export const pkp = [
   {
     name: "",
@@ -1094,6 +1098,7 @@ export const pkp = [
       "/ataskaita-2023/img/koordinatoriu-nuotraukos/pkp-vadovai/Povilas-Petrucionis-SIF.jpeg",
   },
 ];
+
 export const intl = [
   {
     name: "Shahaan Ahmed Ansari",
@@ -1126,6 +1131,7 @@ export const intl = [
       "/ataskaita-2023/img/koordinatoriu-nuotraukos/uzsienieciu-koordinatoriai/Estela-Marcinkevičiūtė-(VM).jpg",
   },
 ];
+
 export const lsp = [
   {
     name: "",
@@ -1172,6 +1178,7 @@ export const lsp = [
     avatar: "/ataskaita-2023/img/koordinatoriu-nuotraukos/lsp-koordinatoriai/Erika-Radiun-(VM).jpeg",
   },
 ];
+
 export const other = [
   {
     name: "Gustas Štaševskis",

@@ -8,7 +8,7 @@ Vienas iš pagrindinių gebėjimų, reikalingų dirbti ir gyventi XXI
 amžiuje, yra iniciatyvumas ir verslumas, t. y. asmens gebėjimas idėjas
 paversti veiksmais. Tikime, jog aukštojo mokslo įstaigos turi padėti
 studentams (-ėms) įgyti šiuos įgūdžius, todėl VU SA įgyvendina projektą,
-kurio tikslas -- padėti studentams (-ėms) įgyti būtinųjų kompetencijų
+kurio tikslas – padėti studentams (-ėms) įgyti būtinųjų kompetencijų
 (verslumo, bendradarbiavimo, problemų sprendimo, tvarumo ir socialinių
 inovacijų kūrimo) per savanorišką veiklą, kurios metu būtų sprendžiamos
 realaus gyvenimo problemos, pasitelkiant socialines inovacijas. Projekto
@@ -43,7 +43,7 @@ socialinės dimensijos advokacija.
 
 VU SA teikė paraiškas, laimėjo ir įgyvendins šiuos projektus:
 
-- „VU SA GOES INTERNATIONAL" -- projektas, skirtas užsienio studentų
+- „VU SA GOES INTERNATIONAL" – projektas, skirtas užsienio studentų
     integracijai gerinti.
 
 - „Tarptautinė gyvybės mokslų konferencija „The COINS 2023" --

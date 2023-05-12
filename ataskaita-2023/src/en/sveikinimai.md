@@ -57,7 +57,7 @@ Dear students of Vilnius University,
 
 Another year has drawn to a close. As you yourselves said that just
 recently the war in Europe seemed and was believed to be a thing of the
-past -- a relic of the 20th century, and that 'never again' seemed to be
+past – a relic of the 20th century, and that 'never again' seemed to be
 a lasting promise that the world had learnt from its worst mistakes and
 that the darkest chapters of history remained closed, never to be
 reopened. Yet, it pains me to admit that we were wrong. The brutal war,
@@ -70,7 +70,7 @@ I am happy and proud that Vilnius University Students' Representation
 embraced and cared for every Ukrainian student who has become part of
 the VU family. You have provided them with a sense of belonging and
 security amidst the uncertainties they face. We cannot become tired in
-our efforts of helping Ukraine -- even if in small steps -- as it
+our efforts of helping Ukraine – even if in small steps – as it
 journeys towards an assured victory, which is crucial for a world that
 cherishes freedom and human life. To help Ukraine recover and regain its
 footing, well-educated specialists from various fields will be
@@ -125,7 +125,7 @@ internationality.
 By actively representing your community, you give it a voice and
 opportunities to act and develop. In this way, you contribute not only
 to the well-being of students, but also to the well-being of Lithuania
-as a whole -- after all, the future of our country is created by
+as a whole – after all, the future of our country is created by
 energetic and open to innovations of young people.
 
 The mission of the state is to help precisely mature such members of

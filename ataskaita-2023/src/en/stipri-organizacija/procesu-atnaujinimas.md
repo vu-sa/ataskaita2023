@@ -67,7 +67,7 @@ University community.
 This year, the culture of self-reflection continues to develop. In order
 to improve in your field and look at whether the goals set have already
 been achieved (or perhaps they are still being pursued), it is necessary
-to reflect -- this process has become systematic in the activities of VU
+to reflect – this process has become systematic in the activities of VU
 SR. It is during self-reflection that opportunities are created in the
 Organization not only to assess their own development, but also to help
 each member operating in the organization to move forward purposefully.
@@ -110,7 +110,7 @@ feedback and reflection.
 Drawing attention to the load of representative coordinators emphasized
 annually in the conclusions of the Revision by coordinating the
 representatives of the unit and students of the central level, a Virtual
-tool of representative coordinators was created -- the VU SR
+tool of representative coordinators was created – the VU SR
 representation platform. This platform is designed to ensure a smoother
 process in transmitting information about the meetings that will take
 place and have taken place, the dissemination of a unified position of

@@ -48,14 +48,14 @@ Vilniaus universiteto rektorius
 Mieli Vilniaus universiteto studentai ir studentės,
 
 prabėgo dar vieni iššūkių kupini metai. Kaip patys sakėte, dar iki
-2022-ųjų atrodė ir norėjosi tikėtis, kad karas Europoje -- praeitis,
-likusi XX amžiuje, o „niekada daugiau" -- tvarus pažadas, kad pasaulis
+2022-ųjų atrodė ir norėjosi tikėtis, kad karas Europoje – praeitis,
+likusi XX amžiuje, o „niekada daugiau" – tvarus pažadas, kad pasaulis
 pasimokė iš skaudžiausių klaidų ir juodžiausi istorijos puslapiai jau
 nepasikartos. Skaudu pripažinti, kad klydome, o brutalus visai šalia
 mūsų vykstantis karas verčia dar tvirčiau ir užtikrinčiau atsigręžti į
 pamatines vertybes ir prisiminti, kas esame, ko siekiame ir kuo tikime.
 
-Džiaugiuosi ir didžiuojuosi, kad VU SA neliko stebėtoja -- ėmėtės
+Džiaugiuosi ir didžiuojuosi, kad VU SA neliko stebėtoja – ėmėtės
 globoti kiekvieną ukrainietį (-ę) studentą (-ę), įstojusį (-ią) į VU
 šeimą, ieškojote jiems namų ir padėjote jaustis visapusiškai saugiau
 nežinomybės ir neapibrėžtumo situacijoje. Visi privalome nepritrūkti
@@ -74,7 +74,7 @@ kasdienybe. Džiaugiuosi, kad VU SA organizacijos Tvarumo deklaracijoje
 išsikelia uždavinius, kurie padės jums patiems keisti įpročius, taip pat
 įkvėps bei rodys pavyzdį kitiems.
 
-Dar vienas labai svarbus pokytis -- pramonės 5.0 ir dirbtinio intelekto
+Dar vienas labai svarbus pokytis – pramonės 5.0 ir dirbtinio intelekto
 revoliucija. Ateitis atėjo greičiau nei galbūt tikėjomės. Jau dabar
 turime lengvai prieinamą pokalbių robotą, gundantį už mus atlikti namų
 darbus. Turime diskutuoti apie šių inovacijų galimybes ir grėsmes kaip
@@ -106,10 +106,10 @@ užtikrinant jo prieinamumą ir tarptautiškumą.
 
 Aktyviai atstovaudami savo bendruomenei, suteikiate jai balsą bei
 galimybes veikti ir tobulėti. Taip prisidedate ne tik prie studentijos,
-bet ir visos Lietuvos gerovės -- juk mūsų šalies ateitį kuria veržlūs ir
+bet ir visos Lietuvos gerovės – juk mūsų šalies ateitį kuria veržlūs ir
 atviri naujovėms jauni žmonės.
 
-Valstybės misija -- padėti subręsti būtent tokiems visuomenės nariams,
+Valstybės misija – padėti subręsti būtent tokiems visuomenės nariams,
 kurie nestokoja drąsos ir ryžto, gebėjimo pažvelgti kitaip, matyti
 daugiau. Itin vertiname jūsų iniciatyvas ir konstruktyvius patarimus
 kuriant efektyviam aukštajam mokslui palankią aplinką.
@@ -302,10 +302,10 @@ taptų pagrindu gerovės rytojui. Nemažai pastangų tenka įdėti ir
 atskiriant pelus nuo grūdų, tiesą nuo netiesos.
 
 Taikant technologines naujoves, svarbu kartu įvertinti ir diegti
-socialines naujoves -- akademinę etiką skatinančias priemones. Tikiu,
+socialines naujoves – akademinę etiką skatinančias priemones. Tikiu,
 kad technologinių ir socialinių naujovių dermė prisidės prie akademinės
 etikos kultūros transformacijų. Čia Jūsų visų įsitraukimas yra itin
-laukiamas. Svarbiausia išlikti proaktyviems ir kūrybiškiems -- tik taip
+laukiamas. Svarbiausia išlikti proaktyviems ir kūrybiškiems – tik taip
 prisidėsite prie tarptautinių akademinės etikos standartų puoselėjimo.
 
 **V**ieningai **U**ž **S**tudentų **A**teitį!
@@ -319,7 +319,7 @@ Akademinės etikos ir procedūrų kontrolierė
 ![Arminas](public/img/sveikinimai/IMG_20230114_124623_963.jpg)
 
 Šiemet nuveikėte daug darbų, kuriais galėtų didžiuotis bet kuri VU SA
-karta -- socialinė dimensija apibrėžta įstatymu, rengtas jos plėtros
+karta – socialinė dimensija apibrėžta įstatymu, rengtas jos plėtros
 planas, finansavimas studentų mokslo renginiams, rezidentų atlyginimai,
 darbas su doktorantais, patvirtinta atnaujinta VU SA strategija, kuriama
 VU žalumo strategija.
@@ -328,13 +328,13 @@ Ypač smagu, kad nemaža tų darbų dalis buvo ilgo ir tęstinio įdirbio
 reikalavę pasiekimai. BET dažnai paprasčiau yra daryti tai, ko iš tavęs
 tikisi kiti ar daryti tai, kas žinai, jog sulauks daug palaikymo ir
 pritarimo. Visgi sunkūs, o neretai ir ilgalaikiškiausią poveikį
-lemiantys darbai -- tie, už kuriuos galbūt net niekas nepadėkos, kuriems
+lemiantys darbai – tie, už kuriuos galbūt net niekas nepadėkos, kuriems
 nemaža dalis pradžioje net nepritars.
 
 Refleksijos kultūros diegimas, lyčiai jautrios kalbos naudojimas, lyčių
 lygybės problemų sureikšminimas, VU SA tvarumo deklaracija ir praktinis
-tų principų laikymasis -- vegetariškas maistas per mokymus, pirmą kartą
-organizuotas tvarumo festivalis -- **AČIŪ**, kad šalia įprastų gerų ir
+tų principų laikymasis – vegetariškas maistas per mokymus, pirmą kartą
+organizuotas tvarumo festivalis – **AČIŪ**, kad šalia įprastų gerų ir
 svarbių darbų studentams, išdrįsote būti pavyzdžiu kitoms organizacijoms
 bei spręsti ne tik *patogias* problemas.
 
