@@ -4,4 +4,4 @@
 
 ## Rename files in a directory to with dashes
 
-# find ataskaita-2023/src/public/img/bendros-nuotraukos -type f -name "* *" -exec rename 's/ /-/g' {} + 
+# find . -type f -name "* *" -exec rename 's/ /-/g' {} + 
