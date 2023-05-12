@@ -41,7 +41,7 @@ import { biuras } from "../data/bendruomene.ts";
           <p class="opacity-80 text-sm">VU SA prezidentė</p>
         </PersonAvatar>
       </figcaption>
-      <video playsinline autoplay controls muted class="md:w-1/2 mx-auto rounded-lg order-1 md:order-2 z-20 shadow-lg h-full object-cover">
+      <video playsinline autoplay controls muted loop class="md:w-1/2 mx-auto rounded-lg order-1 md:order-2 z-20 shadow-lg object-cover aspect-video">
         <source src="/video/Nedos-kalba.mp4" type="video/mp4">
         Your browser does not support the video tag.
       </video>

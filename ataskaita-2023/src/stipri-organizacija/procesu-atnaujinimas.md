@@ -122,7 +122,7 @@ centrinius sprendimų priėmimo darinius. Be to, ją galima naudoti
 kokybiškesniems studentų atstovų inicijuojamiems kiekybiniams ir
 kokybiniams tyrimams organizuoti.
 
-<!-- ## VU SA darbo reglamento atnaujinimas
+## VU SA darbo reglamento atnaujinimas
 
 Šios kadencijos Parlamente atnaujintas VU SA Darbo reglamentas. Jame
 numatyti darbo organizavimo pasitelkiant elektronines ryšio priemones
@@ -133,4 +133,4 @@ tuo susijusios teisės bei pareigos, įtrauktas Institucinio stiprinimo
 fondas, aprašyti jo įgaliojimai ir statusas organizacijoje bei
 patikslinta Studentų atstovų (-ių) Senate rinkimo tvarka – iš Darbo
 reglamento perkeliant ir papildant rinkimų nuostatas atskirame
-dokumente. -->
+dokumente.

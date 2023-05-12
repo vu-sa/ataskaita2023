@@ -24,7 +24,7 @@ const ltConfig: LocaleSpecificConfig<DefaultTheme.Config> = {
             { text: 'Struktūros', link: '/vu-sa/strategija' },
             { text: 'Tikslai', link: '/mvp/strateginiai' },
             { text: 'Strateginės kryptys', items: [
-                { text: 'Kokybiškos studijos ir joms pritaikyta aplinka', link: '/kokybiskos-studijos/rastai' },
+                { text: 'Kokybiškos studijos ir joms pritaikyta aplinka', link: '/kokybiskos-studijos/nacionalinis' },
                 { text: 'Stipri organizacija', link: '/stipri-organizacija/projektai' },
                 { text: 'Darni universitetinė bendruomenė', link: '/darni-bendruomene/integracija' },
             ] },
@@ -58,7 +58,7 @@ const ltConfig: LocaleSpecificConfig<DefaultTheme.Config> = {
                         text: 'Kokybiškos studijos ir joms pritaikyta aplinka',
                         collapsed: true,
                         items: [
-                            { text: 'Nacionalinis ir miesto savivaldoje atstovavimas', link: '/kokybiskos-studijos/nacionalinis-ir-miestas' },
+                            { text: 'Nacionalinis ir miesto savivaldoje atstovavimas', link: '/kokybiskos-studijos/nacionalinis' },
                             { text: 'Atstovavimas VU', link: '/kokybiskos-studijos/vu' },
                             { text: 'Bendradarbiavimas', link: '/kokybiskos-studijos/bendradarbiavimas' },
                             { text: 'Tarptautinis bendradarbiavimas', link: '/kokybiskos-studijos/tarptautinis' },

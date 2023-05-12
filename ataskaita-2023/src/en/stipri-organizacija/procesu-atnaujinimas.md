@@ -118,7 +118,7 @@ students through different CSOs and central decision-making structures.
 In addition, it can be used to organize more qualitative quantitative
 and qualitative research initiated by student representatives.
 
-<!-- ## Updating the rules of procedure of VU SR
+## Updating the rules of procedure of VU SR
 
 VU SR Rules of Procedure was updated in the Parliament during this term
 of office. It provides for the principles of work organization using
@@ -130,4 +130,4 @@ responsibilities related to it, the Institutional Strengthening Fund is
 included, his powers and status in the organization are described and
 the procedure for electing Student Representatives to the Senate is
 specified - transferring and supplementing the election provisions from
-the Rules of Procedure in a separate document. -->
+the Rules of Procedure in a separate document.
