@@ -1,5 +1,13 @@
 # Sveikinimai
 
+<script setup lang="ts">
+import PhotoGrid from '../components/PhotoGrid.vue'
+import { sveikintojai } from '../data/bendruomene'
+
+</script>
+
+<PhotoGrid :photos="sveikintojai" />
+
 ## Vilniaus universiteto Rektorius
 
 ![Vilniaus universiteto Rektorius](public/img/sveikinimai/rektorius.jpg)

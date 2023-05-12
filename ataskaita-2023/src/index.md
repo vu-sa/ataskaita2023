@@ -151,7 +151,7 @@ import { biuras } from "../data/bendruomene.ts";
 </section>
 
 <section class="lg:px-2 px-4 isolate mt-16">
-    <p class="mx-auto w-fit text-4xl font-bold my-8">Metų <span class="italic">highlightai</span></p>
+    <p class="mx-auto w-fit text-4xl font-bold my-8">Metų <span class="italic">istorijos</span></p>
   <div class="max-w-5xl mx-auto grid grid-cols-1 lg:grid-cols-2 gap-7">
     <ElementWithBg class="h-[21rem]" img-src="/ataskaita-2023/img/renginiai/biblioteka/FC0BE34F-EA5F-43D7-A5C4-4BDB81CFD4D1.jpg" :color-classes="['bg-[rgba(60,12,6,0.95)] dark:bg-zinc-900/90']">
       <template #title>1. Individualios studijos</template>

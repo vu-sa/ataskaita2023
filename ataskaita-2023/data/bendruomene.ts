@@ -107,6 +107,59 @@ export const biuras = [
   },
 ];
 
+export const sveikintojai = [
+  {
+    link: "/ataskaita-2023/img/sveikinimai/rektorius.jpg",
+    title: "VU Rektorius",
+    href: "#vilniaus-universiteto-rektorius",
+  },
+  {
+    link: "/ataskaita-2023/img/sveikinimai/MP-portretas.jpg",
+    title: "LR Vyriausybė",
+    href: "#lr-vyriausybe",
+  },
+  {
+    link: "/ataskaita-2023/img/sveikinimai/20211231SMM0974.jpeg",
+    title: "LR Švietimo, mokslo ir sporto ministerija",
+    href: "#lr-svietimo-mokslo-ir-sporto-ministerija",
+  },
+  {
+    link: "/ataskaita-2023/img/sveikinimai/vcn.jpeg",
+    title: "LR Seimas",
+    href: "#lr-seimas",
+  },
+  {
+    link: "/ataskaita-2023/img/sveikinimai/zukauskas.jpeg",
+    title: "LR Seimo Švietimo, mokslo ir sporto komitetas",
+    href: "#lr-seimo-svietimo-mokslo-ir-sporto-komitetas",
+  },
+  {
+    link: "/ataskaita-2023/img/sveikinimai/DSC01335.jpg",
+    title: "Vilniaus universiteto Senatas",
+    href: "#vilniaus-universiteto-senatas",
+  },
+  {
+    link: "/ataskaita-2023/img/sveikinimai/Radzeviciene.5M5A1668r_3.jpg",
+    title: "Vilniaus universiteto Taryba",
+    href: "#vilniaus-universiteto-taryba",
+  },
+  {
+    link: "/ataskaita-2023/img/sveikinimai/ik.jpeg",
+    title: "Vilniaus universiteto biblioteka",
+    href: "#vilniaus-universiteto-biblioteka",
+  },
+  {
+    link: "/ataskaita-2023/img/sveikinimai/dr.-Loreta-Tauginien%C4%97.MART1397B.jpg",
+    title: "Akademinės etikos ir procedūrų kontrolierė",
+    href: "#akademines-etikos-ir-proceduru-kontroliere",
+  },
+  {
+    link: "/ataskaita-2023/img/sveikinimai/IMG_20230114_124623_963.jpg",
+    title: "Žinių ekonomikos forumas",
+    href: "#ziniu-ekonomikos-forumas",
+  },
+];
+
 export const teamPhotos = [
   {
     link: "/ataskaita-2023/img/bendros-nuotraukos/Biuras2.jpg",

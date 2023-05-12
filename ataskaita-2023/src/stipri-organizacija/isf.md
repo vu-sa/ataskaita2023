@@ -9,14 +9,13 @@ užtikrinti sąlygas VU SA stiprinti ir nuosekliai kelti kompetencijas
 organizacijoje.
 :::
 
-::: details 2021–2022 m. Institucinio stiprinimo fondą sudarė...
+::: details 2022–2023 m. Institucinio stiprinimo fondą sudarė...
 
-- Augustė Grakavinaitė (pirmininkė)
-- Laima Jasionytė
-- Inga Vederytė
-- Gintarė Zinkevičiūtė
+- Vanesa Ražinskytė (pirmininkė)
 - Julija Jarutytė
-- Goda Žvirblytė (iki 2022 vasario mėn.)
+- Daniel Šematovič
+- Martyna Vilutytė
+- Milda Girdenytė
 
 :::
 
