@@ -42,8 +42,7 @@ Parlamentarai numatė konkrečius veiksmus, kuriais gali būti didinamas
 kokybiškas ir vertingas studentų (-čių) dalyvavimas darbo santykiuose su
 Universitetu.
 
-**Priimta pozicija dėl studentų (-čių) rengimo pilietiniam
-pasipriešinimui bei karo prievolės atlikimo**
+### Priimta pozicija dėl studentų (-čių) rengimo pilietiniam pasipriešinimui bei karo prievolės atlikimo
 
 VU SA Parlamentas, reaguodamas į šalyje kilusias diskusijas dėl
 privalomosios karo tarnybos atlikimo būdų bei modelio, priėmė poziciją,
@@ -52,14 +51,14 @@ raginančią didinti visuomenės ir kartu švietimo bendruomenės atsparumą
 galimybes atlikti alternatyviai karo prievolės tarnybai nepertraukiant
 studijų laikotarpio.
 
-#### Priimta VU SA tvarumo deklaracija
+### Priimta VU SA tvarumo deklaracija
 
 VU SA Parlamentas patvirtino VU SA Tvarumo deklaracija, kuria ragina ir
 kviečia kiekvieną VU SA bei Universiteto bendruomenės narį (-ę)
 vadovautis žalumo bei tvarumo principais savo veikloje Universitete ir
 už jo ribų.
 
-### Kiti pažymėtini su Parlamento veikla susiję nutarimai
+## Kiti pažymėtini su Parlamento veikla susiję nutarimai
 
 - Išrinkti studentų atstovai (-ės) į Vilniaus universiteto Senatą
 - Išklausytos VU SA Parlamento renkamų studentų atstovų (-ių) į Universiteto Senatą

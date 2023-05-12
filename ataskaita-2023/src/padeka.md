@@ -5,14 +5,14 @@ outline: deep
 # Padėka
 
 <script setup lang="ts">
-// import logos from "../data/friendLogos.ts";
+import logos from "../data/friendLogos.ts";
 </script>
 
 ## Draugai
 
-<!-- <div class="flex flex-wrap gap-6">
+<div class="flex flex-wrap gap-6 mb-8">
   <img class="object-contain" v-for="image in logos" :key="image" :src="image" width="150" />
-</div> -->
+</div>
 
 VU SA 2022-2023 m. ataskaitos projektą koordinavo: **Julija Jarutytė**
 

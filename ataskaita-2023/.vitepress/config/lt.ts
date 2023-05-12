@@ -23,7 +23,7 @@ const ltConfig: LocaleSpecificConfig<DefaultTheme.Config> = {
             { text: 'Strateginės kryptys', items: [
                 { text: 'Kokybiškos studijos ir joms pritaikyta aplinka', link: '/kokybiskos-studijos/rastai' },
                 { text: 'Stipri organizacija', link: '/stipri-organizacija/projektai' },
-                { text: 'Darni universitetinė bendruomenė', link: '/darni-bendruomene/darni-bendruomene' },
+                { text: 'Darni universitetinė bendruomenė', link: '/darni-bendruomene/integracija' },
             ] },
             { text: 'Bendruomenė', link: '/bendruomene' },
         //     { text: 'Padėka', link: '/padeka' },
@@ -31,10 +31,10 @@ const ltConfig: LocaleSpecificConfig<DefaultTheme.Config> = {
         ],
 
         sidebar: [
+            
             {
                 text: 'VU SA struktūros',
                 items: [
-                    { text: 'Strategija', link: '/vu-sa/strategija' },
                     { text: 'Parlamentas', link: '/vu-sa/parlamentas' },
                     { text: 'Taryba', link: '/vu-sa/taryba' },
                     { text: 'Institucinio stiprinimo fondas', link: '/vu-sa/isf' },
@@ -74,10 +74,9 @@ const ltConfig: LocaleSpecificConfig<DefaultTheme.Config> = {
                     },
                     {
                         text: 'Darni universitetinė bendruomenė',
-                        link: '/darni-bendruomene/iniciatyvos',
                         collapsed: true,
                         items: [
-                            { text: 'Iniciatyvos', link: '/darni-bendruomene/iniciatyvos' },
+                            { text: 'Renginiai', link: '/darni-bendruomene/renginiai' },
                             { text: 'Studentų (-čių) integracija', link: '/darni-bendruomene/integracija' },
                             { text: 'Programos, klubai ir projektai', link: '/darni-bendruomene/pkp' },
                         ]

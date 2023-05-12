@@ -1,5 +1,12 @@
 # VU SA taryba
 
+<script setup>
+import PersonAvatar from '../../components/PersonAvatar.vue'
+import { taryba } from '../../data/bendruomene.ts'
+</script>
+
+![VU SA Taryba](/ataskaita-2023/img/bendros-nuotraukos/Taryba.jpg){.rounded-sm}
+
 ::: tip **VU SA Taryba** - tai...
 VU SA valdymo organas, sprendžiantis
 bendradarbiavimo ir organizacijos vidaus klausimus. Šį valdymo organą
@@ -8,25 +15,17 @@ sudaro atstovavimo funkciją vykdančių Organizacijos padalinių vadovai
 veiklą.
 :::
 
-2022--2023 m. VU SA Tarybą sudarė:
+::: details 2022–2023 m. VU SA Tarybą sudarė...
 
-- **VU SA Prezidentė:** Neda Žutautaitė
-- **VU SA CHGF:** Ignas Mugenis
-- **VU SA EVAF:** Einoras Tiškevičius
-- **VU SA FF:** Kasparas Daranda (iki 2022 m. rugsėjo men.), Justas
-    Lebedevas (nuo 2022 m. rugsėjo mėn.)
-- **VU SA FILF:** Martynas Žaronaitis
-- **VU SA FSF:** Dovilė Mikniūtė
-- **VU SA GMC:** Eivinas Zebleckas
-- **VU SA IF:** Ieva Šiaudvytytė
-- **VU SA KF:** Martyna Pikelytė
-- **VU SA KnF:** Lijana Savickienė
-- **VU SA MF:** Damian Luka Mialkowskyj
-- **VU SA MIF:** Babrielė Kasperaitė
-- **VU SA ŠA:** Vakarė Vasiliauskaitė
-- **VU SA TF:** Guoda Baubaitė
-- **VU SA TSPMI:** Anelė Dromantaitė
-- **VU SA VM:** Edgaras Kodis
+<section class="grid grid-cols-1 sm:grid-cols-2 gap-6 p-4" >
+    <PersonAvatar :size="56" :src="member.avatar" v-for="member in taryba" >
+    <div class="flex flex-col leading-5">
+        <strong class="text-md/4">{{member.name}}</strong>
+        <span class="text-xs">{{ member.title}}</span></div>
+    </PersonAvatar>
+</section>
+
+:::
 
 Ataskaitiniu laikotarpiu įvyko 9 VU SA Tarybos posėdžiai. VU SA
 Taryba svarstė ir priėmė sprendimus dėl institucinio stiprinimo, vidaus

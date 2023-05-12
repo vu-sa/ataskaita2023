@@ -1,6 +1,6 @@
 <template>
     <div class="grid grid-cols-2 gap-8 mt-16">
-        <div v-for="photo in teamPhotos" class="flex flex-col items-center gap-3">
+        <div v-for="photo in photos" class="flex flex-col items-center gap-3">
             <a :href="photo.href">
                 <img class="rounded-md shadow-sm hover:shadow-xl transition-shadow" :src="photo.link" />
             </a>
@@ -11,8 +11,8 @@
 
 <script setup lang="ts">
 defineProps<{
-    teamPhotos: {
-        href: string;
+    photos: {
+        href?: string;
         link: string;
         title: string;
     }[];

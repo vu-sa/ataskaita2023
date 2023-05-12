@@ -109,275 +109,268 @@ export const biuras = [
 
 export const teamPhotos = [
   {
-    link: "/ataskaita-2023/img/koordinatoriu-nuotraukos/bendros/Centrinis-biuras-2.jpg",
+    link: "/ataskaita-2023/img/bendros-nuotraukos/Biuras2.jpg",
     title: "Centrinis biuras",
     href: "#centrinis-biuras",
   },
   {
-    link: "/ataskaita-2023/img/koordinatoriu-nuotraukos/bendros/Taryba-2.jpg",
+    link: "/ataskaita-2023/img/bendros-nuotraukos/Taryba.jpg",
     title: "VU SA Taryba",
     href: "/ataskaita-2023/vu-sa/taryba",
   },
   {
-    link: "/ataskaita-2023/img/kitos-nuotraukos/Parlamentas.jpg",
+    link: "/ataskaita-2023/img/bendros-nuotraukos/Parlamentas.jpg",
     title: "VU SA Parlamentas",
     href: "/ataskaita-2023/vu-sa/parlamentas",
   },
   {
-    link: "/ataskaita-2023/img/kitos-nuotraukos/ISF.jpg",
+    link: "/ataskaita-2023/img/bendros-nuotraukos/ISF.jpg",
     title: "Institucinio stiprinimo fondas",
     href: "/ataskaita-2023/stipri-organizacija/isf",
   },
   {
-    link: "/ataskaita-2023/img/koordinatoriu-nuotraukos/bendros/Socialinio-akademinio-proceso-koordinatoriai-2.jpg",
-    title: "Socialinio-akademinio proceso reikalų koordinatoriai",
-    href: "#socialinio-akademinio-proceso-koordinatoriai"
+    link: "/ataskaita-2023/img/bendros-nuotraukos/AASA.jpg",
+    title: "Socialinio-akademinio proceso reikalų koordinatoriai (-ės)",
+    href: "#socialinio-akademinio-proceso-reikalu-koordinatoriai"
   },
   {
-    link: "/ataskaita-2023/img/koordinatoriu-nuotraukos/bendros/atstovu.jpg",
-    title: "Atstovų koordinatoriai",
+    link: "/ataskaita-2023/img/bendros-nuotraukos/Atstovai.jpg",
+    title: "Atstovų koordinatoriai (-ės)",
     href: "#atstovu-koordinatoriai"
   },
   {
-    link: "/ataskaita-2023/img/koordinatoriu-nuotraukos/bendros/Komunikacijos-koordinatoriai-2.jpg",
+    link: "/ataskaita-2023/img/bendros-nuotraukos/Komunikacija.jpg",
     title: "Komunikacijos koordinatoriai",
     href: "#komunikacijos-koordinatoriai"
   },
   {
-    link: "/ataskaita-2023/img/koordinatoriu-nuotraukos/bendros/Marketingo-srities-koordinatoriai-2.jpg",
+    link: "/ataskaita-2023/img/bendros-nuotraukos/Marketingas-2.jpg",
     title: "Marketingo koordinatoriai",
     href: "#marketingo-koordinatoriai"
   },
   {
-    link: "/ataskaita-2023/img/koordinatoriu-nuotraukos/bendros/organizacines.jpg",
+    link: "/ataskaita-2023/img/bendros-nuotraukos/Orgai.jpg",
     title: "Organizacinės srities koordinatoriai",
     href: "#organizacines-srities-koordinatoriai"
   },
   {
-    link: "/ataskaita-2023/img/koordinatoriu-nuotraukos/bendros/HR-2.jpg",
+    link: "/ataskaita-2023/img/bendros-nuotraukos/HR.jpg",
     title: "Žmogiškųjų išteklių koordinatoriai",
     href: "#zmogiskuju-istekliu-koordinatoriai"
   },
   {
-    link: "/ataskaita-2023/img/koordinatoriu-nuotraukos/bendros/Integracijos-proceso-koordinatoriai-2.jpg",
+    link: "/ataskaita-2023/img/bendros-nuotraukos/Integracija.jpg",
     title: "Integracijos proceso koordinatoriai",
     href: "#integracijos-proceso-koordinatoriai"
   },
+  // {
+  //   link: "/ataskaita-2023/img/bendros-nuotraukos/Administratoriai-2.jpg",
+  //   title: "Administratoriai",
+  //   href: "#administratoriai"
+  // },
   {
-    link: "/ataskaita-2023/img/koordinatoriu-nuotraukos/bendros/Administratoriai-2.jpg",
-    title: "Administratoriai",
-    href: "#administratoriai"
-  },
-  {
-    link: "/ataskaita-2023/img/koordinatoriu-nuotraukos/bendros/LSP-koordinatoriai-2.jpg",
+    link: "/ataskaita-2023/img/bendros-nuotraukos/LSP2.jpg",
     title: "LSP koordinatoriai",
     href: "#lsp-koordinatoriai"
   },
   {
-    link: "/ataskaita-2023/img/koordinatoriu-nuotraukos/bendros/PKP-2.jpg",
+    link: "/ataskaita-2023/img/bendros-nuotraukos/PKP2.jpg",
     title: "Programos, klubai ir projektai",
     href: "#programos-klubai-ir-projektai"
   },
   {
-    link: "/ataskaita-2023/img/koordinatoriu-nuotraukos/bendros/Uzsienieciu-koordai-2.jpg",
+    link: "/ataskaita-2023/img/bendros-nuotraukos/tarptautiniu.jpg",
     title: "Užsieniečių studentų koordinatoriai",
     href: "#uzsienieciu-studentu-koordinatoriai"
   },
 ];
 
 export const taryba = [
-  {
-    name: "Neda Žutautaitė",
-    title: "VU SA prezidentė",
-    avatar: "/ataskaita-2023/img/koordinatoriu-nuotraukos/CB/Neda Žutautaitė_Prezidentė.jpg",
-  },
+  biuras[0],
   {
     name: "Ignas Mugenis",
     title: "VU SA CHGF pirmininkas",
     avatar:
-      "/ataskaita-2023/img/koordinatoriu-nuotraukos/taryba/Ignas Mugenis_Pirmininkas_CHGF-2.jpg",
+      "/ataskaita-2023/img/koordinatoriu-nuotraukos/taryba/Ignas-Mugenis-CHGF.jpeg",
   },
   {
     avatar:
-      "/ataskaita-2023/img/koordinatoriu-nuotraukos/taryba/Justinas Sacevičius_Pirmininkas_EVAF.jpg",
-    name: "Justinas Sacevičius",
+      "/ataskaita-2023/img/koordinatoriu-nuotraukos/taryba/Einoras-Tiškevičius-EVAF.jpg",
+    name: "Einoras Tiškevičius",
     title: "VU SA EVAF pirmininkas",
   },
   {
     avatar:
-      "/ataskaita-2023/img/koordinatoriu-nuotraukos/taryba/Raimondas Šiškevičius_Pirminkas_FF.jpg",
-    name: "Raimondas Šiškevičius",
-    title: "VU SA FF pirmininkas",
+      "/ataskaita-2023/img/koordinatoriu-nuotraukos/taryba/Kasparas-Daranda-FF-(iki-2022.08.20).jpg",
+    name: "Kasparas Daranda",
+    title: "VU SA FF pirmininkas (iki 2022.08.20)",
   },
   {
     avatar:
-      "/ataskaita-2023/img/koordinatoriu-nuotraukos/taryba/Elena Pranevičiūtė_Pirmininkė_FilF-2.jpg",
-    name: "Elena Pranevičiūtė",
-    title: "VU SA FilF pirmininkė",
+      "/ataskaita-2023/img/koordinatoriu-nuotraukos/taryba/Justas-Lebedevas-FF-(nuo-2022.09.21).jpeg",
+    name: "Justas Lebedevas",
+    title: "VU SA FF pirmininkas (nuo 2022.09.21)",
   },
   {
-    name: "Martyna Vilutytė",
+    avatar:
+      "/ataskaita-2023/img/koordinatoriu-nuotraukos/taryba/Martynas-Žaronaitis-FilF.jpeg",
+    name: "Martynas Žaronaitis",
+    title: "VU SA FilF pirmininkas",
+  },
+  {
+    name: "Dovilė Mikniūtė",
     title: "VU SA FsF pirmininkė",
     avatar:
-      "/ataskaita-2023/img/koordinatoriu-nuotraukos/taryba/Martyna Vilutytė_Pirmininke_FsF-2.jpg",
+      "/ataskaita-2023/img/koordinatoriu-nuotraukos/taryba/Dovilė-Mikniutė-FSF.jpg",
   },
   {
-    name: "Kornelija Buivydaitė",
+    name: "Eivinas Zableckas",
     title: "VU SA GMC pirmininkė",
     avatar:
-      "/ataskaita-2023/img/koordinatoriu-nuotraukos/taryba/Kornelija Buivydaitė_Pirmininkė_GMC-2.jpg",
+      "/ataskaita-2023/img/koordinatoriu-nuotraukos/taryba/Eivinas-Zableckas-GMC.jpg",
   },
   {
     name: "Ieva Šiaudvytytė",
     title: "VU SA IF pirmininkė",
     avatar:
-      "/ataskaita-2023/img/koordinatoriu-nuotraukos/taryba/Ieva Šiaudvytytė_Pirmininke_IF-2.jpg",
+      "/ataskaita-2023/img/koordinatoriu-nuotraukos/taryba/Ieva-Šiaudvytytė-IF.jpeg",
   },
   {
-    name: "Dominyka Goldbergaitė",
+    name: "Martyna Pikelytė",
     title: "VU SA KF pirmininkė",
     avatar:
-      "/ataskaita-2023/img/koordinatoriu-nuotraukos/taryba/Dominyka Goldbergaitė_pirmininkė_KF-2.jpg",
+      "/ataskaita-2023/img/koordinatoriu-nuotraukos/taryba/Martyna-Pikelytė-KF.png",
   },
   {
     name: "Lijana Savickienė",
     title: "VU SA KnF pirmininkė",
     avatar:
-      "/ataskaita-2023/img/koordinatoriu-nuotraukos/taryba/Lijana Savickienė_Pirmininke_KnF.jpg",
+      "/ataskaita-2023/img/koordinatoriu-nuotraukos/taryba/Lijana-Savickienė-KnF.jpg",
   },
   {
-    name: "Emilija Narušytė",
-    title: "VU SA MF pirmininkė",
+    name: "Damian Mialkowskyj",
+    title: "VU SA MF pirmininkas",
     avatar:
-      "/ataskaita-2023/img/koordinatoriu-nuotraukos/taryba/Emilija Narušytė_Pirminnke_MF-2.jpg",
+      "/ataskaita-2023/img/koordinatoriu-nuotraukos/taryba/Damian-Mialkowskyj-(MF).jpg",
   },
   {
-    name: "Paulina Bilinskaitė",
+    name: "Gabrielė Kasperaitė",
     title: "VU SA MIF pirmininkė",
     avatar:
-      "/ataskaita-2023/img/koordinatoriu-nuotraukos/taryba/Paulina Bilinskaitė_Pirminink_MIF-2.jpg",
+      "/ataskaita-2023/img/koordinatoriu-nuotraukos/taryba/Gabrielė-Kasperaitė-(MIF).jpg",
   },
   {
-    name: "Paulius Ladukas",
-    title: "VU SA ŠA pirmininkas",
+    name: "Vakarė Vasiliauskaitė",
+    title: "VU SA ŠA pirmininkė",
     avatar:
-      "/ataskaita-2023/img/koordinatoriu-nuotraukos/taryba/Paulius-Ladukas_Pirmininkas_ŠA-2.jpg",
+      "/ataskaita-2023/img/koordinatoriu-nuotraukos/taryba/Vakarė-Vasiliauskaitė-(ŠA).jpg",
   },
   {
-    name: "Airina Mikulėnaitė",
+    name: "Guoda Baubaitė",
     title: "VU SA TF pirmininkė",
     avatar:
-      "/ataskaita-2023/img/koordinatoriu-nuotraukos/taryba/Airina Mikulėnaitė_Pirmininke_TF.jpg",
+      "/ataskaita-2023/img/koordinatoriu-nuotraukos/taryba/Guoda-Baubaitė--(TF).jpg",
   },
   {
-    name: "Ugnė Bičkauskaitė",
+    name: "Anelė Dromantaitė",
     title: "VU SA TSPMI pirmininkė",
     avatar:
-      "/ataskaita-2023/img/koordinatoriu-nuotraukos/taryba/Ugnė Bičkauskaitė_Pirmininkė_TSPMI.jpg",
+      "/ataskaita-2023/img/koordinatoriu-nuotraukos/taryba/Anelė-Dromantaitė-(TSPMI).jpg",
   },
-  {
-    name: "Justinas Brazaitis",
-    title: "VU SA VM pirmininkas (iki 2021 gruodžio mėn.)",
-    avatar:
-      "/ataskaita-2023/img/koordinatoriu-nuotraukos/taryba/Justinas Brazaitis – VU SA VM Pirmininkas (iki 2021 gruodžio mėn.).jpg",
-  },
+  
   {
     name: "Edgaras Kodis",
-    title: "VU SA VM pirmininkas (nuo 2021 gruodžio mėn.)",
+    title: "VU SA VM pirmininkas",
     avatar:
-      "/ataskaita-2023/img/koordinatoriu-nuotraukos/taryba/Edgaras Kodis_Pirmininkas_VM(nuo 2021-12).jpg",
+      "/ataskaita-2023/img/koordinatoriu-nuotraukos/taryba/Edgaras-Kodis-(VM).jpeg",
   },
 ];
 
 export const socakad = [
   {
-    name: "Gabija Navašinskaitė",
+    name: "Dovydas Žilinskis",
     title: "VU SA CHGF",
     avatar:
-      "/ataskaita-2023/img/koordinatoriu-nuotraukos/socakad/Gabija-Navašinskaitė_Socialinio-akademinio-proceso-reikalų-koordinatorė_CHGF-2.jpg",
+      "/ataskaita-2023/img/koordinatoriu-nuotraukos/soc-akad-koordinatoriai/Dovydas-Žilinskis-CHGF.jpeg",
   },
   {
-    name: "Eglė Romelytė",
+    name: "Gabrielė Šimoliūnaitė",
     title: "VU SA EVAF",
     avatar:
-      "/ataskaita-2023/img/koordinatoriu-nuotraukos/socakad/Eglė-Romelytė_Socialinio-akademino-proceso-reikalų-koordinatorė_EVAF.jpg",
+      "/ataskaita-2023/img/koordinatoriu-nuotraukos/soc-akad-koordinatoriai/Gabrielė-Šimoliūnaitė-EVAF.jpg",
   },
   {
-    name: "Kasparas Daranda",
+    name: "Uršulė Tarvydytė (nuo 2022.09)",
     title: "VU SA FF",
     avatar:
-      "/ataskaita-2023/img/koordinatoriu-nuotraukos/socakad/Kasparas-Daranda_Socakad_FF.jpg",
+      "/ataskaita-2023/img/koordinatoriu-nuotraukos/soc-akad-koordinatoriai/Uršulė-Tarvydytė-FF-(nuo-2022.09.21).jpg",
   },
   {
-    name: "Kamilė Kanapienytė",
+    name: "Gabija Mackevičiūtė",
     title: "VU SA FilF",
     avatar:
-      "/ataskaita-2023/img/koordinatoriu-nuotraukos/socakad/Kamilė-Kanapienytė_Socakad_FilF-2.jpg",
+      "/ataskaita-2023/img/koordinatoriu-nuotraukos/soc-akad-koordinatoriai/Gabija-Mackevičiūtė-FilF.jpeg",
   },
   {
-    name: "Vėjūnė Uldinskaitė",
+    name: "Andrė Treinytė",
     title: "VU SA FsF",
     avatar:
-      "/ataskaita-2023/img/koordinatoriu-nuotraukos/socakad/Vėjūnė-Uldinskaitė_Socakad_Fsf-2.jpg",
+      "/ataskaita-2023/img/koordinatoriu-nuotraukos/soc-akad-koordinatoriai/Andrė-Treinytė-FSF.jpg",
   },
   {
-    name: "Justė Žilionytė",
+    name: "Aina El Ravvas",
     title: "VU SA GMC",
     avatar:
-      "/ataskaita-2023/img/koordinatoriu-nuotraukos/socakad/Justė-Žilionytė_Socakad_GMC-2.jpg",
+      "/ataskaita-2023/img/koordinatoriu-nuotraukos/soc-akad-koordinatoriai/Aina-El-Ravvas-GMC.jpg",
   },
+  // {
+  //   name: "",
+  //   title: "VU SA IF",
+  //   avatar:
+  //     "/",
+  // },
   {
-    name: "Vilija Valiukonytė",
-    title: "VU SA IF",
-    avatar:
-      "/ataskaita-2023/img/koordinatoriu-nuotraukos/socakad/Vilija-Valiukonytė_socakadas_IF(nuo-2021-09)-2.jpg",
-  },
-  {
-    name: "Greta Tarimaitė",
+    name: "German Sedeika",
     title: "VU SA KF",
     avatar:
-      "/ataskaita-2023/img/koordinatoriu-nuotraukos/socakad/Greta-Tarimaitė_Socakad_KF-2.jpg",
+      "/ataskaita-2023/img/koordinatoriu-nuotraukos/soc-akad-koordinatoriai/German-Sedeika-KF.png",
   },
   {
-    name: "Raminta Klimaitė",
+    name: "Kamilė Leonaitė",
     title: "VU SA KnF",
     avatar:
-      "/ataskaita-2023/img/koordinatoriu-nuotraukos/socakad/Raminta-Klimaitė_socakad_KnF.jpg",
+      "/ataskaita-2023/img/koordinatoriu-nuotraukos/soc-akad-koordinatoriai/Kamilė-Leonaitė-KnF.jpg",
   },
   {
-    name: "Anastasija Volkova",
+    name: "Abraham Brown",
+    title: "VU SA MF",
+    avatar: "/ataskaita-2023/img/koordinatoriu-nuotraukos/soc-akad-koordinatoriai/Abraham-Brown-(MF).jpeg",
+  },
+  {
+    name: "Normantas Kuolas",
     title: "VU SA MIF",
     avatar:
-      "/ataskaita-2023/img/koordinatoriu-nuotraukos/socakad/Anastasija-Volkova_Socakad_MIF-2.jpg",
+      "/ataskaita-2023/img/koordinatoriu-nuotraukos/soc-akad-koordinatoriai/Normantas-Kuolas-(MIF).jpg",
   },
   {
-    name: "Dominyka Banel",
+    name: "Saulė Navalinskaitė",
     title: "VU SA TF",
     avatar:
-      "/ataskaita-2023/img/koordinatoriu-nuotraukos/socakad/Dominyka-Banel_Socakad_TF-2.jpg",
+      "/ataskaita-2023/img/koordinatoriu-nuotraukos/soc-akad-koordinatoriai/Saulė-Navalinskaitė-(TF).jpg",
   },
   {
-    name: "Livija Trakelytė",
+    name: "Eglė Baužytė",
     title: "VU SA TSPMI",
     avatar:
-      "/ataskaita-2023/img/koordinatoriu-nuotraukos/socakad/Livija-Trakelytė_socakad_TSPMI.jpg",
+      "/ataskaita-2023/img/koordinatoriu-nuotraukos/soc-akad-koordinatoriai/Eglė-Baužytė-(TSPMI).jpg",
   },
   {
-    name: "Matas Krikščiūnas",
+    name: "Agnė Rimaitė",
     title: "VU SA VM",
     avatar:
-      "/ataskaita-2023/img/koordinatoriu-nuotraukos/socakad/Matas-Krikščiūnas_socakad_VM.jpg",
+      "/ataskaita-2023/img/koordinatoriu-nuotraukos/soc-akad-koordinatoriai/Agnė-Rimaitė-(VM).jpeg",
   },
-  {
-    name: "Vakarė Gotautaitė",
-    title: "VU SA IF",
-    avatar: null,
-  },
-  {
-    name: "Snieguolė Bičkutė",
-    title: "VU SA MF",
-    avatar: null,
-  },
+
 ];
 
 export const atstovai = [
