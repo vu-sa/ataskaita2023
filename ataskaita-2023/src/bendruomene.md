@@ -6,7 +6,7 @@ import PhotoGrid from '../components/PhotoGrid.vue'
 
 # Ačiū, kad esate kartu
 
-![VU SA](/ataskaita-2023/img/bendros-nuotraukos/VU-SA.jpg){.rounded-sm}
+![VU SA](public/img/bendros-nuotraukos/VU-SA.jpg)
 
 <PhotoGrid :photos="teamPhotos" />
 
@@ -14,8 +14,44 @@ import PhotoGrid from '../components/PhotoGrid.vue'
 
 <TeamAvatarLayout :members="biuras" />
 
+## Taryba
+
+## Parlamentas
+
+## ISF
+
 ## Socialinio-akademinio proceso reikalų koordinatoriai
 
-![Socakad](/ataskaita-2023/img/bendros-nuotraukos/AASA.jpg){.rounded-sm}
+![Socakad](public/img/bendros-nuotraukos/AASA.jpg)
 
 <TeamAvatarLayout :members="socakad" />
+
+## Atstovų koordinatoriai
+
+![Atstovų koordinatoriai](public/img/bendros-nuotraukos/Atstovai.jpg)
+
+<TeamAvatarLayout :members="atstovai" />
+
+## Komunikacijos koordinatoriai
+
+<TeamAvatarLayout :members="kom" />
+
+## Marketingo koordinatoriai
+
+...
+
+## Organizacinės srities koordinatoriai
+
+...
+
+## Žmogiškųjų išteklių koordinatoriai
+
+...
+
+## Integracijos srities koordinatoriai
+
+...
+
+## Administratoriai
+
+<TeamAvatarLayout :members="admin" />

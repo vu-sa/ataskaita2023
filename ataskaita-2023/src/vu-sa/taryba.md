@@ -5,7 +5,7 @@ import PersonAvatar from '../../components/PersonAvatar.vue'
 import { taryba } from '../../data/bendruomene.ts'
 </script>
 
-![VU SA Taryba](/ataskaita-2023/img/bendros-nuotraukos/Taryba.jpg){.rounded-sm}
+![VU SA Taryba](../public/img/bendros-nuotraukos/Taryba.jpg){.rounded-sm}
 
 ::: tip **VU SA Taryba** - tai...
 VU SA valdymo organas, sprendžiantis
