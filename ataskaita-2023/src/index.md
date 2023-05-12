@@ -15,11 +15,47 @@ hero:
     #   link: /api-examples
 ---
 
+<!-- TODO: koks yra pats pirmas CTA nunešamas puslapis? -->
+
 <script setup lang="ts">
 import 'vue3-carousel/dist/carousel.css'
 import { Carousel, Slide, Pagination, Navigation } from 'vue3-carousel'
 import TestimonialElement from "../components/TestimonialElement1.vue";
+import NumberStatistic from "../components/NumberStatistic.vue";
 </script>
+
+<section class="lg:px-2 px-1.5 isolate mb-8">
+  <div class="max-w-5xl mx-auto p-4 relative">
+    <figure class="flex flex-col md:flex-row">
+      <figcaption class="leading-6 my-8 px-6 text-left md:w-1/2 order-2 md:order-1 flex flex-col">
+          <p class="text-md font-medium italic mb-4">„Didžiuojuosi Organizacija – visų šitų ir krūvos dar neišvardintų dalykų nebūtume nuveikę be stiprių partnerysčių ir vieningo darbo kartu!</p>
+          <p class="font-bold mb-4">Tariu didžiulį AČIŪ kiekvienai (-am) prisidėjusiai (-iam) prie to, kad studentams (-ėms) ir Organizacijai būtų geriau.“</p>
+        <p class="text-sm font-bold">Neda Žutautaitė</p>
+        <p class="opacity-80 text-sm">VU SA prezidentė</p>
+      </figcaption>
+      <video autoplay controls muted class="md:w-1/2 mx-auto rounded-lg order-1 md:order-2 z-20">
+        <source src="/ataskaita-2023/video/Nedos-kalba.mp4" type="video/mp4">
+        Your browser does not support the video tag.
+      </video>
+    </figure>
+    <svg class="absolute w-32 h-32 text-[#bd28344a] dark:text-zinc-300/20 -left-12 -bottom-12" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" fill="none" stroke-linecap="round" stroke-linejoin="round">
+   <path stroke="none" d="M0 0h24v24H0z" fill="none"></path>
+   <path d="M7 4v16l13 -8z"></path>
+</svg>
+  </div>
+</section>
+
+<section class="lg:px-2 px-1.5 isolate my-12">
+  <div class="max-w-6xl mx-auto">
+    <div class="mx-auto w-fit text-4xl font-bold">VU SA – tai:</div>
+    <div class="flex flex-col md:flex-row my-12 mx-auto justify-center gap-8">
+      <NumberStatistic :end-number="34">metai Vilniaus Universiteto studentų (-čių atstovavimo)</NumberStatistic>
+      <NumberStatistic :end-number="15">VU SA padalinių 3 miestuose</NumberStatistic>
+      <NumberStatistic :end-number="20"> VU SA projektų, klubų ir programų </NumberStatistic>
+      <NumberStatistic :end-number="1100" > dėl bendro tikslo veikiančių narių</NumberStatistic>
+    </div>
+  </div>
+</section>
 
 <section class="lg:px-2 px-1.5 isolate">
   <div class="max-w-6xl mx-auto">

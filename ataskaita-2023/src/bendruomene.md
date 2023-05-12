@@ -1,7 +1,7 @@
 # Ačiū, kad esate kartu
 
 <script setup lang="ts">
-import { teamPhotos, biuras, socakad, atstovai, kom, org, mark, hr, integration, admin, pkp, intl, lsp, other } from '../data/bendruomene'
+import { teamPhotos, biuras, socakad, atstovai, kom, org, mark, hr, integration, admin, pkp, intl, lsp, other, dag } from '../data/bendruomene'
 import TeamAvatarLayout from '../components/TeamAvatarLayout.vue'
 import PhotoGrid from '../components/PhotoGrid.vue'
 </script>
@@ -33,6 +33,10 @@ Daugiau apie Parlamentą [skaitykite čia](/vu-sa/parlamentas.md).
 ![ISF](public/img/bendros-nuotraukos/ISF.jpg)
 
 Daugiau apie ISF [skaitykite čia](/stipri-organizacija/isf.md).
+
+## Duomenų apsaugos grupė
+
+<TeamAvatarLayout :members="dag" />
 
 ## Socialinio-akademinio proceso reikalų koordinatoriai
 

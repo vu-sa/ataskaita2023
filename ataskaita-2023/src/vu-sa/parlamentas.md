@@ -1,8 +1,26 @@
 # VU SA Parlamentas
 
+![Parlamentas](../public/img/bendros-nuotraukos/Parlamentas.jpg)
+
+::: tip 📖 VU SA Parlamentas – tai...
+VU SA valdymo organas, svarstantis svarbiausius
+socialinius ir akademinius, su studentais (-ėmis) susijusius ar kitus VU
+SA strateginius klausimus.
+
+VU SA Parlamentą sudaro:
+
+- organizacijos prezidentas
+- viceprezidentas
+- atstovavimo funkciją vykdančių VU SA
+padalinių pirmininkai (-ės) ir po du atstovus (-es) iš kiekvieno
+padalinio.
+
+VU SA Parlamento darbą organizuoja pirmininkas.
+:::
+
 VU SA Parlamentui pirmininkavo Justas Kvedaravičius.
 
-2022-2023 m. VU SA Parlamentą sudarė:
+::: details 2022-2023 m. VU SA Parlamentą sudarė:
 
 - VU SA Prezidentė Neda Žutautaitė
 - **VU SA CHGF:** Ignas Mugenis, Andželika Jankauskytė, Rokas Gražinskas
@@ -21,12 +39,7 @@ VU SA Parlamentui pirmininkavo Justas Kvedaravičius.
 - **VU SA TF:** Guoda Baubaitė, Airina Mikulėnaitė, Skaistė Sirutytė
 - **VU SA VM:** Edgaras Kodis, Justas Petraitis, Michaela Andie Kleynhans
 
-VU SA Parlamentas -- VU SA valdymo organas, svarstantis svarbiausius
-socialinius ir akademinius, su studentais (-ėmis) susijusius ar kitus VU
-SA strateginius klausimus. VU SA Parlamentą sudaro organizacijos
-prezidentas, viceprezidentas, atstovavimo funkciją vykdančių VU SA
-padalinių pirmininkai (-ės) ir po du atstovus (-es) iš kiekvieno
-padalinio. VU SA Parlamento darbą organizuoja pirmininkas.
+:::
 
 Ataskaitiniu laikotarpiu įvyko 9 Parlamento posėdžiai -- 8 gyvi ir 1
 nuotolinis.

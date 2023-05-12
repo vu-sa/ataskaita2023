@@ -286,6 +286,24 @@ export const taryba = [
   },
 ];
 
+export const dag = [
+  {
+    name: "Artūras Anisimenka (iki 2022-12)",
+    avatar:
+      "/ataskaita-2023/img/koordinatoriu-nuotraukos/dag/Artūras-Anisimenka-(iki-2022-12-1).jpg",
+  },
+  {
+    name: "Aušrinė Dichavičiūtė",
+    avatar:
+      "/ataskaita-2023/img/koordinatoriu-nuotraukos/dag/Aušrinė-Dichavičiūtėpg.jpg",
+  },
+  {
+    name: "Erikas Lukauskas",
+    avatar:
+      "/ataskaita-2023/img/koordinatoriu-nuotraukos/dag/Erikas-Lukauskas.jpg",
+  }
+]
+
 export const socakad = [
   {
     name: "Dovydas Žilinskis",

@@ -14,6 +14,8 @@ import logos from "../data/friendLogos.ts";
   <img class="object-contain" v-for="image in logos" :key="image" :src="image" width="150" />
 </div>
 
+## Ataskaitos projekto rengėjai
+
 VU SA 2022-2023 m. ataskaitos projektą koordinavo: **Julija Jarutytė**
 
 Leidinį maketavo: **Justinas Kavoliūnas**
