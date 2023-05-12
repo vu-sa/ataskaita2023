@@ -4,6 +4,8 @@
 
 ## Vilnius University Rector
 
+![Vilniaus universiteto Rektorius](public/img/sveikinimai/rektorius.jpg)
+
 Dear Students,
 
 I am proud of your activities inside and outside the University, proving
@@ -48,6 +50,8 @@ Prof. Rimvydas Petrauskas
 **Prof. Rimvydas Petrauskas**
 
 ## Government of the Republic of Lithuania
+
+![Ingrida Šimonytė](public/img/sveikinimai/MP-portretas.jpg){.rounded-sm}
 
 Dear students of Vilnius University,
 
@@ -109,6 +113,8 @@ Prime Minister of the Republic of Lithuania
 
 ## LR Ministry of Education, Science and Sport
 
+![ŠMSM](public/img/sveikinimai/20211231SMM0974.jpeg)
+
 Dear students,
 
 my sincere congratulations on the successful results of another year of
@@ -139,6 +145,8 @@ Minister for Education, Science and Sport
 **Jurgita Šiugždinienė**
 
 ## Seimas of the Republic of Lithuania
+
+![Seimas](public/img/sveikinimai/vcn.jpeg)
 
 Dear students,
 
@@ -181,7 +189,29 @@ Speaker of the Seimas
 
 **Viktorija Čmilytė-Nielsen**
 
+## Education and Science Committee of the Seimas of the Republic of Lithuania
+
+![ŠMK](public/img/sveikinimai/zukauskas.jpeg)
+
+Dear students of Vilnius University,
+
+I sincerely congratulate you on another year of meaningful activity!
+
+We are currently living in a global and very complex and, at the same time, turbulent, rapidly changing world. Recent years have been marked by extraordinary geopolitical and other challenges, but your focus, responsibility, bold and youthful initiatives inspire and do not leave anyone indifferent. Therefore, together we must strive for the goals set, so that Lithuania becomes a creative country of innovation based on knowledge. At all levels of higher education, the quality of studies must become a priority, which determines your future, the ability to create high economic, social and cultural value based on scientific knowledge. We must refine the missions of different types of higher education institutions and emphasize international indicators of the quality of studies – internationality, mobility of students and teachers, employability, active business involvement. Our common goal is to compete globally, not locally.
+
+It is very important to strive for the management of higher education institutions to be based on the clearly declared goals of the State and the desire to raise the quality of science and studies. It is necessary to ensure more stability and opportunities for higher education institutions to invest in development, and for the academic community to ensure the most favorable conditions for conducting scientific activities and studies. The higher education management model will then encourage study and higher education institutions not to compete, but to cooperate, to jointly create a competitive study and scientific base that meets the needs of the future labor market.
+
+You are active, responsible, and charming with your enthusiasm, courage and confidence. Thank you for your purposeful and significant activities that you are constantly contributing to positive and very important changes in the field of Lithuanian education, actively and constructively participate in the preparation and adoption of decisions of national importance together with the Committee on Education and Science of the Seimas of the Republic of Lithuania. Your efforts are vividly reflected in creating a high-quality higher education environment in Lithuania.
+I believe that not only the realization of personal aspirations, but also the future of our entire country depends on your values, efforts, talent and cooperation.
+
+Continue the work begun, boldly and responsibly take new ones! Good luck to all of you!
+
+Chairman of the Education and Science Committee of the Seimas of the Republic of Lithuania
+prof. Artūras Žukauskas
+
 ## Vilnius University Senate
+
+![Senatas](public/img/sveikinimai/DSC01335.jpg)
 
 Dear Students,
 
@@ -216,9 +246,28 @@ Chairwoman of the Vilnius University Senate
 
 ## Vilnius University Council
 
-...
+![Taryba](public/img/sveikinimai/Radzeviciene.5M5A1668r_3.jpg)
+
+Dear colleagues,
+
+Most higher education institutions around the world have already recognized that
+the pandemic and other challenges of recent years have irreversibly changed the
+paradigm of teaching and learning. We started talking about adaptive learning,
+student mobility and digital experiences in the educational institution, the
+need to promote innovation and creativity, joint projects with industry
+organizations or hackathons on issues relevant to society.  
+
+I see a huge contribution of VU SR to the formation of this new approach, it is great that the daily interaction of VU employees with the student community brings new ideas, promotes transformation. Naturally, students care about the sustainability, efficiency and transparency of the organization and we must try not to disappoint their expectations, we need to change, because if we stop, in this open world, students will find another organization that will respond to their expectations and dreams.
+
+On behalf of the entire VU Council, I want to encourage you, students, not to stop, to continue to offer your ideas, the vision of your university, because it is the experience gained between the walls of the Alma mater that forms us as socially active personalities and professionals.
+
+Chairwoman of the Council of Vilnius University
+
+**dr. Eglė Radzevičienė**
 
 ## Vilnius University Library
+
+![Biblioteka](public/img/sveikinimai/ik.jpeg)
 
 Dear students
 
@@ -259,12 +308,34 @@ remember that you are always welcome at our Library!
 
 Director General of Vilnius University Library
 
-**Irena Krivienė**
-
 ## Ombudswoman for academic ethics and procedures
 
-...
+![AEPK](public/img/sveikinimai/dr.-Loreta-Tauginien%C4%97.MART1397B.jpg)
+
+Dear students,
+
+we live in a time of technological innovation and information challenges. Questions are increasingly being raised about what new knowledge and skills the student should strive for, how to improve the quality of studies, so that today's decisions become the basis for the future of well-being. A lot of effort also must be made to separate the chaff from the grain, the truth from the untruth.
+
+When applying technological innovations, it is important to jointly evaluate and introduce social innovations – measures that promote academic ethics. I believe that the combination of technological and social innovations will contribute to the transformations of the culture of academic ethics. Here, the involvement of all of you is very welcome. The most important thing is to remain proactive and creative – only in this way will you contribute to the development of international standards of academic ethics.
+
+Unitedly for the Future of Students!
+
+Controller of Academic Ethics and Procedures
+
+dr. Loreta Tauginienė
 
 ## Knowledge Economy Forum
 
-...
+![Arminas](public/img/sveikinimai/IMG_20230114_124623_963.jpg)
+
+This year you have done a lot of work that any generation of VU SR could be proud of – the social dimension is defined by law, its development plan was prepared, funding for student scientific events, residents' salaries, work with doctoral students, an updated VU SR strategy was approved, and a VU greenness strategy is being developed.
+
+It's especially gratifying that a good portion of those jobs were accomplishments that required long and continuous work. BUT it's often simpler to do what others expect of you or to do what you know will get a lot of support and approval. However, the work that is difficult and often has the most long-term impact is the work that perhaps no one will thank you for, and that a significant number of people will not even approve of at the beginning.
+
+Implementation of the culture of reflection, use of gender-sensitive language, emphasis on gender equality problems, VU SR sustainability declaration and practical observance of those principles – vegetarian food during training, a sustainability festival organized for the first time – THANK YOU that in addition to the usual good and important works for students, you dared to be an example to other organizations and solve not only convenient problems.  
+
+"You don't make progress by standing on the sidelines, whimpering and complaining. You make progress by implementing ideas" (Shirley Chisholm, not a white man, for a change of usual suspects in "wise quotes").
+
+Arminas Varanauskas
+
+He/Him

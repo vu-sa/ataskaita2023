@@ -1,6 +1,8 @@
 # Sveikinimai
 
-## Vilniaus universiteto rektorius
+## Vilniaus universiteto Rektorius
+
+![Vilniaus universiteto Rektorius](public/img/sveikinimai/rektorius.jpg)
 
 Mieli Studentai ir Studentės,
 
@@ -40,6 +42,8 @@ Vilniaus universiteto rektorius
 **prof. Rimvydas Petrauskas**
 
 ## LR Vyriausybė
+
+![Ingrida Šimonytė](public/img/sveikinimai/MP-portretas.jpg){.rounded-sm}
 
 Mieli Vilniaus universiteto studentai ir studentės,
 
@@ -92,6 +96,8 @@ Lietuvos Respublikos Ministrė Pirmininkė
 
 ## LR Švietimo, mokslo ir sporto ministerija
 
+![ŠMSM](public/img/sveikinimai/20211231SMM0974.jpeg)
+
 Mieli studentai,
 
 nuoširdžiai sveikinu su sėkmingais dar vienų metų darbo rezultatais.
@@ -118,6 +124,8 @@ Sėkmės ir įkvėpimo prasmingiems ateities darbams!
 **Jurgita Šiugždinienė**
 
 ## LR Seimas
+
+![Seimas](public/img/sveikinimai/vcn.jpeg)
 
 Mieli studentai,
 
@@ -157,7 +165,28 @@ Seimo Pirmininkė
 
 **Viktorija Čmilytė-Nielsen**
 
+## LR Seimo Švietimo, mokslo ir sporto komitetas
+
+![ŠMK](public/img/sveikinimai/zukauskas.jpeg)
+
+Mieli Vilniaus universiteto studentai,
+Nuoširdžiai sveikinu su dar vienais prasmingos veiklos metais!
+
+Šiuo metu gyvename globaliame ir labai sudėtingame, o kartu ir neramiame, greitai besikeičiančiame pasaulyje. Pastarieji metai paženklinti neeilinių geopolitinių ir kitokių iššūkių, tačiau Jūsų susitelkimas, atsakomybė, drąsios bei jaunatviškos iniciatyvos įkvepia ir nepalieka abejingų. Todėl drauge turime siekti užsibrėžtų tikslų, kad Lietuva taptų kūrybiška inovacijų šalimi, besiremiančia žinojimu. Visuose aukštojo mokslo lygmenyse prioritetu turit tapti studijų kokybė, kuri lemia Jūsų ateitį, gebėjimą kurti aukštą ekonominę, socialinę ir kultūrinę vertę, remiantis mokslo žiniomis. Privalome išgryninti skirtingo tipo aukštųjų mokyklų misijas ir akcentuoti tarptautinius studijų kokybės rodiklius – tarptautiškumą, studentų ir dėstytojų mobilumą, įsidarbinamumą, aktyvų verslo įtraukimą. Mūsų visų bendras tikslas konkuruoti globaliai, o ne lokaliai.
+
+Labai svarbu siekti, kad aukštųjų mokyklų valdymas būtų paremtas aiškiai deklaruojamais Valstybės tikslais ir siekiu kelti mokslo ir studijų kokybę. Aukštosioms mokykloms būtina užtikrinti daugiau stabilumo ir galimybių investuoti į plėtrą, o akademinei bendruomenei – kuo palankesnes sąlygas vykdyti mokslinę veiklą ir studijas. Tuomet aukštojo mokslo valdymo modelis skatins studijų ir mokslo institucijas ne konkuruoti, bet bendradarbiauti, bendrai kurti konkurencingą ir ateities darbo rinkos poreikius atitinkančią studijų ir mokslo bazę.
+
+Esate aktyvūs, atsakingi ir žavūs savo entuziazmu, drąsa bei pasitikėjimu. Dėkoju, kad savo kryptinga ir reikšminga veikla nuolat prisidedate prie teigiamų ir labai svarbių pokyčių Lietuvos švietimo srityje, aktyviai ir konstruktyviai dalyvaujate rengiant bei priimant nacionalinės reikšmės sprendimus drauge su LR Seimo Švietimo ir mokslo komitetu. Jūsų pastangos ryškiai atsispindi kuriant kokybišką aukštojo mokslo aplinką Lietuvoje.
+
+Tikiu, kad nuo Jūsų vertybių, pastangų, talento  bei bendradarbiavimo priklauso ne tik asmeninių siekių įgyvendinimas, bet ir visos mūsų šalies ateitis.
+Tęskite pradėtus darbus, drąsiai ir atsakingai imkitės naujų! Sėkmės Jums visiems!
+
+LR Seimo Švietimo ir mokslo komiteto pirmininkas
+prof. Artūras Žukauskas
+
 ## Vilniaus universiteto Senatas
+
+![Senatas](public/img/sveikinimai/DSC01335.jpg)
 
 Mieli Studentai,
 
@@ -192,6 +221,8 @@ Vilniaus universiteto Senato pirmininkė
 
 ## Vilniaus universiteto Taryba
 
+![Taryba](public/img/sveikinimai/Radzeviciene.5M5A1668r_3.jpg)
+
 Mieli kolegos ir kolegės,
 
 Dauguma aukštojo mokslo įstaigų visame pasaulyje jau pripažino, kad
@@ -219,6 +250,8 @@ Vilniaus universiteto Tarybos pirmininkė
 **dr. Eglė Radzevičienė**
 
 ## Vilniaus universiteto biblioteka
+
+![Biblioteka](public/img/sveikinimai/ik.jpeg)
 
 Mielos studentės, mieli studentai,
 
@@ -258,6 +291,8 @@ VU bibliotekos generalinė direktorė
 
 ## Akademinės etikos ir procedūrų kontrolierė
 
+![AEPK](public/img/sveikinimai/dr.-Loreta-Tauginien%C4%97.MART1397B.jpg)
+
 Mieli studentai, mielos studentės,
 
 gyvename technologinių naujovių ir informacinių iššūkių laikmečiu. Vis
@@ -280,6 +315,8 @@ Akademinės etikos ir procedūrų kontrolierė
 **dr. Loreta Tauginienė**
 
 ## Žinių ekonomikos forumas
+
+![Arminas](public/img/sveikinimai/IMG_20230114_124623_963.jpg)
 
 Šiemet nuveikėte daug darbų, kuriais galėtų didžiuotis bet kuri VU SA
 karta -- socialinė dimensija apibrėžta įstatymu, rengtas jos plėtros

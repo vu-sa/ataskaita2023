@@ -1158,11 +1158,11 @@ export const other = [
   {
     name: "Gustas Štaševskis",
     title: "VU SA MIF IT koordinatorius",
-    avatar: "/ataskaita-2023/img/koordinatoriu-nuotraukos/Gustas-Štaševskis-IT-(MIF).jpg",
+    avatar: "/ataskaita-2023/img/koordinatoriu-nuotraukos/Gustas-Stasevskis-IT-(MIF).jpg",
   },
   {
     name: "Gustė Vaitkutė",
     title: "VU TF SMD koordinatorė",
-    avatar: "/ataskaita-2023/img/koordinatoriu-nuotraukos/Gustė-Vaitkutė-SMD-koordinatorė--(TF).jpg",
+    avatar: "/ataskaita-2023/img/koordinatoriu-nuotraukos/Gustė-Vaitkute-SMD-koordinatore--(TF).jpg",
   },
 ];

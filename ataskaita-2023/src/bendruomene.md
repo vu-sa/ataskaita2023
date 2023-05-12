@@ -98,7 +98,7 @@ Daugiau apie ISF [skaitykite čia](/stipri-organizacija/isf.md).
 
 <TeamAvatarLayout :members="lsp" />
 
-## Kiti
+## IT bei SMD koordinatoriai
 
 ![IT](public/img/bendros-nuotraukos/IT.jpg)
 
