@@ -1,8 +1,8 @@
 # Programos, klubai ir projektai
 
-<!-- TODO: reikia logotipų -->
-
 ## START FM
+
+![START FM](../public/img/pkp-logo/START_FM_logotipas.png)
 
 VU radijas START FM -- VU SA ir Vilniaus universiteto radijo stotis,
 veiklą pradėjusi 2005 m. Vienintelė Lietuvoje studentų (-čių) radijo
@@ -38,6 +38,8 @@ internetinėje transliacijoje.
 
 ## VU Debatų klubas
 
+![Debatų klubas](../public/img/pkp-logo/Debatu_klubo_logotipas.jpg)
+
 *Ataskaitiniu laikotarpiu klubo veiklą koordinavo Matas Petravičius.*
 
 VU Debatų klubas -- 2004 m. įkurtas klubas, skirtas skirtingų fakultetų
@@ -64,6 +66,8 @@ puoselėja debatų kultūrą Lietuvoje.
 
 ## „Studentai - moksleiviams, moksleiviai - studentams“
 
+![SMMS](../public/img/pkp-logo/SMMS_logotipas.jpg)
+
 *Ataskaitiniu laikotarpiu projekto veiklą koordinavo Tomas Mikalauskas.*
 
 „Studentai -- moksleiviams, moksleiviai -- studentams" -- VU SA
@@ -82,6 +86,8 @@ pasirinktuose fakultetuose ir buvo supažindinti (-os) su Vilniaus
 universiteto stojimo bei studijų procesais.
 
 ## Sąžiningai
+
+![Sąžiningai](../public/img/pkp-logo/S%C4%85%C5%BEiningai_logotipas.jpg)
 
 *Ataskaitiniu laikotarpiu programą koordinavo Justė Ieva Žilionytė ir VU
 SA Tarybos sušaukta darbo grupė.*
@@ -102,7 +108,9 @@ suaktyvinti programos veiklą -- skatinti ne tik didesnį studentų (-čių)
 įsitraukimą į atsiskaitymų stebėjimą, bet ir sustiprinti akademinės
 etikos kultūros diegimą ir sklaidą Universitete.
 
-## Teisės klinika
+## VU Teisės klinika
+
+![Teisės klinika](../public/img/pkp-logo/Teis%C4%97s_klinikos_logotipas.png)
 
 *Ataskaitiniu laikotarpiu projektą koordinavo Viktorija Medžiaušaitė.*
 
@@ -157,6 +165,8 @@ TK.
 
 ## VU SIF
 
+![VU SIF](../public/img/pkp-logo/SIF_logotipas.png)
+
 *Einamuoju laikotarpiu fondui vadovavo Gabrielė Stanionytė ir Povilas Petručionis.*
 
 Vilniaus universiteto Studentų investicinis fondas (VU SIF) -- VU SA
@@ -195,6 +205,8 @@ Daujotu.
 
 ## VU Karjeros dienos
 
+![KD](../public/img/pkp-logo/KD_logotipas.png)
+
 *Ataskaitiniu laikotarpiu projektui vadovavo Eglė Jašinskaitė.*
 
 Vilniaus universiteto Karjeros dienos (VU KD) -- VU SA projektas,
@@ -216,6 +228,8 @@ metu, VU Karjeros dienos suorganizavimas ne Vilniuje esančiame VU KAP
 bei hakatonas, kuriame dalyvavo net 12 studentų (-čių) komandų.
 
 ## Be etikečių
+
+![Be etikečių](../public/img/pkp-logo/Be_etike%C4%8Di%C5%B3_logotipas.jpg)
 
 *Ataskaitiniu laikotarpių programą koordinavo Egidijus Skužinskas.*
 
@@ -247,6 +261,8 @@ emocinės gerovės temoms aptarti. Taip pat buvo tęsiamas projektas „Drag
 
 ## VU Jaunųjų energetikų klubas
 
+![VU JEK](../public/img/pkp-logo/JEK_logotipas.png)
+
 *Ataskaitiniu laikotarpiu klubo veiklą koordinavo Ignas Pocius.*
 
 Vilniaus universiteto Jaunųjų energetikų klubas (VU JEK)  -- VU SA
@@ -264,7 +280,9 @@ augalų auginimo skatinimo akcija „Loretos dienos" sulaukė gausaus
 visuomenės susidomėjimo. Taip pat klubo nariai (-ės) turėjo galimybę
 aplankyti Ignalinos atominę elektrinę klubo organizuotos išvykos metu.
 
-## Erasmus Student Network
+## Erasmus Student Network Vilnius University
+
+![ESN](../public/img/pkp-logo/ESN_logotipas.png)
 
 *Ataskaitiniu laikotarpiu programos veiklą koordinavo Artūras Maciunskas.*
 
@@ -300,6 +318,8 @@ patirtimi su kitų šalių ESN padaliniais.
 
 ## VU Kendo klubas
 
+![Kendo](../public/img/pkp-logo/Kendo_klubo_logotipas.jpg)
+
 *Ataskaitiniu laikotarpiu klubo veiklą koordinavo Vytenis Almonaitis.*
 
 Vilniaus universiteto Kendo klubas -- nuo 2008 m. veikianti VU SA
@@ -316,18 +336,17 @@ dalyvaudamas varžybose ir kituose renginiuose.
     rinktinės treniruotes su kitų Lietuvos klubų atstovais (-ėmis), kad
     pasiruoštų Europos kendo čempionatui Paryžiuje, vyksiančiam gegužės
     18--19 d.
-
 - Suorganizavo pavasario kendo pradedančiųjų kursus, vykusius kovo
     18 d. -- balandžio 18 d.
-
 - Atliko kendo demonstraciją Vilniaus miesto japoniško sodo atidarymo
     ceremonijoje balandžio 29 d.
-
 - Gegužės 27 d. planuoja demonstraciją Japonijos ambasados
     organizuojamame renginyje vaikų namų auklėtiniams (-ėms) „Būkime
     kartu".
 
 ## Studentiško gyvenimo vadovas (SGV)
+
+![SGV](../public/img/pkp-logo/SGV_logotipas.png)
 
 *Ataskaitiniu laikotarpiu projektui vadovavo Andrius Jokubauskas ir Viktorija Milko.*
 
@@ -353,6 +372,8 @@ integraciją į Universitetą bei Lietuvą.
 
 ## Rašytojų klubas
 
+![Rašytojų klubas](../public/img/pkp-logo/Ra%C5%A1ytoj%C5%B3_klubo_logotipas.png)
+
 *Ataskaitiniu laikotarpiu klubo veiklą koordinavo Nikolajus Elkana Eimutis.*
 
 VU Rašytojų klubas -- 2013 m. susibūrusi draugija, vienijanti rašančius
@@ -377,6 +398,8 @@ narstantys tekstai.
 
 ## HEMA
 
+![HEMA](../public/img/pkp-logo/HEMA_logotipas.jpg)
+
 *Ataskaitiniu laikotarpiu klubui vadovavo Gintarė Vaičiakauskytė.*
 
 Alber aus VU HEMA klubas -- istorinių Europos kovos menų klubas, kuriame
@@ -394,6 +417,8 @@ bendradarbiauta su kitais padaliniais ir iniciatyvomis -- įstraukta į
 FiDi pasitinkant fizikų eiseną.
 
 ## Foto klubas
+
+![Foto](../public/img/pkp-logo/Fotoklubo_logotipas.jpg)
 
 *Ataskaitiniu laikotarpiu klubui pirmininkavo Simonas Lukoševičius ir Olivija Grudytė.*
 
@@ -426,7 +451,9 @@ Galiausiai visuomet stengėmės išlikti visuomeniški (-os) bei aktyvūs
 ryškiausių valstybinių švenčių iki skaudžiausių protestų. Išlikome
 neabejingi ir atsakingi kartu su visa VU SA.
 
-## Antropologų klubas
+## VU Antroklubas
+
+![Antro](../public/img/pkp-logo/Antropolog%C5%B3_klubo_logotipas.png)
 
 *Ataskaitiniu laikotarpiu klubo veiklą koordinavo Kornelija Garlaitė.*
 
@@ -461,6 +488,8 @@ specialistais (-ėmis):
     pamatyti lauko tyrimo metu?
 
 ## The COINS
+
+![The COINS](../public/img/pkp-logo/The_COINS_logotipas.jpg)
 
 *Ataskaitiniu laikotarpiu projektą koordinavo Lukas Krasauskas.*
 
@@ -499,6 +528,8 @@ valstybinių institucijų (Inovacijų agentūrą bei Lietuvos mokslo tarybą),
 įsteigusių prizus pranešimų laimėtojams.
 
 ## Jaunųjų žurnalistų draugija
+
+![JŽD](../public/img/pkp-logo/J%C5%BDD_logotipas.jpg)
 
 *Ataskaitiniu laikotarpiu draugijai vadovavo Gabija Strumylaitė (iki 2023 m. sausio mėn.) ir Ieva Radzevičiūtė (nuo 2023 m. sausio mėn.).*
 

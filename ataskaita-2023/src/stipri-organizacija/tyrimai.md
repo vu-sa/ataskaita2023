@@ -11,7 +11,7 @@ studentų (-čių) integracijos į Universitetą sėkmingumas
 
 Tyrimas atliktas: 2022 m. spalio 3--30 d.
 
-Svarbiausios tyrimo išvados:
+### Svarbiausios tyrimo išvados
 
 1. Atliktas tyrimas parodė, kad **61 proc. dalyvavusių** VU #StudentAUK
 2022 veiklose studentų (-čių) jaučiasi universiteto dalimi, tuo tarpų
@@ -85,7 +85,7 @@ studentų (-čių) labui būtumėme mažiau žalingi planetai.
 
 ## Socialinės dimensijos aukštajame moksle priemonės: efektyvumas ir taikymas Lietuvoje
 
-::: warning
+::: warning ❗️
 Analizė parengta įgyvendinant projektą „Gerųjų užsienio praktikų
 pritaikymas socialinės dimensijos Lietuvos aukštajame moksle
 įgyvendinimui, mažinant barjerus, su kuriais susiduria mažiau
@@ -98,30 +98,25 @@ užsienio valstybėse, analizė, apimanti geriausias kitų užsienio šalių
 praktikas, jų efektyvumą bei, tuo remiantis, pateikti siūlymai, kurie
 būtų galimi pritaikyti Lietuvos kontekste.
 
-Pagrindinės rekomendacijos:
+### Pagrindinės rekomendacijos
 
 1. Užtikrinti alternatyvų patekimą į aukštąjį mokslą bei akademinę
     pagalbą žemos socioekonominės padėties bei negalią turintiems
     moksleiviams. Šiuo metu dar neįsigaliojusiame Mokslo ir studijų
     įstatyme alternatyvus kelias Lietuvoje atsiranda, tačiau nėra
     numatytos aplinkybės akademinės pagalbos suteikimui;
-
 2. Studijų procese plėtoti finansinės paramos galimybes, atnaujinant
     paskolų sistemą, ją padarant lankstesne, numatant lengvatines
     grąžinimo sąlygas labiau pažeidžiamoms grupėms;
-
 3. Apjungti studentams su negalia skiriamą finansinę paramą, ją susieti
     su studento iš negalios kylančiais poreikiais ir individualizuoti;
-
 4. Numatyti finansavimo ir pradėti inicijuoti programas, kurios
     sistemiškai apimtų daugiau nei vieną socialinės dimensijos lygmenį
     -- nuo pasirengimo studijoms, tikslingo bendradarbiavimo su bendrojo
     ugdymo sistemos dalyviais, paramos stojimo procese iki pagalbos jau
     studijuojantiesiems;
-
 5. Vyresnio amžiaus stojantiesiems užtikrinti tinkamą informavimą apie
     stojimo procesus;
-
 6. Užtikrinti didesnį pačių aukštųjų mokyklų suinterersuotumą
     užtikrinti socialinės dimensijos tobulinimą institucijos lygmeniu.
 

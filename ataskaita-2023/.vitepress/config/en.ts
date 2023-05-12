@@ -2,37 +2,37 @@ export default {
     title: "Report 2022-2023",
     description: "VU Student Representation's annual report for 2022-2023 term.",
     themeConfig: {
-        // nav: [
+        nav: [
         //     { text: 'Congratulations', link: '/en/sveikinimai' },
-        //     { text: 'VU SR', link: '/en/vu-sa/vu-sa' },
-        //     { text: 'Year plan', link: '/en/mvp/mvp' },
-        //     { text: 'Strategic directions', items: [
-        //         { text: 'High quality studies and its environment', link: '/en/kokybiskos-studijos/nacionalinis' },
-        //         { text: 'Strong organization', link: '/en/stipri-organizacija/vu-sa-projektai' },
-        //         { text: 'Sustainable University community', link: '/en/darni-bendruomene/darni-bendruomene' },
-        //     ] },
-        //     { text: 'Community', link: '/en/bendruomene' },
-        //     { text: 'Acknowledgments', link: '/en/padeka' },
+            { text: 'Structure', link: '/en/vu-sa/strategija' },
+            { text: 'Goals', link: '/en/mvp/mvp' },
+            { text: 'Strategic directions', items: [
+                { text: 'High quality studies and its environment', link: '/en/kokybiskos-studijos/nacionalinis' },
+                { text: 'Strong organization', link: '/en/stipri-organizacija/vu-sa-projektai' },
+                { text: 'Sustainable University community', link: '/en/darni-bendruomene/darni-bendruomene' },
+            ] },
+            { text: 'Community', link: '/en/bendruomene' },
+            { text: 'Acknowledgments', link: '/en/padeka' },
 
-        // ],
+        ],
 
         sidebar: [
-        //     {
-        //         text: 'VU SR ⭐️',
-        //         items: [
+            {
+                text: 'VU SR structure ⭐️',
+                items: [
         //             { text: 'About VU SR', link: '/en/vu-sa/vu-sa' },
-        //             { text: 'Parliament', link: '/en/vu-sa/parlamentas' },
-        //             { text: 'Board', link: '/en/vu-sa/taryba' },
-        //             { text: 'Revision commision', link: '/en/vu-sa/revizijos-komisija' },
-        //         ]
-        //     },
+                    { text: 'Parliament', link: '/en/vu-sa/parlamentas' },
+                    { text: 'Board', link: '/en/vu-sa/taryba' },
+                    { text: 'Revision commision', link: '/en/vu-sa/revizijos-komisija' },
+                ]
+            },
         //     {
         //         text: 'Year plan 📝',
         //         items: [
         //             { text: 'VU SR goals', link: '/en/mvp/mvp' },
         //             { text: 'Goals in VU SR units', link: '/en/mvp/tikslai-padaliniuose' },
         //         ]
-        //     },
+            // },
             {
                 text: 'Implementation of strategic directions 🎯',
                 items: [

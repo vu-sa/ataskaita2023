@@ -31,3 +31,7 @@ Vilnius University Students' Representation responded to the draft order of the 
 ## On The Composition Of The Board Of The State Studies Foundation  
 
 Vilnius University Students' Representation, together with the Lithuanian Students' Union, submitted a proposal for the formation of the Board of the State Studies Foundation, demanding the inclusion of two student representatives in the composition of the Board of the SSF. After the submission of the proposal, the President of VU SR was seconded to the Board of the SSF as a representative of the Ministry of Education, Science and Sports.
+
+## On Improving The Organization Of Internships For Students(s)  
+
+Vilnius University Students' Representation submitted proposals to the Ministry of Education, Science and Sport of the Republic of Lithuania and the Centre for Quality Assessment in Higher Education to improve the situation of the organization of students' internships in Lithuania. It was proposed to carry out a thorough monitoring of the quality of internships and to make recommendations to higher education institutions to improve the constant quality of internships and to ensure that higher education institutions are committed to compensating students for the costs incurred during the internship.

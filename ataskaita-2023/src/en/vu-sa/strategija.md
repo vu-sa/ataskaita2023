@@ -1,4 +1,4 @@
-## The Strategy of Vilnius University Students' Representation
+# The Strategy of Vilnius University Students' Representation
 
 **VU SR Vision** an open environment for independent student
   development in the unified community of Vilnius University.

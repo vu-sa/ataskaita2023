@@ -8,11 +8,11 @@ hero:
   tagline: "VU SA ataskaita už 2022-2023 m."
   actions:
     - theme: brand
-      text: Markdown Examples
-      link: /markdown-examples
-    - theme: alt
-      text: API Examples
-      link: /api-examples
+      text: Skaityti!
+      link: /vu-sa/strategija
+    # - theme: alt
+    #   text: API Examples
+    #   link: /api-examples
 ---
 
 <script setup lang="ts">

@@ -4,7 +4,7 @@
 
 ## Vilnius University Rector
 
-![Vilniaus universiteto Rektorius](public/img/sveikinimai/rektorius.jpg)
+![Vilniaus universiteto Rektorius](../public/img/sveikinimai/rektorius.jpg)
 
 Dear Students,
 
@@ -51,7 +51,7 @@ Prof. Rimvydas Petrauskas
 
 ## Government of the Republic of Lithuania
 
-![Ingrida Šimonytė](public/img/sveikinimai/MP-portretas.jpg){.rounded-sm}
+![Ingrida Šimonytė](../public/img/sveikinimai/MP-portretas.jpg){.rounded-sm}
 
 Dear students of Vilnius University,
 
@@ -113,7 +113,7 @@ Prime Minister of the Republic of Lithuania
 
 ## LR Ministry of Education, Science and Sport
 
-![ŠMSM](public/img/sveikinimai/20211231SMM0974.jpeg)
+![ŠMSM](../public/img/sveikinimai/20211231SMM0974.jpeg)
 
 Dear students,
 
@@ -146,7 +146,7 @@ Minister for Education, Science and Sport
 
 ## Seimas of the Republic of Lithuania
 
-![Seimas](public/img/sveikinimai/vcn.jpeg)
+![Seimas](../public/img/sveikinimai/vcn.jpeg)
 
 Dear students,
 
@@ -191,7 +191,7 @@ Speaker of the Seimas
 
 ## Education and Science Committee of the Seimas of the Republic of Lithuania
 
-![ŠMK](public/img/sveikinimai/zukauskas.jpeg)
+![ŠMK](../public/img/sveikinimai/zukauskas.jpeg)
 
 Dear students of Vilnius University,
 
@@ -211,7 +211,7 @@ prof. Artūras Žukauskas
 
 ## Vilnius University Senate
 
-![Senatas](public/img/sveikinimai/DSC01335.jpg)
+![Senatas](../public/img/sveikinimai/DSC01335.jpg)
 
 Dear Students,
 
@@ -246,7 +246,7 @@ Chairwoman of the Vilnius University Senate
 
 ## Vilnius University Council
 
-![Taryba](public/img/sveikinimai/Radzeviciene.5M5A1668r_3.jpg)
+![Taryba](../public/img/sveikinimai/Radzeviciene.5M5A1668r_3.jpg)
 
 Dear colleagues,
 
@@ -267,7 +267,7 @@ Chairwoman of the Council of Vilnius University
 
 ## Vilnius University Library
 
-![Biblioteka](public/img/sveikinimai/ik.jpeg)
+![Biblioteka](../public/img/sveikinimai/ik.jpeg)
 
 Dear students
 
@@ -310,7 +310,7 @@ Director General of Vilnius University Library
 
 ## Ombudswoman for academic ethics and procedures
 
-![AEPK](public/img/sveikinimai/dr.-Loreta-Tauginien%C4%97.MART1397B.jpg)
+![AEPK](../public/img/sveikinimai/dr.-Loreta-Tauginien%C4%97.MART1397B.jpg)
 
 Dear students,
 
@@ -326,7 +326,7 @@ dr. Loreta Tauginienė
 
 ## Knowledge Economy Forum
 
-![Arminas](public/img/sveikinimai/IMG_20230114_124623_963.jpg)
+![Arminas](../public/img/sveikinimai/IMG_20230114_124623_963.jpg)
 
 This year you have done a lot of work that any generation of VU SR could be proud of – the social dimension is defined by law, its development plan was prepared, funding for student scientific events, residents' salaries, work with doctoral students, an updated VU SR strategy was approved, and a VU greenness strategy is being developed.
 
