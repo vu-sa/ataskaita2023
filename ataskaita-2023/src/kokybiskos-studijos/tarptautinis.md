@@ -6,7 +6,7 @@ ARQUS tinkle vyksta bendradarbiavimas tarp studentų (-čių) atstovų (-ių). D
 
 VU SA deleguoti atstovai (-ės) dalyvavo ARQUS metinėje konferencijoje, vykusioje Austrijoje, Graz universitete. Jos metu VU SA deleguota atstovė kartu su Lenkijos Vroclavo universiteto studentų atstove sakė kalbą apie studentų įsitraukimą į ARQUS veiklą, studentų (-čių) akimis matomus Aljanso tobulėjimo kelius. Konferencijos metu studentų (-čių) taryba priėmė rezoliuciją dėl neformaliu būdu įgytų kompetencijų įskaitymo.
 
-Gegužės 3 d. VU SA atstovai (-ės) buvo susitikę su Portugalijos Minho universiteto studentų (-čių) reikalų ir pedagoginių inovacijų prorektoriumi Manuel João Costa. Susitikimo metu studentai (-ės) kartu su prorektoriumi diskutavo apie studentų (-čių) įsitraukimą į universiteto valdymo organus, dėstytojų pedagoginių kompetencijų kėlimą ir pirmamečių studentų (-čių) integraciją. ARQUS WP4 (Student agora) veikloje VU SA deleguoti atstovai įsitraukia į diskusijas apie tarp universitetų veiksiantį mentorių, studentų(-čių)--ambasadorių tinklus, pirmamečiams (-tėms) studentams (-ėms) skirto įvadinio paketo rašymą.
+Gegužės 3 d. VU SA atstovai (-ės) buvo susitikę su Portugalijos Minho universiteto studentų (-čių) reikalų ir pedagoginių inovacijų prorektoriumi Manuel João Costa. Susitikimo metu studentai (-ės) kartu su prorektoriumi diskutavo apie studentų (-čių) įsitraukimą į universiteto valdymo organus, dėstytojų pedagoginių kompetencijų kėlimą ir pirmamečių studentų (-čių) integraciją. ARQUS WP4 (Student agora) veikloje VU SA deleguoti atstovai įsitraukia į diskusijas apie tarp universitetų veiksiantį mentorių, studentų(-čių)–ambasadorių tinklus, pirmamečiams (-tėms) studentams (-ėms) skirto įvadinio paketo rašymą.
 
 ## Konferencijos
 
@@ -34,7 +34,7 @@ Gegužės 3 d. VU SA atstovai (-ės) buvo susitikę su Portugalijos Minho univer
     kvietimu turėjome galimybę sudalyvauti Briuselio ekonomikos forume
     ([Brussels Economic Forum 2022)](https://www.facebook.com/events/1014067322830650/?__cft__[0]=AZUUwcF41qUNYuyJrHuiATRn5MPD6u_GfkjmWuUizFo4viP9ku-rXMK1IuRPgdSrh1p7r3u2N24nlaTpcggh3G0kpXmdoPh7HgM6fcII7OjAdPSe6-6HvTKm6w5zKt7pzb1qYwJ09CGDlZArFRzwqjUMbgIiedrkjLr3IPkbHcllt_ofxXR2Y_feX4XqIEbQkTk&__tn__=-UK-R)
     kuriame didelis dėmesys buvo skirtas ekonomikai ateities kartoms.
-    Šis forumas -- daugiau nei 20 metų Europos Komisijos organizuojamas
+    Šis forumas – daugiau nei 20 metų Europos Komisijos organizuojamas
     ekonomikos renginys, sukviečiantis aukšto lygio Europos ir
     tarptautinius politikos formuotojus, akademikus, pilietinės
     visuomenės ir verslo lyderius, kad nustatytų pagrindinius Europos
@@ -53,7 +53,7 @@ Gegužės 3 d. VU SA atstovai (-ės) buvo susitikę su Portugalijos Minho univer
     galimybes tolesniam valstybių ekonominiam progresui skatinti
     tvariais ir atliepiančiais šių dienų iššūkius būdais.
 
-- Social Inclusion & Engagement in Mobility (SiEM) konferencija -- dar
+- Social Inclusion & Engagement in Mobility (SiEM) konferencija – dar
     viena tarptautinė konferencija, kurioje su tikslu įsigilinti į
     labiau pažeidžiamų grupių įtrauktį į mobilumą dalyvavo VU SA
     atstovės. Konferencijoje buvo aptartos labiau pažeidžiamos grupės

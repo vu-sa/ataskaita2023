@@ -45,7 +45,7 @@ export const biuras = [
     name: "Jūratė Baltinaitė",
     title: "Atstovė ryšiams su visuomene",
     avatar:
-      "/ataskaita-2023/img/koordinatoriu-nuotraukos/CB/Jūratė-Baltinaitė_Atstovė-ryšiams-su-visuomene-(nuo-2021-07).jpg",
+      "/ataskaita-2023/img/koordinatoriu-nuotraukos/CB/Juratė-Baltinaitė.jpg",
   },
   {
     name: "Paula Zlatkutė",
@@ -86,7 +86,7 @@ export const biuras = [
     name: "Ugnė Dvilevičiūtė",
     title: "Marketingo koordinatorė (nuo 2021-10)",
     avatar:
-      "/ataskaita-2023/img/koordinatoriu-nuotraukos/CB/Nomeda-Griškevičiūtė.jpg",
+      "/ataskaita-2023/img/koordinatoriu-nuotraukos/CB/Ugnė-Dvilevičiūtė.jpg",
   },
   {
     name: "Simona Kuoraitė",
@@ -179,10 +179,10 @@ export const teamPhotos = [
   {
     link: "/ataskaita-2023/img/bendros-nuotraukos/ISF.jpg",
     title: "Institucinio stiprinimo fondas",
-    href: "/ataskaita-2023/stipri-organizacija/isf",
+    href: "/ataskaita-2023/vu-sa/isf",
   },
   {
-    link: "/ataskaita-2023/img/bendros-nuotraukos/AASA.jpg",
+    link: "/ataskaita-2023/img/bendros-nuotraukos/Socakadai.jpg",
     title: "Socialinio-akademinio proceso reikalų koordinatoriai (-ės)",
     href: "#socialinio-akademinio-proceso-reikalu-koordinatoriai"
   },

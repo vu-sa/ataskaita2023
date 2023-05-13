@@ -16,7 +16,7 @@ hero:
   actions:
     - theme: brand
       text: Sužinok apie šių metų veiklą!
-      link: /vu-sa/parlamentas
+      link: /mvp/strateginiai
     - theme: alt
       text: Praėjusių metų ataskaita
       link: https://vusa.lt/ataskaita-2022
@@ -44,8 +44,10 @@ import { biuras } from "../data/bendruomene.ts";
           <p class="opacity-80 text-sm">VU SA prezidentė</p>
         </PersonAvatar>
       </figcaption>
-      <video playsinline autoplay controls muted loop class="md:w-1/2 mx-auto rounded-lg order-1 md:order-2 z-20 shadow-lg object-cover aspect-video">
+      <video playsinline autoplay controls muted loop class="md:w-1/2 mx-auto order-1 md:order-2 z-20 shadow-lg object-cover aspect-video">
         <source src="/video/Nedos-kalba.mp4" type="video/mp4">
+        <track default src="/video/Nedos-kalba-LT.vtt" kind="subtitles" srclang="lt" label="Lietuvių">
+        <track src="/video/Nedos-kalba-EN.vtt" kind="subtitles" srclang="lt" label="English">
         Your browser does not support the video tag.
       </video>
     </figure>
@@ -157,28 +159,28 @@ import { biuras } from "../data/bendruomene.ts";
     <p class="mx-auto w-fit text-4xl font-bold my-8">Metų <span class="italic">istorijos</span></p>
   <div class="max-w-5xl mx-auto grid grid-cols-1 lg:grid-cols-2 gap-7">
     <ElementWithBg class="h-[21rem]" img-src="/ataskaita-2023/img/renginiai/biblioteka/FC0BE34F-EA5F-43D7-A5C4-4BDB81CFD4D1.jpg" :color-classes="['bg-[rgba(60,12,6,0.95)] dark:bg-zinc-900/90']">
-      <template #title>1. Individualios studijos</template>
+      <template #title>Individualios studijos</template>
       <p class="mb-4">2022 m. birželio 21 d. VU Senate patvirtinti <strong>nauji Studijų nuostatai</strong>, kurie įtvirtino individualiąsias studijas. </p>
       <p class="mb-4">Kiekviename bakalauro programų studijų programų komitete atnaujinti studijų programų planai. Teikti pasiūlymai akademinio studentų konstulavimo sistemai individualių studijų kontekste. </p>
       <p> Nuo 2023 m. į bakalauro, vientisąsias studijas ...</p>
     </ElementWithBg>
     <ElementWithBg class="h-[21rem]" img-src="/ataskaita-2023/img/renginiai/tvarumo-festivalis/_DSC0255.jpg" :color-classes="['bg-[rgba(60,45,17,0.98)] dark:bg-zinc-900/90']">
-      <template #title>2. Studentų (-čių) skatinimas kurti savo iniciatyvas</template>
+      <template #title>Studentų (-čių) skatinimas kurti savo iniciatyvas</template>
       <p class="mb-4">Aplinka, kurioje studentai (-ės) gali kurti savo iniciatyvas ir atrasti sau artimą bendruomenę – visuomet buvo viena iš mūsų svarbiausių temų. Per šiuos metus užbaigtas ECSTRA projektas. </p>
       <p> Sukurta VU SA paramos ir skatinimo sistema iniciatyvų kūrimui ir plėtojimui. Teikti pasiūlymai neformaliu būdu įgytų ... </p>
     </ElementWithBg>
     <ElementWithBg class="h-[21rem]" img-src="/ataskaita-2023/img/renginiai/gimtadienis/Gabija_Matkutė_VUSA_(95).jpg" :color-classes="['bg-[rgba(38,25,17,0.95)] dark:bg-zinc-800/90']">
-      <template #title>3. Užsienio studentai (-ės) – lygiaverčiai (-tės) bendruomenės nariai (-ės)</template>
+      <template #title>Užsienio studentai (-ės) – lygiaverčiai (-tės) bendruomenės nariai (-ės)</template>
       <p class="mb-4">Tarptautiškumo svarba Universitete vis didėja. Užsienio studentų (-čių) skaičius – auga.</p>
       <p> Siekdami gerinti užsienio studentų (-čių) patirtį Vilniaus universitete rūpinomės jų integracija tiek organizuojant... </p>
     </ElementWithBg>
     <ElementWithBg class="h-[21rem]" img-src="/ataskaita-2023/img/renginiai/gimtadienis/Gabija_Matkutė_VUSA_(193).jpg" :color-classes="['bg-[rgba(24,39,17,0.95)] dark:bg-neutral-900/90']">
-      <template #title>4. Žalias universitetas</template>
+      <template #title>Žalias universitetas</template>
       <p class="mb-4">Rudenį Organizacijoje su kiekvieno (-os) VU SA nario (-ės) įsipareigojimu savo veikla prisidėti prie Žalio universiteto kūrimo bei žalumo principų integravimo ne tik Organizacijos rėmuose, bet ir visame Universitete, pasirašėme Tvarumo deklaraciją. </p>
       <p>VU SA Tvarumo deklaracija ir kaip mūsų strateginis susitarimas patvirtinta VU SA Parlamente. O dar svarbiau – Žalio universiteto tema pagaliau ėmė skambėti koridoriuose...</p>
     </ElementWithBg>
     <ElementWithBg class="lg:col-span-2 lg:w-1/2 mx-auto h-[21rem]" img-src="/ataskaita-2023/img/renginiai/pavasario-mokymai/IMG_7243.jpg" :color-classes="['bg-gradient-to-tr from-[rgba(48,39,17,0.95)] to-[rgba(60,12,6,0.95)] dark:bg-slate-900/90']">
-      <template #title>5. Iniciatyva „Aukštasis mokslas nėra PER aukštai“ </template>
+      <template #title>Iniciatyva „Aukštasis mokslas nėra PER aukštai“ </template>
       <p class="mb-4">Iniciatyvos metu buvo suburtas 48 studentų (-čių) ambasadorių tinklas. Studentai (-ės) ambasadoriai (-ės) nuvyko į 22 regionines  mokyklas, kuriose susitiko su moksleiviais (-ėmis) ir pasakojo apie aukštojo mokslo galimybes. Iš viso susitikimuose dalyvavo 771 moksleivis (-ė). </p>
       <p> Kartu su Lietuvos Respublikos Švietimo, mokslo ir sporto ... </p>
     </ElementWithBg>

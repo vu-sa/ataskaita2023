@@ -8,7 +8,7 @@ outline: [2,4]
 
 ### LR Seimas
 
-*Studentų atstovė -- Neda Žutautaitė*
+*Studentų atstovė – Neda Žutautaitė*
 
 Dalyvauta aktualiuose Lietuvos Resbublikos Seimo komitetų posėdžiuose
 svarstant visus su aukštuoju mokslu, studentų (-čių) socialine padėtimi,
@@ -19,7 +19,7 @@ studentų (-čių) nuomonę bei teikiant ekspertines įžvalgas.
 
 #### LR Seimo Švietimo ir mokslo komitetas**
 
-*Studentų atstovė -- Neda Žutautaitė*
+*Studentų atstovė – Neda Žutautaitė*
 
 Aktyviai įsitraukta į komiteto svarstymus po dar ankstesniame
 laikotarpyje mūsų pateikto siūlymo dėl socialinės dimensijos aukštajame
@@ -43,12 +43,12 @@ grupės susitikimuose.
 
 #### LR Seimo Sveikatos reikalų komitetas (SRK)
 
-*Studentų atstovės -- Neda Žutautaitė, Kamilė Marcinkevičiūtė*
+*Studentų atstovės – Neda Žutautaitė, Kamilė Marcinkevičiūtė*
 
 Ataskaitiniu laikotarpiu atstovauta medicinos studentams (-ėms) bei
 rezidentams (-ėms) siekiant, jog nebūtų patvirtintas vėl bandytas teikti
 įstatymų pakeitimo projektas, kuriuo siūloma valstybės finansuojamas
-rezidentūros studijas baigusiems (-ioms) už studijas 2--4 metus
+rezidentūros studijas baigusiems (-ioms) už studijas 2–4 metus
 atidirbti regionų pirminės sveikatos priežiūros įstaigose.
 
 Taip pat įsitraukta į Medicinos praktikos, Odontologijos praktikos ir
@@ -61,7 +61,7 @@ statusas ir yra įtvirtinta vadovo (-ės) ir gydytojo (-os) rezidento
 
 #### LR Seimo Užsienio reikalų komitetas (URK)
 
-*Studentų atstovė -- Neda Žutautaitė*
+*Studentų atstovė – Neda Žutautaitė*
 
 Ataskaitiniu laikotarpiu atstovauta užsienio studentams (-ėms) Seimo
 Užsienio reikalų komitete, siekiant sukurti kuo palankesnį užsieniečių
@@ -87,7 +87,7 @@ strategiją.
 
 ### LR Vyriausybė
 
-*Studentų atstovė -- Neda Žutautaitė*
+*Studentų atstovė – Neda Žutautaitė*
 
 Ataskaitiniu laikotarpiu dalyvauta tarpinstituciniuose pasitarimuose ir
 plenariniuose LR Vyriausybės posėdžiuose pasisakant LR Mokslo ir studijų
@@ -97,7 +97,7 @@ projekto rengimo.
 
 #### LR Švietimo, mokslo ir sporto ministerija (ŠMSM)
 
-*Studentų atstovė -- Neda Žutautaitė*
+*Studentų atstovė – Neda Žutautaitė*
 
 Ataskaitiniu laikotarpiu prisidėta prie skirtingų klausimų kėlimo,
 nagrinėjimo, dalyvauta pasitarimuose bei teikti pasiūlymai aukštajam
@@ -107,7 +107,7 @@ mokslui gerinti.
 
 ##### ŠMSM darbo grupė dėl mokslo ir studijų institucijų studijų veiklos pasiekimų vertinimo ir finansavimo modelio atnaujinimo
 
-*Studentų atstovė -- Neda Žutautaitė*
+*Studentų atstovė – Neda Žutautaitė*
 
 Ataskaitiniu laikotarpiu prisidėta prie Švietimo, mokslo ir sporto
 ministerijos rengiamos skatinamojo finansavimo aukštosioms mokykloms už
@@ -127,7 +127,7 @@ vertinimo kriterijų svorio koeficientų nustatymo tvarkos aprašo.
 
 ##### ŠMSM darbo grupė dėl socialinės dimensijos plano rengimo
 
-*Studentų atstovė -- Neda Žutautaitė*
+*Studentų atstovė – Neda Žutautaitė*
 
 Inicijuotas socialinės dimensijos aukštajame moksle plano rengimas, VU
 SA ankstesniu pasiūlymu įtraukus tai į Vyriausybės programos nuostatų
@@ -144,7 +144,7 @@ organizuotoje socialinės dimensijos konferencijoje.
 
 ##### ŠMSM darbo grupė dėl 2024 m. konkursinių eilių sudarymo
 
-*Studentų atstovė -- Neda Žutautaitė*
+*Studentų atstovė – Neda Žutautaitė*
 
 Aktyviai dalyvaujama darbo grupėje, kuri rengia 2024 m. konkursinių
 eilių stojantiesiems (-čiosioms) į aukštąjį mokslą mechanizmus, kadangi,
@@ -157,7 +157,7 @@ ir teisingumą socialinės dimensijos aspektu.
 
 ##### ŠMSM darbo grupė dėl Aukštųjų mokyklų pedagoginių darbuotojų kvalifikacijos tobulinimo gairių rengimo
 
-*Studentų atstovė -- Neda Žutautaitė*
+*Studentų atstovė – Neda Žutautaitė*
 
 Įgyvendinant XVIII Vyriausybės programos priemonių planą, Švietimo,
 mokslo ir sporto ministerijoje suburta darbo grupė aukštųjų mokyklų
@@ -170,7 +170,7 @@ kompetencijų reikšmę juose.
 
 ##### ŠMSM darbo grupė dėl doktorantų socialinės apsaugos garantijų
 
-*Studentų atstovė -- Neda Žutautaitė*
+*Studentų atstovė – Neda Žutautaitė*
 
 Darbo grupės suburta pateikti švietimo, mokslo ir sporto ministrei
 siūlymus dėl doktorantų socialinių garantijų teisinio reglamentavimo
@@ -190,7 +190,7 @@ pilotinį *grant'ų* finansavimo modelį, siekiant užtikrinti doktoranto
 
 ##### ŠMSM darbo grupė dėl užsieniečių ir užsienio lietuvių pritraukimo ir integracijos strategijos
 
-*Studentų atstovė -- Neda Žutautaitė*
+*Studentų atstovė – Neda Žutautaitė*
 
 Įgyvendinant XVIII Vyriausybės programos priemonių planą, Švietimo,
 mokslo ir sporto ministerijoje suburta darbo grupė dėl užsieniečių ir
@@ -237,7 +237,7 @@ priemonės.
 
 #### LR Sveikatos apsaugos ministerija (SAM)
 
-*Studentų atstovės -- Neda Žutautaitė, Kamilė Marcinkevičiūtė*
+*Studentų atstovės – Neda Žutautaitė, Kamilė Marcinkevičiūtė*
 
 VU Rezidentų Taryba ir toliau aktyviai dalyvavo, kurdama pakopinių
 kompetencijų modelio procesą, kuriuo siekiama gerinti rezidentūros
@@ -271,7 +271,7 @@ VU SA atstovės įtrauktos į ekspertų komisijas.
 
 #### LR Krašto apsaugos ministerija (KAM)
 
-*Studentų atstovė -- Neda Žutautaitė*
+*Studentų atstovė – Neda Žutautaitė*
 
 Krašto apsaugos ministerijai inicijuojant šauktinių reformą, VU SA
 aktyviai įsitraukia stebėdama vis atsinaujinančius siūlymus bei teikdama
@@ -292,7 +292,7 @@ užtikrinimo, kuris šiuo metu siūlymuose nėra atspindimas.
 
 ### Studijų kokybės vertinimo centras (SKVC)
 
-**Studentų forumas** -- Studijų kokybės vertinimo centro neformali darbo
+**Studentų forumas** – Studijų kokybės vertinimo centro neformali darbo
 grupė, kurioje dalyvauja Lietuvos aukštųjų mokyklų studentų (-čių)
 interesams atstovaujančių organizacijų atstovai (-ės).
 
@@ -314,11 +314,11 @@ mokyklose.
 
 ### Lietuvos universitetų rektorių konferencija (LURK)
 
-*Studentų atstovė -- Neda Žutautaitė*
+*Studentų atstovė – Neda Žutautaitė*
 
 Ataskaitiniu laikotarpiu aktualiais klausimais įsitraukta į Lietuvos
 universitetų rektorių konferencijos posėdžius bei juose svarstomus
-klausimus -- diskutuota dėl dėstytojų edukacinių (pedagoginių)
+klausimus – diskutuota dėl dėstytojų edukacinių (pedagoginių)
 kompetencijų ir profesinio augimo kelių, dėl universitetų teikiamos
 paramos Ukrainos pabėgėliams (-ėms), studentams (-ėms), tyrėjams (-oms),
 profesoriams (-ėms), bei dėl užsienio studentų (-čių) pritraukimo ir
@@ -331,7 +331,7 @@ reformos kontekste.
 
 ### Lietuvos mokslo taryba (LMT)
 
-*Studentų atstovė -- Neda Žutautaitė*
+*Studentų atstovė – Neda Žutautaitė*
 
 Ataskaitiniu laikotarpiu pakartotinai kreiptasi į LMT dėl paramos
 studentų (-čių) organizuojamiems mokslo renginiams, siekiant, jog

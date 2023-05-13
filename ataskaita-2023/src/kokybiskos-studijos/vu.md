@@ -19,7 +19,7 @@ išskirta:
 
 - Tolesnis biudžeto sudarymo modelio tobulinimas;
 
-- VU 2021--2025 metų strateginio veiklos plano bei metinio 2023
+- VU 2021–2025 metų strateginio veiklos plano bei metinio 2023
     veiklos plano įgyvendinimo stebėsena;
 
 - Pedagogikos studijų ir edukologinių tyrimų plėtrai VU būtinos
@@ -251,7 +251,7 @@ ir tvirtinti nauji bei atnaujinti BUS dalykai, vykdomi lietuvių ir anglų
 kalbomis. Šiuo laikotarpiu taip pat vyko BUS dalykų peržiūra: peržiūrėti
 seniausiai vykdomi BUS dalykai, išanalizuoti studentų (-čių)
 atsiliepimai, pateiktos pastabos dalyko aprašams atnaujinti. Posėdžių
-metu buvo pristatyta ir nagrinėta 2021--2022 m. BUS analizė.
+metu buvo pristatyta ir nagrinėta 2021–2022 m. BUS analizė.
 
 Ataskaitiniu laikotarpiu patvirtinti ir Senatui svarstyti teikti nauji
 BUS:
@@ -311,7 +311,7 @@ nutarta suteikti Koen Lenaerts.
 *Studentų atstovė – Neda Žutautaitė*
 
 Komisija svarsto ir teikia Universiteto rektoriui tvirtinti aukščiausio
-lygmens darbuotojų – profesorių ir vyriausiųjų mokslo darbuotojų --
+lygmens darbuotojų – profesorių ir vyriausiųjų mokslo darbuotojų –
 kandidatūras akademinėms pareigoms užimti. Atsižvelgusi į studentų
 apklausas, dėstymo patirtis ir planuojamą akademinę veiklą, studentų
 atstovė, remdamasi aukščiau išvardytais duomenimis, siūlė tvirtinti ne
@@ -515,12 +515,12 @@ visuomenei renkantis tvarų gyvenimo būdą. Ataskaitiniu laikotarpiu įvyko
 
 ### VU 450-mečio stipendija
 
-*Studentų atstovės --Ieva Budreikaitė, Airina Mikulėnaitė, Ieva
+*Studentų atstovės –Ieva Budreikaitė, Airina Mikulėnaitė, Ieva
 Šiaudvytytė*
 
 VU 450-mečio stipendija yra Universiteto skiriama parama būsimiems
 (-oms) studentams (-ėms) iš socialiai pažeidžiamų grupių. 100 būsimų
-studentų (-čių) mokama 200 eurų stipendija pirmuosius studijų metus --
+studentų (-čių) mokama 200 eurų stipendija pirmuosius studijų metus –
 nuo rugsėjo iki birželio mėnesio, siekiant mažinti socialinės atskirties
 problemą. Ataskaitiniu laikotarpiu įvyko 1 posėdis, kurio metu,
 išnagrinėjus būsimų studentų (-čių) pateiktus prašymus, paskirtos
@@ -580,7 +580,7 @@ suburta doktorantų grupė pasipildė naujais žmonėmis iš skirtingų mokslo
 krypčių.
 
 Išsigrynintoms problemoms spręsti buvo pasitelkti trys veikimo lygmenys
--- nacionalinis, universiteto, doktorantūros krypties. Nacionaliniu
+– nacionalinis, universiteto, doktorantūros krypties. Nacionaliniu
 lygmeniu aktyviai įsitraukta į ŠMSM, LRS susitikimus bei darbo grupes,
 kuriose atstovauta doktorantams (-ėms) socialinių garantijų (darbo
 stažo, motinystės, tėvystės, ligos išmokų, pajamų akademinių atostogų
@@ -685,9 +685,9 @@ keliamus reikalavimus ir buvo pasiūlyti skirti į šias pareigas.
 
 ### VU studentų paslaugų darbo grupė
 
-*Studentų atstovės --* *Dominyka Goldbergaitė, Klėja Merčaitytė*
+*Studentų atstovės –* *Dominyka Goldbergaitė, Klėja Merčaitytė*
 
-Studentų paslaugų darbo grupės tikslas *--* išsigryninti visas VU
+Studentų paslaugų darbo grupės tikslas *–* išsigryninti visas VU
 teikiamas paslaugas bendruomenės nariams, išanalizuoti užsienio
 universitetų teikiamų paslaugų modelį. Siekiama optimizuoti šiuo metu
 teikiamas paslaugas, nes dalis jų teikiamos skirtingų skyrių ar centrų
@@ -725,6 +725,6 @@ ir nenumatant dviejų skirtingų dydžių. Taip pat paramos plėtimui
 kuriamas naujas stipendijos modelis, skirtas mažiausias pajamas
 turintiems studentams tam, kad jie galėtų ne dirbti, o studijuoti ir
 siekti akademinių rezultatų, suteikiant piniginę paramą visus metus kas
-mėnesį skiriant fiksuotą paramos sumą, o pasiekus tam tikrų pasiekimų --
+mėnesį skiriant fiksuotą paramos sumą, o pasiekus tam tikrų pasiekimų –
 paskatinant papildomai. Ataskaitiniu laikotarpiu buvo vykdomos pakeitimų
 derinimo procedūros bei rengiama galutinė nuostatų redakcija.

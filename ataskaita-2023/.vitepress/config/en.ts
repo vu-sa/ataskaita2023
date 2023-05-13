@@ -8,7 +8,7 @@ export default {
             { text: 'Goals', link: '/en/mvp/mvp' },
             { text: 'Strategic directions', items: [
                 { text: 'High quality studies and its environment', link: '/en/kokybiskos-studijos/nacionalinis' },
-                { text: 'Strong organization', link: '/en/stipri-organizacija/vu-sa-projektai' },
+                { text: 'Strong organization', link: '/en/stipri-organizacija/projektai' },
                 { text: 'Sustainable University community', link: '/en/darni-bendruomene/darni-bendruomene' },
             ] },
             { text: 'Community', link: '/en/bendruomene' },
@@ -25,6 +25,7 @@ export default {
                 items: [
                     { text: 'Parliament', link: '/en/vu-sa/parlamentas' },
                     { text: 'Board', link: '/en/vu-sa/taryba' },
+                    { text: 'Institutional Strengthening Fund', link: '/en/vu-sa/isf' },
                     { text: 'Revision commision', link: '/en/vu-sa/revizijos-komisija' },
                 ]
             },
@@ -45,6 +46,7 @@ export default {
                             { text: 'Representation in the national space and city government', link: '/en/kokybiskos-studijos/nacionalinis' },
                             { text: 'Representation at VU', link: '/en/kokybiskos-studijos/vu' },
                             { text: 'Cooperation', link: '/en/kokybiskos-studijos/bendradarbiavimas' },
+                            { text: 'International cooperation', link: '/en/kokybiskos-studijos/tarptautinis' },
                             { text: 'Papers', link: '/en/kokybiskos-studijos/rastai' },
                         ]
                     },

@@ -8,7 +8,7 @@ outline: [2,4]
 
 ### Seimas of the Republic of Lithuania
 
-*Student representative -- Neda Žutautaitė*
+*Student representative – Neda Žutautaitė*
 
 Participated in relevant meetings of the Seimas Committees of the
 Republic of Lithuania, discussing all issues related to higher
@@ -19,7 +19,7 @@ and expressing the views of students, and providing expert insights.
 
 #### Seimas Committee on Education and Science
 
-*Student representative -- Neda Žutautaitė*
+*Student representative – Neda Žutautaitė*
 
 The Committee\'s deliberations have been actively engaged following our
 proposal in the previous period to define the social dimension in higher
@@ -44,7 +44,7 @@ Cooperation Group.
 
 #### Seimas Committee on Health (SCH)
 
-*Student representatives -- Neda Žutautaitė, Kamilė Marcinkevičiūtė*
+*Student representatives – Neda Žutautaitė, Kamilė Marcinkevičiūtė*
 
 During the reporting period, medical students and residents were
 represented in order to prevent the approval of a renewed attempt to
@@ -63,7 +63,7 @@ introduced.
 
 #### Seimas Committee on Foreign Affairs (FAC)
 
-*Student representative -- Neda Žutautaitė*
+*Student representative – Neda Žutautaitė*
 
 During the reporting period, foreign students were represented in the
 Parliament\'s Committee on Foreign Affairs in order to create the most
@@ -90,7 +90,7 @@ integrating foreigners.
 
 #### Government of the Republic of Lithuania
 
-*Student representative -- Neda Žutautaitė*
+*Student representative –Neda Žutautaitė*
 
 During the reporting period, the participants took part in
 inter-institutional consultations and plenary sessions of the Government
@@ -101,7 +101,7 @@ draft laws and the drafting of the long-term state strategy \"Lithuania
 
 #### Ministry of Education, Science and Sport of the Republic of Lithuania (MoESS)
 
-*Student representative -- Neda Žutautaitė*
+*Student representative – Neda Žutautaitė*
 
 During the reporting period, it contributed to raising and examining
 various issues, participating in consultations and making proposals to
@@ -111,7 +111,7 @@ Active participation in (MoESS) working groups:
 
 ##### MoESS Working Group on the Update of the Performance Assessment and Funding Model for Research and Higher Education Institutions**
 
-*Student representative -- Neda Žutautaitė*
+*Student representative – Neda Žutautaitė*
 
 During the reporting period, the Ministry of Education, Science and
 Sport contributed to the preparation of a procedure for incentive
@@ -135,7 +135,7 @@ Science and Study Institutions has already been drawn up and adopted.
 
 ##### MoESS Working group on the preparation of the Social Dimension Plan
 
-*Student representative -- Neda Žutautaitė*
+*Student representative – Neda Žutautaitė*
 
 Initiated the development of a plan for the social dimension in higher
 education, following VU SR\'s earlier proposal to include it in the
@@ -153,7 +153,7 @@ Dimension Conference organized by VU SR and the Ministry.
 
 ##### MoESS Working Group on the establishment of the 2024 competition queues
 
-*Student representative -- Neda Žutautaitė*
+*Student representative – Neda Žutautaitė*
 
 Active participation in the working group preparing the mechanisms for
 the 2024 competitive queues for admissions to higher education, as the
@@ -167,7 +167,7 @@ the social dimension.
 
 ##### MoESS Working Group on the development of guidelines for the professional development of teaching staff in higher education
 
-*Student representative -- Neda Žutautaitė*
+*Student representative – Neda Žutautaitė*
 
 As part of the implementation of the 18th Government Program Action
 Plan, a working group has been set up within the Ministry of Education,
@@ -181,7 +181,7 @@ in them.
 
 ##### MoESS Working Group on Social Security Guarantees for Doctoral Students
 
-*Student representative -- Neda Žutautaitė*
+*Student representative – Neda Žutautaitė*
 
 The Working Group was convened to submit proposals to the Minister of
 Education, Science and Sport on improving the legal regulation of social
@@ -203,7 +203,7 @@ security for doctoral students through recruitment.
 
 ##### MoESS Working Group on a strategy for the attraction and integration of foreigners and Lithuanians abroad
 
-*Student representative -- Neda Žutautaitė*
+*Student representative – Neda Žutautaitė*
 
 As part of the implementation of the 18th Government Program\'s Action
 Plan, a working group has been set up in the Ministry of Education,
@@ -251,7 +251,7 @@ labor market and Lithuanian language education.
 
 ### Ministry of Health of the Republic of Lithuania (MoH)
 
-*Student representative -- Neda Žutautaitė, Kamilė Marcinkevičiūtė*
+*Student representative – Neda Žutautaitė, Kamilė Marcinkevičiūtė*
 
 The VU Residents\' Council continued to actively participate in the
 process of development of the model of tiered competences in order to
@@ -288,7 +288,7 @@ VU SR representatives are included in the expert panels.
 
 ### Ministry of National Defense of the Republic of Lithuania (MoND)
 
-*Student representative -- Neda Žutautaitė*
+*Student representative – Neda Žutautaitė*
 
 As the Ministry of National Defense initiates the reform of
 conscription, VU SR is actively involved in monitoring the ever-renewed
@@ -311,7 +311,7 @@ is currently not reflected in the proposals.
 
 ### Study Quality Assessment Centre (SQAC)
 
-**Student Forum** -- Informal working group of the Centre for Quality
+**Student Forum** – Informal working group of the Centre for Quality
 Assessment of Studies, including representatives of organizations
 representing the interests of students of Lithuanian higher education
 institutions.
@@ -334,7 +334,7 @@ internships in higher education institutions.
 
 ### Lithuanian University Rectors\' Conference (LURC)
 
-*Student representative -- Neda Žutautaitė*
+*Student representative – Neda Žutautaitė*
 
 During the reporting period, the Conference of Rectors of Lithuanian
 Universities was involved in the meetings of the Conference of Rectors
@@ -352,7 +352,7 @@ compulsory initial military service.
 
 ### Lithuanian Research Council (LRC)
 
-*Student representative -- Neda Žutautaitė*
+*Student representative – Neda Žutautaitė*
 
 During the reporting period, the LRC was repeatedly asked to support
 student-organized scientific events, with the aim of encouraging and

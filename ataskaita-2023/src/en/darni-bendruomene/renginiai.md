@@ -4,12 +4,20 @@ outline: [2,3]
 
 # Community-building events
 
+<script setup lang="ts">
+import LightboxPictureArray from '../../../components/LightboxPictureArray.vue'
+import { birthday, festival, fsf, ff, flf, ifdi, midi, tedi, knf } from '../../../data/photos.ts'
+
+</script>
+
 ## International Student Day and VU SR 33rd birthday
 
 On November 17th of each year, International Student Day and VU SR\'s
 birthday are celebrated. This year VU SR implemented the festival
 \"Studentify\", dedicated to the celebration of international student
 day.
+
+<LightboxPictureArray :photos="birthday" />
 
 ## International students\' day festival \"STUDENTIFY\"
 
@@ -73,6 +81,8 @@ vegetarian and vegan diets. The aim is to encourage every member of the
 community to consciously incorporate sustainability principles into
 their daily lives.
 
+<LightboxPictureArray :photos="festival" />
+
 ## HACK VU
 
 On February 25th, for the second time, an initiative development event
@@ -107,6 +117,8 @@ place, and everything was finished by the already traditional evening of
 bards \"Open Mic\", where the participants read the texts of their
 creations, performed singing poetry.
 
+<LightboxPictureArray :photos="flf" />
+
 ### IfDi\'45
 
 For historians, lovers of history and the past and the entire community
@@ -120,6 +132,8 @@ of the Faculty of History community were interviewed and IFDI\'45
 nominations were prepared. Also, this year, the IFDI militia, combined
 with the Historic European Martial Arts (HEMA) Club, organized an attack
 on the traditional FIDI procession of a dinosaur.
+
+<LightboxPictureArray :photos="ifdi" />
 
 ### Mercury Days
 
@@ -150,7 +164,7 @@ This year, **during the opening conference of TeDi\'23** (Lawyers\' Day)
 dokt. Jurgis Bartkus and students Martynas Zdanavičius and Kamilė
 Paleckytė talked about experiences and helped future students to get a
 more realistic impression of law studies and their daily life. The
-second event is night car orienteering. The third event -- \"Auction\"
+second event is night car orienteering. The third event – \"Auction\"
 and the closing evening gave all participants the opportunity to
 experience unforgettable moments together with the faculty teachers.
 This year, during the auction of Lawyers\' Days, a record amount was
@@ -160,6 +174,8 @@ together Vilnius University legal and other researchers, students and
 other legal science enthusiasts, providing an opportunity to review the
 scientific achievements of this year\'s students by examining
 interdisciplinarity in law.
+
+<LightboxPictureArray :photos="tedi" />
 
 ### Fiesta personae
 
@@ -178,9 +194,11 @@ igne\", where \"Quarta\", \"Citrusss\", \"Skepetas\" performed. As
 always, during the days of the faculty, the newspaper \"Bursų kiemas\"
 was also published.
 
+<LightboxPictureArray :photos="fsf" />
+
 ### ATSIbusk
 
-The Faculty of Philosophy also organizes \"**ATSIbusk**\" -- an event of
+The Faculty of Philosophy also organizes \"**ATSIbusk**\" – an event of
 the Institute of Asian and Transcultural Studies (ATSI) of the Faculty
 of Philosophy of Vilnius University, the history of which began in the
 early spring of 2019, when various events, lectures and practical
@@ -197,7 +215,7 @@ wide variety of companies.
 ### MeDi\'22
 
 **MeDi** is a traditional festivity of the Faculty of Medicine of
-Vilnius University that has been celebrated since 1783 -- one of the
+Vilnius University that has been celebrated since 1783 – one of the
 oldest at Vilnius University. The theme of MeDi\'22 is \"A biomedical
 student more than a stereotype.\" The series of events aimed to show how
 diverse the members of the medical faculty community can be, while
@@ -214,7 +232,7 @@ stereotypes\" allowed to hear from the lips of graduates the stereotypes
 that are most often encountered. We are also proud of the cooperation:
 together with the Association of Student Dentists, the skills of
 developing solid competencies for dental students were organized, and
-with the Lithuanian Medical Students\' Association -- nursing practical
+with the Lithuanian Medical Students\' Association – nursing practical
 skills formation activities for all members of the faculty community.
 
 ### The Information Days
@@ -233,7 +251,7 @@ events with the opening discussion \"Future Business\", which was
 attended by VU VM Director Dr. Birutė Miškinienė, EY Talent Selection
 Team Manager Vaidonė Eidukonienė and former VM lecturer Taurimas Valys,
 later everyone was waiting for an orienteering competition, and the
-closing evening -- the battle of the mind -- finished everything.
+closing evening – the battle of the mind – finished everything.
 
 ### PoDi
 
@@ -261,6 +279,8 @@ and the LAN Party lasted as long as 3 days, one of which was dedicated
 to Minecraft decathlon. First held in 1976, this year MIDI was organized
 for the 42nd time.
 
+<LightboxPictureArray :photos="midi" />
+
 ### Kaunas Faculty Days
 
 This year, for the first time, **Kaunas Faculty days** were organized,
@@ -268,3 +288,5 @@ during which it was possible to enjoy the orienteering competitions
 around the Old Town, the football game of financial terms, the evening
 of computer and board games, and the whole thing was completed with an
 evening of BBQ and HOUSE music.
+
+<LightboxPictureArray :photos="knf" />

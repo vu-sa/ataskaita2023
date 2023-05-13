@@ -285,7 +285,7 @@ strategic planning projects, drawing of open science policy guidelines
 implementation plan. Your constant support in enhancing information
 competences of students undoubtedly had considerable impact on the
 successful development of this activity and now we together work on yet
-another initiative of VUSR ­-- to join forces and cooperate in the
+another initiative of VUSR ­– to join forces and cooperate in the
 development of students' academic literacy. The Library is grateful for
 the discussions on possibilities to strengthen international efforts, to
 contribute to students' physical and mental health, on sustainable
@@ -306,7 +306,7 @@ remember that you are always welcome at our Library!
 
 Director General of Vilnius University Library
 
-## Ombudswoman for academic ethics and procedures
+## Ombudswoman for Academic Ethics and Procedures
 
 ![AEPK](../public/img/sveikinimai/dr.-Loreta-Tauginien%C4%97.MART1397B.jpg)
 
@@ -318,7 +318,7 @@ When applying technological innovations, it is important to jointly evaluate and
 
 Unitedly for the Future of Students!
 
-Controller of Academic Ethics and Procedures
+Ombudswoman for Academic Ethics and Procedures
 
 dr. Loreta Tauginienė
 

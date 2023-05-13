@@ -15,20 +15,20 @@ In 2022-2023, the VU SR consulting group, noting the growing need to
 strengthen the activities of the Organization and the University, became
 involved in the following processes:
 
-advising students in the context of individual studies while maintaining
+- advising students in the context of individual studies while maintaining
 a direct relationship with the VU Student Services and Career
 Department;
 
-visiting the General Meetings of VU SR subdivisions and presenting
+- visiting the General Meetings of VU SR subdivisions and presenting
 during them the consultation system and the main appeals of students;
 
-informing the regular members of the Organization of the consultation
+- informing the regular members of the Organization of the consultation
 processes;
 
-the separation of the position of coordinators of social-academic
+- the separation of the position of coordinators of social-academic
 process affairs of VU SR departments;
 
-cooperation with the VU SR Council in the development of a
+- cooperation with the VU SR Council in the development of a
 methodological document for the consultation process.
 
 During the reference period, the VU SR consulting group consisted of:

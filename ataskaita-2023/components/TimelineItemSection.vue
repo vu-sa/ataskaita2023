@@ -77,13 +77,13 @@ const computeEnTitle = (type: string, index: number) => {
       title = "in progress";
       break;
     case "success":
-      title = "completed";
+      title = "implemented";
       break;
     case "warning":
-      title = "in progress";
+      title = "under implementation";
       break;
     case "error":
-      title = "canceled";
+      title = "not implemented";
       break;
   }
 

@@ -1,5 +1,7 @@
 # VU SA 2022–2023 metų veiklos strateginių gairių įgyvendinimas
 
+<!-- Galima dar pataisyti redakciją -->
+
 <script setup lang="ts">
 import TimelineItemSection from '../../components/TimelineItemSection.vue'
 import vusaGoals from '../../data/vusaGoals.ts'
@@ -24,8 +26,6 @@ Per 2021-2022 metus VU SA įgyvendino daugiau negu 20 tikslų.
 - Bendradarbiaujama su VU studentų paslaugų ir karjeros skyriumi kuriant studentų akademinio konsultavimo sistemą, siekiant užtikrinti, kad įgyvendinant individualiąsias studijas studentai gautų reikiamą pagalbą. Vykdyti susitikimai su atsakingais asmenimis, teiktos idėjos ir užsienio patirtys konsultavimo sistemai.
 
 :::
-
----
 
 ## 2. Studentai (-ės) per VU SA saviraiškos skatinimo sistemą dalyvauja saviraiškos iniciatyvose
 

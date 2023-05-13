@@ -40,7 +40,7 @@ Daugiau apie ISF [skaitykite čia](/stipri-organizacija/isf.md).
 
 ## Socialinio-akademinio proceso reikalų koordinatoriai
 
-![Socakad](public/img/bendros-nuotraukos/AASA.jpg)
+![Socakad](public/img/bendros-nuotraukos/Socakadai.jpg)
 
 <TeamAvatarLayout :members="socakad" />
 
@@ -96,7 +96,7 @@ Daugiau apie ISF [skaitykite čia](/stipri-organizacija/isf.md).
 
 <TeamAvatarLayout :members="intl" />
 
-## LSP
+## LSP koordinatoriai
 
 ![LSP](public/img/bendros-nuotraukos/LSP-koord.jpg)
 

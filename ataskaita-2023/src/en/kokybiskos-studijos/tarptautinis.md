@@ -56,7 +56,7 @@ opportunity to participate in the Brussels Economic Forum, which focused
 on the economy for future generations. To identify the main challenges
 of the European economy and discuss priorities. This year, they have
 provided flexible working conditions and social guarantees for all young
-people and lifelong learning -- without which social and economic
+people and lifelong learning – without which social and economic
 progress cannot be imagined.
 
 - The celebration of the European Year of Youth also organized youth

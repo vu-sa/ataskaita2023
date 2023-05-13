@@ -1,8 +1,8 @@
 # Tyrimai ir analizės
 
-## VU SA Pirmo kurso studentų (-čių) integracijos į Universitetą tyrimas (pirma dalis)
+<!-- ## VU SA Pirmo kurso studentų (-čių) integracijos į Universitetą tyrimas (pirma dalis)
 
-...
+... -->
 
 ## VU SR Community survey
 

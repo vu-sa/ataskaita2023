@@ -2,9 +2,9 @@
 
 ## VU Board
 
-*Student representatives -- Neda Žutautaitė, Justinas Kondratas*
+*Student representatives – Neda Žutautaitė, Justinas Kondratas*
 
-VU Board -- the governing body of the University, which supervises
+VU Board – the governing body of the University, which supervises
 whether the activities and management of the University are in line with
 the mission, vision, values and principles of the University, general
 academic interests, requirements for publicity and accountability to the
@@ -21,7 +21,7 @@ Council\'s activities in 2023 highlighted:
 - Further improvement of the budgeting model;
 
 - Monitoring of the implementation of the VU Strategic Activity Plan
-    for 2021--2025 and the annual activity plan 2023;
+    for 2021–2025 and the annual activity plan 2023;
 
 - Anticipation of the infrastructure, organizational and financial
     measures necessary for the development of pedagogical studies and
@@ -42,7 +42,7 @@ Council\'s activities in 2023 highlighted:
     activities in conditions of increased risk and their monitoring.
 
 This year, the tradition of the annual student report was started to be
-developed in the University Council -- the President of VU SR shared the
+developed in the University Council –the President of VU SR shared the
 most important insights from the current issues of students\' life at
 the university, covering both the issues of quality of studies,
 individualization and practices, paying more attention to international
@@ -55,15 +55,15 @@ infrastructure priorities.
 
 *VU Senate Student representatives:*
 
-*Senate Board - -- Vanesa Ražinskytė*
+*Senate Board - – Vanesa Ražinskytė*
 
-*Committee on Studies -- Simonas Granskas, Julija Jarutytė, Klėja
+*Committee on Studies – Simonas Granskas, Julija Jarutytė, Klėja
 Merčaitytė, Lijana Savickienė*
 
-*In the Committee on Quality and Development -- Anelė Dromantaitė,
+*In the Committee on Quality and Development – Anelė Dromantaitė,
 Dominyka Goldbergaitė, Vanesa Ražinskytė*
 
-*In the Scientific Committee -- Daniel Šematovič, Greta Zaburaitė*
+*In the Scientific Committee – Daniel Šematovič, Greta Zaburaitė*
 
 The VU Senate is the governing body of the University consisting of
 members of the academic community of VU. The Senate is responsible for
@@ -101,7 +101,7 @@ Resolution: The concept of teacher education was approved
 
 Benefits for students: With this concept, the University undertakes to
 mobilize all available creative, intellectual, and organizational
-potential, with the goal of educating educators of the XXI century --
+potential, with the goal of educating educators of the XXI century –
 teachers of subjects or specializations, specialists in helping the
 pupil and educational leaders of all levels. In the education of
 educators, four main priorities are highlighted in the concept - the
@@ -165,7 +165,7 @@ Benefits for students:
 - It will be possible to carry out internships not only individually,
     but also in groups;
 
-- The classification of practices has been changed -- in addition to
+- The classification of practices has been changed –in addition to
     the expected internships in the study programs, other internships
     are divided into voluntary, Erasmus+ and targeted internships.
 
@@ -238,7 +238,7 @@ during the internship.
 
 ### VU Central Dispute Resolution Commission
 
-*Student representatives -- Dominyka Goldbergaitė, Augustė Grakavinaitė,
+*Student representatives – Dominyka Goldbergaitė, Augustė Grakavinaitė,
 Simonas Granskas*
 
 The commission hears complaints about decisions of departmental dispute
@@ -248,7 +248,7 @@ during which 8 statements were considered.
 
 ### VU Central Commission for Academic Ethics
 
-*Student representatives* *-- Laura Mackevič, Jorigis Jonas Marčėnas,
+*Student representatives* *– Laura Mackevič, Jorigis Jonas Marčėnas,
 Dominyka Goldbergaitė (until April 2023), Martyna Pikelytė (from April
 2023).*
 
@@ -259,7 +259,7 @@ were examined.
 
 ### VU General University Studies (GUS) Commission
 
-*Student representatives -- Augustė Grakavinaitė, Klėja Merčaitytė*
+*Student representatives –gustė Grakavinaitė, Klėja Merčaitytė*
 
 The GUS Commission is responsible for the implementation of the GUS
 concept at the University, monitors the implementation of GUS subjects
@@ -295,9 +295,9 @@ adjustment, and updated GUSs:
 
 ### VU Central Electoral Commission
 
-*Student representative -- Airina Mikulėnaitė*
+*Student representative – Airina Mikulėnaitė*
 
-The Central Electoral Commission -- responsible for the proper
+The Central Electoral Commission – responsible for the proper
 organization of elections to the governing bodies of the University,
 registration of elected members of the Senate and the Board, and
 determination of the results of the rector\'s elections. If necessary,
@@ -331,10 +331,10 @@ title of honorary doctor was decided to be awarded to Koen Lenaerts.
 
 ### VU Admission Commission
 
-*Student representative -- Neda Žutautaitė*
+*Student representative – Neda Žutautaitė*
 
 The Commission considers and submits to the Rector of the University for
-approval the nominations for academic positions of top-level staff --
+approval the nominations for academic positions of top-level staff –
 professors and chief researchers. Considering student surveys, teaching
 experience and planned academic activities, the student representative,
 based on the data listed above, suggested that not all nominations be
@@ -343,7 +343,7 @@ nominations, 34 of which will be submitted to the Rector.
 
 ### VU One-Time Social Scholarship Distribution Commission
 
-*Student representatives* *-- Ieva Budreikaitė, Dominyka Goldbergaitė,
+*Student representatives* *– Ieva Budreikaitė, Dominyka Goldbergaitė,
 Daniel Šematovič*
 
 One-time social scholarships are support provided by the University to
@@ -356,7 +356,7 @@ to students, i.e., 19 044 Eur distributed in the autumn semester and 9
 
 ### VU One-Time Target Scholarship Distribution Commission
 
-*Student representatives -- Daniel Šematovič, Einoras Tiškevičius*
+*Student representatives – Daniel Šematovič, Einoras Tiškevičius*
 
 One-time targeted scholarships are incentive support provided by the
 University to students who actively participate in social, scientific,
@@ -368,7 +368,7 @@ Eur in the spring semester.
 
 ### VU Commission for Providing Pedagogical Titles of Professor and Associate Professor
 
-*Student representative -- Klėja Merčaitytė*
+*Student representative – Klėja Merčaitytė*
 
 The Commission considers and submits to the Senate for approval the
 candidatures of teachers for the award of pedagogical titles. During the
@@ -432,7 +432,7 @@ Ieva Bužienė, Associate Professor at the Business School.
 
 ### VU Study Quality Commission
 
-Student representative -- *Julja Jarutytė*
+Student representative –*Julja Jarutytė*
 
 The Commission was formed in accordance with the procedure for the
 preparation, execution and improvement of VU Study Programs. This
@@ -473,7 +473,7 @@ Improvement plans considered:
 
 ### Working Group on the Renewal of the Quality Manager of Studies at VU
 
-Student representative -- *Klėja Merčaitytė*
+Student representative – *Klėja Merčaitytė*
 
 The working group was formed after the approval of the University\'s
 strategic activity plan, which provided for the updating of the existing
@@ -529,7 +529,7 @@ Academy, the activity plans for 2023 and the intermediate results of the
 pedagogue development project implemented at VU and their links with the
 goals of the Concept of Pedagogue Education.
 
-### Working Group on the Development of a Plan for the Implementation of The Open Science Policy Guidelines**
+### Working Group on the Development of a Plan for the Implementation of The Open Science Policy Guidelines
 
 *Student representative - Neda Žutautaitė*
 
@@ -545,7 +545,7 @@ working group, the plan is still in the process of preparation.
 
 ### VU Inter-Directional Studies Concept Development Working Group
 
-*Student representative -- Neda Žutautaitė*
+*Student representative –Neda Žutautaitė*
 
 The working group was set up in order to develop the concept of
 inter-directional studies at Vilnius University, on the basis of which
@@ -572,7 +572,7 @@ the VU Green Deal was discussed and began to be prepared.
 
 ### VU 450th Anniversary Scholarship
 
-Student representatives -- *Ieva Budreikaitė, Airina Mikulėnaitė, Ieva
+Student representatives – *Ieva Budreikaitė, Airina Mikulėnaitė, Ieva
 Šiaudvytytė*
 
 The VU 450th Anniversary Scholarship is a support provided by the
@@ -592,19 +592,19 @@ competition for a nominal scholarship for the best final thesis prepared
 during studies. A grant of EUR 300 was awarded to the authors of the
 final thesis in the following categories:
 
-- \"Technological development of society\" -- for the best work
+- \"Technological development of society\" – for the best work
     exploring and presenting technological solutions that determine the
     development of society;
 
-- \"Societal challenges in the age of new technologies\" -- for the
+- \"Societal challenges in the age of new technologies\" – for the
     best work exploring the impact of robotics, digitalization and
     artificial intelligence on the development of society and its
     institutes;
 
-- \"Innovation for life\" -- for the best work that offers a
+- \"Innovation for life\" – for the best work that offers a
     technological solution to meet the needs of society;
 
-- \"Best interdisciplinary work\" -- for the best work, which deals
+- \"Best interdisciplinary work\" – for the best work, which deals
     with topical complex problems and combines research methods in
     different fields of science.
 
@@ -613,7 +613,7 @@ held, where the winners were selected.
 
 ### VU Canadian Lithuanian Nominal Scholarship Commission
 
-*Student representative -- Martyna Pikelytė*
+*Student representative – Martyna Pikelytė*
 
 The nominal scholarships of E. and V. Kadis, Lithuanians of Canada, are
 awarded to more socially vulnerable (due to a difficult financial
@@ -624,7 +624,7 @@ during which 3 scholarships were awarded to students.
 
 ## Regular Units, Committees And Commissions
 
-### Representation of students of the third (doctoral) cycle of studies**
+### Representation of students of the third (doctoral) cycle of studies
 
 During the reference period, 4 joint meetings took place with doctoral
 students, VU vice-rector of science, Doctorate and post-doctorate
@@ -687,7 +687,7 @@ by questionnaire, virtual target groups or a mixed method, and the
 collected and systematized data were used and presented during the
 meetings of the SPC. This year, a total of 435 meetings took place in
 different VU CAU, the main agenda of which in all the SPCs of the first
-cycle of studies was individual studies, and the postgraduate SPK --
+cycle of studies was individual studies, and the postgraduate SPK –
 from strategies for reducing the deprivation of students to changing the
 forms of settlement. You can get acquainted with the statistics of each
 VU CAU SPC meetings in more detail below:
@@ -712,7 +712,7 @@ VU CAU SPC meetings in more detail below:
 
 ### Meetings of Vice-Deans of Academic Affairs
 
-Student representative -- *Klėja Merčaitytė*
+Student representative – *Klėja Merčaitytė*
 
 During the meetings of the Vice-Deans of Academic Affairs, conclusions
 and recommendations for improving the University\'s study activities are
@@ -763,7 +763,7 @@ were categorized.
 
 ### VU Emotional Well-being Working Group
 
-Student representatives -- Dominyka Goldbergaitė, Julija Jarutytė, Neda
+Student representatives – Dominyka Goldbergaitė, Julija Jarutytė, Neda
 Žutautaitė
 
 The Emotional Well-being Working Group was set up to create a system for

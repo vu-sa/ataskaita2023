@@ -1,4 +1,4 @@
-# Ačiū, kad esate kartu
+# Thanks you for being with us
 
 <script setup lang="ts">
 import { teamPhotos, biuras, socakad, atstovai, kom, org, mark, hr, integration, admin, pkp, intl, lsp, other, dag } from '../../data/bendruomene'

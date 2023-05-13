@@ -1,6 +1,6 @@
-# Institucinio stiprinimo fondas
+# Institutional Strengthening Fund
 
-![ISF](../public/img/bendros-nuotraukos/ISF.jpg)
+![ISF](../../public/img/bendros-nuotraukos/ISF.jpg)
 
 ::: tip 📖 The Institutional Strengthening Fund is...
 Responsible for raising the
@@ -38,7 +38,7 @@ but also carried out the following projects:
 - Updated the guidelines for the transfer of experience and translated
     into English;
 
-- Continued the mentoring program -- this year 17 members had mentors.
+- Continued the mentoring program – this year 17 members had mentors.
 
 During the reference period, systematic work in the field of human
 resources continued:

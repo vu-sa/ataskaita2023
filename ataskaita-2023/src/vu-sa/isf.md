@@ -37,7 +37,7 @@ projektus:
 
 - Atnaujino patirties perdavimo gaires ir išvertė į anglų kalbą;
 
-- Tęsė mentorių programą -- šiais metais mentorius turėjo 17 narių.
+- Tęsė mentorių programą – šiais metais mentorius turėjo 17 narių.
 
 Ataskaitiniu laikotarpiu ir toliau tęstas sistemingas darbas žmogiškųjų
 išteklių srityje:

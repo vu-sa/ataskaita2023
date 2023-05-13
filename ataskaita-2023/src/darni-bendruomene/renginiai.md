@@ -40,7 +40,7 @@ Augustė Lyberytė.
 Vakarą užbaigė studentiška grupė „Planko malka" bei autentiška latino
 dainų grupė „Planeta Polar".
 
-Taip pat lapkričio 14--18 dienomis Vilniaus universiteto studentai (-ės)
+Taip pat lapkričio 14–18 dienomis Vilniaus universiteto studentai (-ės)
 galėjo pasinaudoti įvairiomis nuolaidomis sveikatingumo klube „The Royal
 Athletic Club", kino teatre „Pasaka", knygyne „Mint Vinetu", zoologijos
 sode „Zoopark" bei kepykloje „Margas košėlas".
@@ -157,10 +157,10 @@ ateitį kartu!
 Jurgis Bartkus bei studentai Martynas Zdanavičius ir Kamilė Paleckytė
 kalbėjo apie patirtis bei padėjo būsimiems studentams (-ėms) susidaryti
 realesnį įspūdį apie teisės studijas ir jų kasdienybę. Antrasis renginys
--- naktinės automobilių orientacinės. Trečiasis renginys -- „Aukcionas"
+– naktinės automobilių orientacinės. Trečiasis renginys – „Aukcionas"
 bei uždaromasis vakaras visiems dalyviams suteikė galimybę patirti
 nepamirštamų akimirkų kartu su fakulteto dėstytojais. Šiais metais
-Teisininkų Dienų aukciono metu buvo surinkta rekordinė suma -- 1929
+Teisininkų Dienų aukciono metu buvo surinkta rekordinė suma – 1929
 eurai, kurie skirti padėti Ukrainai. Teisininkų dienas uždarė VU TF SMD
 baigiamoji konferencija, subūrusi Vilniaus universiteto teisės bei kitų
 krypčių mokslininkus (-es), studentus (-es) ir kitus (-es) teisės mokslo
@@ -171,7 +171,7 @@ entuziastus (-es), suteikdama galimybę apžvelgti šių metų studentų
 
 ### Fiesta personae
 
-Kasmet pavasarį atgimstantis Filosofijos fakulteto dienų renginys --
+Kasmet pavasarį atgimstantis Filosofijos fakulteto dienų renginys –
 **Fiesta personae.** Šiais metais programoje galima buvo pasiklausyti
 diskusijos „Akis už akį. Ar mirties bausmė yra pateisinama?"; haiku
 kūrybinį vakarą „Mūzos beieškant"; psichologijos instituto renginį
@@ -189,7 +189,7 @@ dienų metu buvo išleistas ir laikraštis „Bursų kiemas".
 
 ### ATSIbusk
 
-Filosofijos fakultete organizuojamas ir „**ATSIbusk**" -- Vilniaus
+Filosofijos fakultete organizuojamas ir „**ATSIbusk**" – Vilniaus
 universiteto Filosofijos fakulteto Azijos ir transkultūrinių studijų
 instituto (ATSI) renginys, kurio istorija prasidėjo ankstyvą 2019 metų
 pavasarį, kai studentų (-čių) iniciatyva buvo surengta įvairių renginių,
@@ -203,9 +203,9 @@ sulaukė daug susidomėjimo ne tik iš dalyvių, bet ir įvairiausių įmonių.
 
 ### MeDi
 
-**MeDi --** nuo 1783-ųjų metų švenčiama tradicinė Vilniaus universiteto
-Medicinos fakulteto šventė -- viena seniausių Vilniaus universitete.
-MeDi'22 tema -- „Biomedicinos studentas daugiau nei stereotipas".
+**MeDi –** nuo 1783-ųjų metų švenčiama tradicinė Vilniaus universiteto
+Medicinos fakulteto šventė – viena seniausių Vilniaus universitete.
+MeDi'22 tema – „Biomedicinos studentas daugiau nei stereotipas".
 Renginių ciklu siekta parodyti, kokie įvairūs gali būti medicinos
 fakulteto bendruomenės nariai, o kartu sustiprinti po pandemijos
 susilpnėjusią bendruomenę bei suteikti reikiamų priemonių psichologinei
@@ -220,16 +220,16 @@ studijas baigusių žmonių lūpų išgirsti stereotipus, su kuriais
 dažniausiai susiduriama. Taip pat didžiuojamės ir bendradarbiavimu:
 kartu su studentų odontologų asociacija suorganizuoti kietųjų
 kompetencijų kėlimo įgūdžiai odontologijos studentams (-ėms), o su
-Lietuvos medicinos studentų asociacija -- slaugos praktinių įgūdžių
+Lietuvos medicinos studentų asociacija – slaugos praktinių įgūdžių
 formavimo veiklos visiems fakulteto bendruomenės nariams (-ėms).
 
 ### Informacijos dienos
 
 **Informacijos dienos** šiais metais džiugino organizuojamomis
-diskusijomis. Viena iš diskusijų -- „GO VILNIUS: Kaip išsiskirti iš
-minios?" su Karoliu Šimkumi. Antroji -- „Objektyvumas: Utopija ar
+diskusijomis. Viena iš diskusijų – „GO VILNIUS: Kaip išsiskirti iš
+minios?" su Karoliu Šimkumi. Antroji – „Objektyvumas: Utopija ar
 realybe?" kartu su Birutė Davidonytė ir Aleksandra Katleriene. Trečioji
--- „Ar socialinės medijos keičia gyvenimą?" su Paul de Miko ir Viktorija
+– „Ar socialinės medijos keičia gyvenimą?" su Paul de Miko ir Viktorija
 Šaulyte-Mocke.
 
 ### Verslininkų dienos
@@ -239,7 +239,7 @@ renginių ciklą su atidaromąja diskusija „Ateities verslas", kurioje
 dalyvavo VU VM direktorė dr. Birutė Miškinienė, EY Talentų atrankos
 komandos vadovė Vaidonė Eidukonienė ir buvęs VM dėstytojas Taurimas
 Valys, vėliau visų laukė orientacinės varžybos, o viską užbaigė
-uždaromasis vakaras -- protmūšis.
+uždaromasis vakaras – protmūšis.
 
 ### Politologų dienos
 
@@ -264,7 +264,7 @@ miesto svečius dalyvauti įvairiuose renginiuose. Šiais metais įvyko
 orientacinės varžybos, šachmatų turnyras, sporto dienos, įmonių mugė,
 protmūšis, uždarymo vakaras, grąžintas sportinio pokerio turnyras, o LAN
 Party truko net 3 dienas, viena iš jų dedikuota Minecraft dekatlonui.
-Pirmą kartą surengtos 1976-aisiais, šiemet MIDI organizuotos 42--ąjį
+Pirmą kartą surengtos 1976-aisiais, šiemet MIDI organizuotos 42–ąjį
 kartą.
 
 <LightboxPictureArray :photos="midi" />
