@@ -16,8 +16,8 @@ export default {
 
         ],
         logo: {
-            light: '/img/logos/vusa.RGB.b.png',
-            dark: '/img/logos/vusa.RGB.w.png',
+            light: '/img/logos/vusa-en-b.png',
+            dark: '/img/logos/vusa-en-w.png',
         },
         sidebar: [
             {

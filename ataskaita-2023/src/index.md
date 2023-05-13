@@ -8,10 +8,10 @@ hero:
   tagline: "Vieningai Už Studentų Ateitį!"
   image:
     light:
-      src: ./img/logos/vusa.RGB.b.png
+      src: ./img/logos/vusa-lt-b.png
       alt: VU SA
     dark: 
-      src: ./img/logos/vusa.RGB.w.png
+      src: ./img/logos/vusa-lt-w.png
       alt: VU SA
   actions:
     - theme: brand

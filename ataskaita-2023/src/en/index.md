@@ -8,10 +8,10 @@ hero:
   tagline: "VU SR report for 2022-2023"
   image:
     light:
-      src: ../img/logos/vusa.RGB.b.png
+      src: ../img/logos/vusa-en-b.png
       alt: VU SA
     dark: 
-      src: ../img/logos/vusa.RGB.w.png
+      src: ../img/logos/vusa-en-w.png
       alt: VU SA
   actions:
     - theme: brand

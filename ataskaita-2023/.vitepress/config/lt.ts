@@ -16,8 +16,8 @@ const ltConfig: LocaleSpecificConfig<DefaultTheme.Config> = {
             label: 'Šiame puslapyje...',
         },
         logo: {
-            light: '/img/logos/vusa.RGB.b.png',
-            dark: '/img/logos/vusa.RGB.w.png',
+            light: '/img/logos/vusa-lt-b.png',
+            dark: '/img/logos/vusa-lt-w.png',
         },
         nav: [
         //     { text: 'Sveikinimai', link: '/sveikinimai' },
