@@ -18,7 +18,7 @@ veiklą.
 ::: details 2022–2023 m. VU SA Tarybą sudarė...
 
 <section class="grid grid-cols-1 sm:grid-cols-2 gap-6 p-4" >
-    <PersonAvatar :size="56" :src="member.avatar" v-for="member in taryba" >
+    <PersonAvatar :src="member.avatar" v-for="member in taryba" >
     <div class="flex flex-col leading-5">
         <strong class="text-md/4">{{member.name}}</strong>
         <span class="text-xs">{{ member.title}}</span></div>

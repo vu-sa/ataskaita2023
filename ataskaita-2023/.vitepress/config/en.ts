@@ -1,10 +1,10 @@
 export default {
-    title: "Report 2022-2023",
+    title: "Report 2023",
     description: "VU Student Representation's annual report for 2022-2023 term.",
     themeConfig: {
         nav: [
         //     { text: 'Congratulations', link: '/en/sveikinimai' },
-            { text: 'Structure', link: '/en/vu-sa/strategija' },
+            { text: 'Structure', link: '/en/vu-sa/parlamentas' },
             { text: 'Goals', link: '/en/mvp/mvp' },
             { text: 'Strategic directions', items: [
                 { text: 'High quality studies and its environment', link: '/en/kokybiskos-studijos/nacionalinis' },
@@ -15,7 +15,10 @@ export default {
             // { text: 'Acknowledgments', link: '/en/padeka' },
 
         ],
-
+        logo: {
+            light: '/img/logos/vusa.RGB.b.png',
+            dark: '/img/logos/vusa.RGB.w.png',
+        },
         sidebar: [
             {
                 text: 'VU SR structure ⭐️',
@@ -57,6 +60,7 @@ export default {
                     },
                     {
                         text: 'Sustainable university community',
+                        link: '/en/darni-bendruomene/darni-bendruomene',
                         collapsed: true,
                         items: [
                             { text: 'Community events', link: '/en/darni-bendruomene/renginiai' },

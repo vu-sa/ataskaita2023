@@ -5,7 +5,7 @@ layout: home
 hero:
   name: "VU SA ataskaita"
   text: "už 2022-2023 m."
-  tagline: "VU SA ataskaita už 2022-2023 m."
+  tagline: "Vieningai Už Studentų Ateitį!"
   image:
     light:
       src: ./img/logos/vusa.RGB.b.png
@@ -15,8 +15,11 @@ hero:
       alt: VU SA
   actions:
     - theme: brand
-      text: Skaityti
-      link: /vu-sa/strategija
+      text: Sužinok apie šių metų veiklą!
+      link: /vu-sa/parlamentas
+    - theme: alt
+      text: Praėjusių metų ataskaita
+      link: https://vusa.lt/ataskaita-2022
 ---
 
 <script setup lang="ts">
@@ -46,7 +49,7 @@ import { biuras } from "../data/bendruomene.ts";
         Your browser does not support the video tag.
       </video>
     </figure>
-    <svg class="absolute w-32 h-32 text-[#bd28344a] dark:text-zinc-300/20 left-0 md:-left-12 -top-4" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" fill="none" stroke-linecap="round" stroke-linejoin="round">
+    <svg class="absolute w-32 h-32 text-[#bd28344a] dark:text-zinc-300/20 left-0 md:-left-8 -top-4" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" fill="none" stroke-linecap="round" stroke-linejoin="round">
    <path stroke="none" d="M0 0h24v24H0z" fill="none"></path>
    <path d="M7 4v16l13 -8z"></path>
 </svg>
@@ -67,10 +70,10 @@ import { biuras } from "../data/bendruomene.ts";
 
 <section class="lg:px-2 px-1.5 isolate">
   <div class="max-w-6xl mx-auto">
-    <Carousel :transition="600" :autoplay="4500" pause-autoplay-on-hover wrap-around>
+    <Carousel :transition="700" :autoplay="10000" pause-autoplay-on-hover wrap-around>
       <Slide :index="0">
         <TestimonialElement class="p-4" img-src="/ataskaita-2023/img/sveikinimai/rektorius.jpg" person-name="prof. Rimvydas Petrauskas" person-position="Vilniaus universiteto Rektorius" href="/sveikinimai" button-text="Sveikinimo kalba">
-        Sveikinu Vilniaus universiteto Studentų atstovybę, kuri prisiima pareigą
+        „Sveikinu Vilniaus universiteto Studentų atstovybę, kuri prisiima pareigą
           ir atsakomybę suvokti, derinti ir ginti labai didelės ir įvairios
           studentų bendruomenės interesus, siekdama sukurti kuo geresnes sąlygas
           kiekvienam studentui, o kartu prisidėdama prie visos valstybės ir
@@ -79,7 +82,7 @@ import { biuras } from "../data/bendruomene.ts";
       </Slide>
       <Slide :index="1">
         <TestimonialElement class="p-4" img-src="/ataskaita-2023/img/sveikinimai/MP-portretas.jpg" person-name="Ingrida Šimonytė" person-position="Lietuvos Respublikos Ministrė Pirmininkė" href="/sveikinimai" button-text="Sveikinimo kalba">
-        Džiaugiuosi ir didžiuojuosi, kad VU SA neliko stebėtoja – ėmėtės
+        „Džiaugiuosi ir didžiuojuosi, kad VU SA neliko stebėtoja – ėmėtės
           globoti kiekvieną ukrainietį (-ę) studentą (-ę), įstojusį (-ią) į VU
           šeimą, ieškojote jiems namų ir padėjote jaustis visapusiškai saugiau
           nežinomybės ir neapibrėžtumo situacijoje.“
@@ -96,7 +99,7 @@ import { biuras } from "../data/bendruomene.ts";
       <Slide :index="3">
         <TestimonialElement class="p-4" img-src="/ataskaita-2023/img/sveikinimai/vcn.jpeg" person-name="Viktorija Čmilytė-Nielsen" person-position="LR Seimo Pirmininkė" href="/sveikinimai" button-text="Sveikinimo kalba">
         „Kol yra tokių motyvuotų žmonių, kokie esate Jūs, galime būti ramūs dėl
-        Lietuvos, Europos ir pasaulio likimo.Linkiu Jūsų bendruomenei įvairiapusės sėkmės. Nenustokite tobulėti,
+        Lietuvos, Europos ir pasaulio likimo. Linkiu Jūsų bendruomenei įvairiapusės sėkmės. Nenustokite tobulėti,
         mokytis ir džiaugtis. Būkite drąsūs, tvirti ir vieningi!“
         </TestimonialElement>
       </Slide>

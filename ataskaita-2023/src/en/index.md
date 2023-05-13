@@ -3,14 +3,21 @@
 layout: home
 
 hero:
-  name: "VU SA Report"
+  name: "VU SR report"
   text: "for 2022-2023"
-  tagline: "VU SA Report for 2022-2023"
+  tagline: "VU SR report for 2022-2023"
+  image:
+    light:
+      src: ../img/logos/vusa.RGB.b.png
+      alt: VU SA
+    dark: 
+      src: ../img/logos/vusa.RGB.w.png
+      alt: VU SA
   actions:
     - theme: brand
-      text: Learn more
-      link: /en/vu-sa/strategija
-    # - theme: alt
-    #   text: API Examples
-    #   link: /api-examples
+      text: Learn about this year!
+      link: /en/vu-sa/parlamentas
+    - theme: alt
+      text: Last year's report
+      link: https://vusa.lt/ataskaita-2022/en/
 ---

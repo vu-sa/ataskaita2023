@@ -21,7 +21,7 @@ const ltConfig: LocaleSpecificConfig<DefaultTheme.Config> = {
         },
         nav: [
         //     { text: 'Sveikinimai', link: '/sveikinimai' },
-            { text: 'Struktūros', link: '/vu-sa/strategija' },
+            { text: 'Struktūros', link: '/vu-sa/parlamentas' },
             { text: 'Tikslai', link: '/mvp/strateginiai' },
             { text: 'Strateginės kryptys', items: [
                 { text: 'Kokybiškos studijos ir joms pritaikyta aplinka', link: '/kokybiskos-studijos/nacionalinis' },
@@ -77,6 +77,7 @@ const ltConfig: LocaleSpecificConfig<DefaultTheme.Config> = {
                     },
                     {
                         text: 'Darni universitetinė bendruomenė',
+                        link: '/darni-bendruomene/darni-bendruomene',
                         collapsed: true,
                         items: [
                             { text: 'Renginiai', link: '/darni-bendruomene/renginiai' },
