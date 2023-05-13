@@ -82,6 +82,8 @@ Daugiau apie ISF [skaitykite čia](/stipri-organizacija/isf.md).
 
 ## Administratoriai
 
+![Administratoriai](public/img/bendros-nuotraukos/LSP-koord.jpg)
+
 <TeamAvatarLayout :members="admin" />
 
 ## PKP
@@ -97,8 +99,6 @@ Daugiau apie ISF [skaitykite čia](/stipri-organizacija/isf.md).
 <TeamAvatarLayout :members="intl" />
 
 ## LSP koordinatoriai
-
-![LSP](public/img/bendros-nuotraukos/LSP-koord.jpg)
 
 <TeamAvatarLayout :members="lsp" />
 

@@ -6,7 +6,7 @@
         <p class="text-2xl font-black mb-4 tracking-tight">
             <slot name="title" /> 
         </p>
-        <div class="line-clamp-6 text-sm/5 font-light max-w-[65ch]">
+        <div class="text-sm/5 font-light max-w-[65ch]">
           <slot />
         </div>
         <VPButton class="z-10 mt-auto w-fit" :text="buttonText ?? 'Skaityti daugiau'" :href="href"></VPButton>

@@ -80,6 +80,8 @@ More about ISF [read here](/en/stipri-organizacija/isf.md).
 
 ## Administrators
 
+![Administrators](../public/img/bendros-nuotraukos/LSP-koord.jpg)
+
 <TeamAvatarLayout :members="admin" />
 
 ## Programs, Clubs and Projects
@@ -95,8 +97,6 @@ More about ISF [read here](/en/stipri-organizacija/isf.md).
 <TeamAvatarLayout :members="intl" />
 
 ## Coordinators of LSIC
-
-![LSP](../public/img/bendros-nuotraukos/LSP-koord.jpg)
 
 <TeamAvatarLayout :members="lsp" />
 

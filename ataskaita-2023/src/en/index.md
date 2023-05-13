@@ -156,27 +156,27 @@ remember that you are always welcome at our Library!“
 <section class="lg:px-2 px-4 isolate mt-16">
     <p class="mx-auto w-fit text-4xl font-bold my-8"><span class="italic">Stories</span> of the year</p>
   <div class="max-w-5xl mx-auto grid grid-cols-1 lg:grid-cols-2 gap-7">
-    <ElementWithBg button-text="Read more" class="h-[21rem]" img-src="/ataskaita-2023/img/renginiai/biblioteka/FC0BE34F-EA5F-43D7-A5C4-4BDB81CFD4D1.jpg" :color-classes="['bg-[rgba(60,12,6,0.95)] dark:bg-zinc-900/90']">
+    <ElementWithBg href="/en/kokybiskos-studijos/vu#vu-senate" button-text="Read more" class="h-[36rem]" img-src="/ataskaita-2023/img/renginiai/biblioteka/FC0BE34F-EA5F-43D7-A5C4-4BDB81CFD4D1.jpg" :color-classes="['bg-[rgba(60,12,6,0.95)] dark:bg-zinc-900/90']">
       <template #title>Individual studies </template>
       <p class="mb-4">On June 21st, 2022, VU Senate approved new Study Regulations, which established individual studies. </p>
       <p>From 2023 onwards, students enrolled in bachelor's and integral studies will study in updated programs, where at least 60 ECTS credits (if studies last for 4 years) will be allocated ...</p>
     </ElementWithBg>
-    <ElementWithBg button-text="Read more" class="h-[21rem]" img-src="/ataskaita-2023/img/renginiai/tvarumo-festivalis/_DSC0255.jpg" :color-classes="['bg-[rgba(60,45,17,0.98)] dark:bg-zinc-900/90']">
+    <ElementWithBg href="/en/stipri-organizacija/projektai" button-text="Read more" class="h-[36rem]" img-src="/ataskaita-2023/img/renginiai/tvarumo-festivalis/_DSC0255.jpg" :color-classes="['bg-[rgba(60,45,17,0.98)] dark:bg-zinc-900/90']">
       <template #title>Encouraging students to create their own initiatives</template>
       <p class="mb-4">An environment in which students can create their own initiatives and discover a community close to them has always been one of our most important topics. </p>
       <p> During this year, the ECSTRA project was completed. A system of support and promotion ... </p>
     </ElementWithBg>
-    <ElementWithBg button-text="Read more" class="h-[21rem]" img-src="/ataskaita-2023/img/renginiai/gimtadienis/Gabija_Matkutė_VUSA_(95).jpg" :color-classes="['bg-[rgba(38,25,17,0.95)] dark:bg-zinc-800/90']">
+    <ElementWithBg href="/en/darni-bendruomene/integracija" button-text="Read more" class="h-[36rem]" img-src="/ataskaita-2023/img/renginiai/gimtadienis/Gabija_Matkutė_VUSA_(95).jpg" :color-classes="['bg-[rgba(38,25,17,0.95)] dark:bg-zinc-800/90']">
       <template #title>Foreign students – equal members of the community</template>
       <p class="mb-4">The importance of internationalization at the University is increasing. The number of foreign students is growing.</p>
       <p> In order to improve the experience of foreign students at Vilnius University, we took care of their integration both by... </p>
     </ElementWithBg>
-    <ElementWithBg button-text="Read more" class="h-[21rem]" img-src="/ataskaita-2023/img/renginiai/gimtadienis/Gabija_Matkutė_VUSA_(193).jpg" :color-classes="['bg-[rgba(24,39,17,0.95)] dark:bg-neutral-900/90']">
+    <ElementWithBg href="/en/darni-bendruomene/integracija" button-text="Read more" class="h-[36rem]" img-src="/ataskaita-2023/img/renginiai/gimtadienis/Gabija_Matkutė_VUSA_(193).jpg" :color-classes="['bg-[rgba(24,39,17,0.95)] dark:bg-neutral-900/90']">
       <template #title>Green University </template>
       <p class="mb-4">In autumn, with the commitment of each VU SR member to contribute to the creation of the Green University and the integration of green principles not only within the framework of the Organization, but also throughout the University, we signed the Declaration of Sustainability. </p>
       <p>The VU SR Sustainability Declaration and our strategic agreement was approved by...</p>
     </ElementWithBg>
-    <ElementWithBg class="lg:col-span-2 lg:w-1/2 mx-auto h-[21rem]" img-src="/ataskaita-2023/img/renginiai/pavasario-mokymai/IMG_7243.jpg" :color-classes="['bg-gradient-to-tr from-[rgba(48,39,17,0.95)] to-[rgba(60,12,6,0.95)] dark:bg-slate-900/90']" button-text="Read more">
+    <ElementWithBg href="/en/vu-sa/parlamentas#priimta-vu-sa-tvarumo-deklaracija" class="lg:col-span-2 lg:w-1/2 mx-auto h-[36rem]" img-src="/ataskaita-2023/img/renginiai/pavasario-mokymai/IMG_7243.jpg" :color-classes="['bg-gradient-to-tr from-[rgba(48,39,17,0.95)] to-[rgba(60,12,6,0.95)] dark:bg-slate-900/90']" button-text="Read more">
       <template #title>Initiative "Higher education is not too high"</template>
       <p class="mb-4">The initiative brought together a network of 48 student ambassadors. The student ambassadors went to 22 regional schools where they met with the scholars and talked about the possibilities of higher education. </p>
       <p> Together with the Ministry of Education, Science and Sport of the Republic of Lithuania ... </p>

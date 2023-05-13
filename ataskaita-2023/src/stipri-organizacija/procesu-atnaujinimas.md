@@ -34,19 +34,17 @@ Organizacijos ir Universiteto veiklą stiprinti, 2022–2023 m. įsitraukė
 
 VU SA konsultavimo grupę ataskaitiniu laikotarpiu sudarė:
 
-Lijana Savickienė (Konsultavimo grupės vadovė, VU KnF)
+- Lijana Savickienė (Konsultavimo grupės vadovė, VU KnF)
 
-Kasparas Japertas (konsultantas, VU GMC)
+- Kasparas Japertas (konsultantas, VU GMC)
 
-Rokas Stankūnas (konsultantas, VU KnF)
+- Rokas Stankūnas (konsultantas, VU KnF)
 
-Kamilė Leonaitė (konsultantė, VU KnF)
+- Kamilė Leonaitė (konsultantė, VU KnF)
 
-Neda Rasimavičiūtė (konsultantė, VU IF)
+- Neda Rasimavičiūtė (konsultantė, VU IF)
 
-## VU SA Strateginio veiklos plano 2022–2025 m. ir pamatavimo rodiklių
-
-patvirtinimas
+## VU SA Strateginio veiklos plano 2022–2025 m. ir pamatavimo rodiklių patvirtinimas
 
 Ataskaitiniu laikotarpiu baigėsi 2019-2022 m. galiojusio VU SA
 Strateginio veiklos plano laikotarpis. Per 2022 metus organizacijoje
