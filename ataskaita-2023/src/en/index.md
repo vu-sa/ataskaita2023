@@ -46,8 +46,8 @@ import { biuras } from "../../data/bendruomene.ts";
       </figcaption>
       <video playsinline autoplay controls muted loop class="md:w-1/2 mx-auto rounded-lg order-1 md:order-2 z-20 shadow-lg object-cover aspect-video">
         <source src="/video/Nedos-kalba.mp4" type="video/mp4">
-        <track src="/video/Nedos-kalba-LT.vtt" kind="subtitles" srclang="lt" label="Lietuvių">
-        <track default src="/video/Nedos-kalba-EN.vtt" kind="subtitles" srclang="lt" label="English">
+        <track src="/ataskaita-2023/video/Nedos-kalba-LT.vtt" kind="subtitles" srclang="lt" label="Lietuvių">
+        <track default src="/ataskaita-2023/video/Nedos-kalba-EN.vtt" kind="subtitles" srclang="lt" label="English">
         Your browser does not support the video tag.
       </video>
     </figure>

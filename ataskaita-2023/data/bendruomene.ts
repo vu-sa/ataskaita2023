@@ -330,7 +330,7 @@ export const taryba = [
     avatar:
       "/ataskaita-2023/img/koordinatoriu-nuotraukos/taryba/Anelė-Dromantaitė-(TSPMI).jpg",
   },
-  
+
   {
     name: "Edgaras Kodis",
     title: "VU SA VM pirmininkas",
@@ -470,10 +470,10 @@ export const admin = [
       "/ataskaita-2023/img/koordinatoriu-nuotraukos/administratoriai/Gabija-Raubaitė-FSF.jpg",
   },
   {
-    name: "Kamilė Peleckytė",
+    name: "Martyna Vaitkūnaitė",
     title: "VU SA GMC",
     avatar:
-      "/ataskaita-2023/img/koordinatoriu-nuotraukos/administratoriai/Kamilė-Peleckytė--(TF).jpg",
+      "/ataskaita-2023/img/koordinatoriu-nuotraukos/administratoriai/Martyna-Vaitkūnaitė-GMC.jpg",
   },
   {
     name: "Gabrielė Šiaudytytė",
